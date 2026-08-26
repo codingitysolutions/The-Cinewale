@@ -557,3 +557,17 @@ h1.custom-contact-heading {
         font-size: 32px !important;
     }
 }
+
+/* Force Bodoni Moda globally as the primary serif font so mobile matches desktop */
+:root {
+    --heading-font-family: 'Bodoni Moda', 'Times New Roman', serif !important;
+    --body-font-font-family: 'Bodoni Moda', 'Times New Roman', serif !important;
+    --font-body: 'Bodoni Moda', 'Times New Roman', serif !important;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, .sqsrte-scaled-text, [data-rte-preserve-empty="true"] {
+    font-family: 'Bodoni Moda', 'Times New Roman', serif !important;
+}
+a, .header-nav-item a, .header-menu-nav-item a, .sqs-block-button-element, .list-item-content__title, .list-item-content__description {
+    font-family: 'Bodoni Moda', 'Times New Roman', serif !important;
+}
