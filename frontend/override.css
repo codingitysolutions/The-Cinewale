@@ -1,0 +1,559 @@
+/* Force Header to Scroll with Page */
+body .header-announcement-bar-wrapper,
+body header#header,
+body .header,
+body #siteHeader,
+body .sqs-announcement-bar-dropzone {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+}
+
+/* Disable hover effects on Instagram gallery images */
+.sqs-gallery-block-grid .slide a:hover img,
+.sqs-gallery-block-grid .slide a:hover,
+.sqs-gallery-block-grid .slide img:hover,
+.sqs-gallery-block-grid .margin-wrapper:hover img {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+    box-shadow: none !important;
+}
+
+/* Hide any overlay that might show up on hover */
+.sqs-gallery-block-grid .slide .image-slide-title,
+.sqs-gallery-block-grid .slide .image-overlay,
+.sqs-gallery-block-grid .slide::after,
+.sqs-gallery-block-grid .slide::before {
+    display: none !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+/* Aggressively disable ALL hover effects in the Instagram section */
+[data-section-id="68013962cdac924e3a73ccc0"] *:hover,
+[data-section-id="68013962cdac924e3a73ccc0"] .sqs-gallery-block-grid *:hover,
+.sqs-gallery-block-grid .slide *:hover {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+    background-color: transparent !important;
+    color: inherit !important;
+}
+
+/* Also override any transition to 0s to kill js animations */
+.sqs-gallery-block-grid .slide, 
+.sqs-gallery-block-grid .slide * {
+    transition: none !important;
+}
+
+
+/* Always show and enlarge Lightbox Arrows */
+.sqs-lightbox-previous, 
+.sqs-lightbox-next {
+    opacity: 1 !important;
+    visibility: visible !important;
+    background-color: rgba(0,0,0,0.5) !important;
+    border-radius: 50%;
+}
+.sqs-lightbox-previous::before, 
+.sqs-lightbox-next::before {
+    color: white !important;
+    font-size: 30px !important;
+}
+
+/* Force Squarespace Lightbox Arrows to always be visible and prominent */
+.sqs-lightbox-previous, 
+.sqs-lightbox-next {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
+    background-color: rgba(0,0,0,0.7) !important;
+    border-radius: 50% !important;
+    width: 50px !important;
+    height: 50px !important;
+    line-height: 50px !important;
+    text-align: center !important;
+    transition: all 0.2s ease !important;
+}
+
+.sqs-lightbox-previous:hover, 
+.sqs-lightbox-next:hover {
+    background-color: rgba(255,255,255,0.2) !important;
+    transform: scale(1.1) !important;
+}
+
+/* Position them explicitly to make sure they are seen */
+.sqs-lightbox-previous {
+    left: 20px !important;
+}
+.sqs-lightbox-next {
+    right: 20px !important;
+}
+
+/* Style the icon inside */
+.sqs-lightbox-previous::before, 
+.sqs-lightbox-next::before {
+    color: white !important;
+    font-size: 24px !important;
+    line-height: 50px !important;
+}
+
+/* Force Squarespace Gallery into a true CSS Grid, overriding JS Masonry */
+#block-cb30cac92a1439901d45 .sqs-gallery-container {
+    height: auto !important;
+}
+#block-cb30cac92a1439901d45 .sqs-gallery {
+    display: grid !important;
+    grid-template-columns: repeat(6, 1fr) !important;
+    gap: 2px !important;
+    height: auto !important;
+    width: 100% !important;
+}
+#block-cb30cac92a1439901d45 .sqs-gallery .slide {
+    position: static !important;
+    width: 100% !important;
+    height: auto !important;
+    transform: none !important;
+    float: none !important;
+    clear: none !important;
+    margin: 0 !important;
+    opacity: 1 !important;
+}
+#block-cb30cac92a1439901d45 .sqs-gallery .slide img {
+    position: static !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}
+@media (max-width: 768px) {
+    #block-cb30cac92a1439901d45 .sqs-gallery {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+}
+
+/* Force Aspect Ratio so images don't collapse to 0 height */
+#block-cb30cac92a1439901d45 .sqs-gallery .slide {
+    aspect-ratio: 4 / 5 !important;
+    overflow: hidden !important;
+    position: relative !important;
+    height: auto !important;
+    width: 100% !important;
+}
+
+#block-cb30cac92a1439901d45 .sqs-gallery .slide img {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
+}
+
+/* Aggressive visibility for Instagram Grid */
+#block-cb30cac92a1439901d45,
+#block-cb30cac92a1439901d45 .sqs-block-content,
+#block-cb30cac92a1439901d45 .sqs-gallery-container,
+#block-cb30cac92a1439901d45 .sqs-gallery {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    height: auto !important;
+    min-height: 100px !important;
+}
+
+#block-cb30cac92a1439901d45 .sqs-gallery {
+    display: grid !important; /* overrides the block above for this specific element */
+}
+
+/* Force Video Overlays to be visible (they were stuck at opacity: 0) */
+#block-cb30cac92a1439901d45 .sqs-video-overlay {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    z-index: 10 !important;
+}
+#block-cb30cac92a1439901d45 .sqs-video-overlay img {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
+}
+#block-cb30cac92a1439901d45 .sqs-video-icon {
+    display: none !important; /* Hide play icon so it looks like a clean grid, or keep it? I'll hide it for a cleaner grid as requested */
+}
+
+/* Set CRAFTING WEDDINGS INTO CINEMA text to #791112 */
+#block-yui_3_17_2_1_1722674559841_54201 h1,
+#block-yui_3_17_2_1_1722674559841_54201 h1 span,
+#block-yui_3_17_2_1_1722674559841_54201 h1 strong {
+    color: #791112 !important;
+    -webkit-text-fill-color: #791112 !important;
+}
+
+[id="66adf9c52e735457c7814c2f"] p,
+.list-section-title p {
+    color: #791112 !important;
+    -webkit-text-fill-color: #791112 !important;
+}
+
+/* Set "Follow Us Along On Instagram" text to #791112 */
+#block-4d41d77c47602319fcc0 h1,
+#block-4d41d77c47602319fcc0 h1 span,
+#block-4d41d77c47602319fcc0 h1 strong {
+    color: #791112 !important;
+    -webkit-text-fill-color: #791112 !important;
+}
+
+/* Set "As Featured In" text to #791112 */
+#block-3ef006af51c80ba41470 h1,
+#block-3ef006af51c80ba41470 h1 span,
+#block-3ef006af51c80ba41470 h1 strong {
+    color: #791112 !important;
+    -webkit-text-fill-color: #791112 !important;
+}
+
+/* Force Pinterest icon to display in the footer */
+.sqs-svg-icon--wrapper.pinterest-unauth {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+/* Fix Instagram grid items to perfectly fill their cells */
+#block-cb30cac92a1439901d45 .sqs-gallery .slide .margin-wrapper,
+#block-cb30cac92a1439901d45 .sqs-gallery .slide a,
+#block-cb30cac92a1439901d45 .sqs-gallery .slide .sqs-video-wrapper {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+}
+
+#block-cb30cac92a1439901d45 .sqs-gallery .slide img {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
+}
+
+#custom-lightbox-prev, #custom-lightbox-next {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 60px;
+    height: 60px;
+    background: transparent;
+    transition: transform 0.2s ease;
+}
+#custom-lightbox-prev:hover, #custom-lightbox-next:hover {
+    transform: scale(1.1);
+}
+
+
+/* Hide all old image blocks under As Featured In */
+.fluid-engine.fe-66adf9c52e735457c7814c3b > .fe-block {
+    display: none !important;
+}
+/* Keep the heading block visible (it now contains our custom grid) */
+.fluid-engine.fe-66adf9c52e735457c7814c3b > .fe-block-3ef006af51c80ba41470 {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+}
+.fluid-engine.fe-66adf9c52e735457c7814c3b {
+    display: block !important;
+    padding-bottom: 60px !important;
+}
+
+.custom-logos-grid {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    row-gap: 100px !important;
+    column-gap: 50px !important;
+    align-items: center !important;
+    justify-items: center !important;
+    max-width: 1600px !important; width: 95% !important;
+    margin: 100px auto !important;
+    padding: 0 20px !important;
+}
+
+.custom-logos-grid .logo-item {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+}
+
+.custom-logos-grid .logo-img {
+    max-width: 100% !important;
+    object-fit: contain !important;
+    height: auto !important;
+}
+
+.logo-op { width: 100% !important; max-height: none !important; }
+.logo-wmg { width: 60% !important; max-height: none !important; }
+.logo-toi { width: 100% !important; max-height: none !important; }
+.logo-zk { width: 65% !important; max-height: none !important; }
+.logo-pr { width: 90% !important; max-height: none !important; }
+.logo-cv { width: 60% !important; max-height: none !important; }
+
+@media (max-width: 768px) {
+    .custom-logos-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+        row-gap: 60px !important;
+        margin: 60px auto !important;
+    }
+    .custom-logos-grid .logo-img {
+        max-width: 95% !important;
+    }
+}
+@media (max-width: 480px) {
+    .custom-logos-grid {
+        grid-template-columns: 1fr !important;
+        row-gap: 50px !important;
+    }
+}
+
+/* Remove white background using CSS blend mode */
+.logo-cv {
+    mix-blend-mode: multiply !important;
+}
+
+/* Force ALL PNG logos to act as transparent masks over the website background */
+.custom-logos-grid .logo-img {
+    mix-blend-mode: multiply !important;
+}
+
+.logo-wmg, .logo-toi {
+    mix-blend-mode: multiply !important;
+    filter: contrast(1.2) brightness(1.05) grayscale(100%) !important;
+}
+
+/* Force placeholder color for newsletter */
+.nl-input::placeholder {
+  color: #8c7b6c !important;
+  -webkit-text-fill-color: #8c7b6c !important;
+  opacity: 1 !important;
+}
+
+/* Hide the FILMS page from navigation menus temporarily */
+.header-nav-item:has(a[href="/films"]) {
+  display: none !important;
+}
+.header-menu-nav-item:has(a[href="/films"]) {
+  display: none !important;
+}
+/* Fallback if :has is not supported */
+a[href="/films"] {
+  display: none !important;
+}
+
+/* Fix Squarespace WebGL background images that are hidden because the JS doesn't run in React */
+.section-background-content[data-controller*="BackgroundImageFX"] img.background-image-fx {
+    visibility: visible !important;
+    opacity: 1 !important;
+    display: block !important;
+}
+/* Ensure the canvas doesn't block the image if it's there */
+.section-background-canvas.background-fx-canvas {
+    display: none !important;
+}
+
+
+
+
+/* Custom Contact Form Styles */
+.custom-contact-form {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: var(--body-font-font-family, 'Helvetica Neue', Arial, sans-serif);
+    color: #333;
+    padding: 20px;
+}
+.custom-contact-form .form-item {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+}
+.custom-contact-form label.main-label {
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+}
+.custom-contact-form label.main-label span {
+    color: #777;
+    font-size: 12px;
+}
+.custom-contact-form label.sub-label {
+    margin-bottom: 5px;
+    font-size: 11px;
+    font-weight: 400;
+    color: #555;
+    display: block;
+}
+.custom-contact-form label.sub-label span {
+    color: #777;
+}
+.custom-contact-form .two-columns {
+    display: flex;
+    gap: 20px;
+}
+.custom-contact-form .two-columns .column {
+    flex: 1;
+}
+.custom-contact-form .phone-columns .country-col {
+    flex: 3.5;
+}
+.custom-contact-form .phone-columns .number-col {
+    flex: 6.5;
+}
+.custom-contact-form input[type="text"],
+.custom-contact-form input[type="email"],
+.custom-contact-form input[type="tel"],
+.custom-contact-form select,
+.custom-contact-form textarea {
+    width: 100%;
+    padding: 14px 15px;
+    background-color: #fff;
+    border: 1px solid #222;
+    color: #333;
+    font-size: 15px;
+    outline: none;
+    transition: border-color 0.3s ease;
+    box-sizing: border-box;
+}
+.custom-contact-form input:focus,
+.custom-contact-form select:focus,
+.custom-contact-form textarea:focus {
+    border-color: #67161b;
+}
+.custom-contact-form .checkbox-group {
+    margin-bottom: 10px;
+}
+.custom-contact-form .checkbox-group label {
+    display: inline-flex;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 400;
+    color: #333;
+    cursor: pointer;
+}
+.custom-contact-form .checkbox-group input {
+    margin-right: 10px;
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #222;
+    appearance: none;
+    background-color: #fff;
+    border-radius: 0;
+}
+.custom-contact-form .checkbox-group input:checked {
+    background-color: #67161b;
+    border-color: #67161b;
+}
+.custom-contact-form select {
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23333' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+    background-size: 16px;
+}
+.custom-contact-form select option {
+    background-color: #fff;
+    color: #333;
+}
+.custom-contact-form .form-button-wrapper {
+    text-align: center;
+    margin-top: 40px;
+}
+.custom-contact-form button {
+    background-color: #6a1c1d !important;
+    color: #fff !important;
+    border: none;
+    padding: 20px 40px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: opacity 0.3s ease;
+}
+.custom-contact-form button:hover {
+    opacity: 0.9;
+}
+@media screen and (max-width: 600px) {
+    .custom-contact-form .two-columns {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+
+/* Fix for Squarespace scaled text (which requires JS to calculate font size) */
+.sqsrte-scaled-text-container {
+    opacity: 1 !important;
+    visibility: visible !important;
+    height: auto !important;
+}
+.sqsrte-scaled-text-container h1, 
+.sqsrte-scaled-text-container h2, 
+.sqsrte-scaled-text-container h3, 
+.sqsrte-scaled-text-container h4, 
+.sqsrte-scaled-text-container p {
+    font-size: 40px !important; /* Fallback size */
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+
+@media screen and (max-width: 767px) {
+    .sqsrte-scaled-text-container h1, 
+    .sqsrte-scaled-text-container h2, 
+    .sqsrte-scaled-text-container h3, 
+    .sqsrte-scaled-text-container h4, 
+    .sqsrte-scaled-text-container p {
+        font-size: 28px !important;
+    }
+}
+
+.sqsrte-scaled-text {
+    position: relative !important;
+    display: inline-block !important;
+    white-space: normal !important;
+}
+
+/* Custom Contact Heading Sizing */
+h1.custom-contact-heading {
+    font-size: 54px !important;
+    white-space: nowrap !important;
+}
+
+@media screen and (max-width: 900px) {
+    h1.custom-contact-heading {
+        font-size: 40px !important;
+        white-space: normal !important; /* Allow wrap on smaller screens */
+    }
+}
+@media screen and (max-width: 600px) {
+    h1.custom-contact-heading {
+        font-size: 32px !important;
+    }
+}

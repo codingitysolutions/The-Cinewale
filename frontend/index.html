@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Cinewale</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('click', function(e) {
+          // Toggle mobile menu on burger click
+          const burgerBtn = e.target.closest('.header-burger-btn');
+          if (burgerBtn) {
+            e.preventDefault();
+            const isOpen = document.body.classList.contains('header--menu-open');
+            if (isOpen) {
+              document.body.classList.remove('header--menu-open');
+              burgerBtn.setAttribute('aria-expanded', 'false');
+            } else {
+              document.body.classList.add('header--menu-open');
+              burgerBtn.setAttribute('aria-expanded', 'true');
+            }
+          }
+          
+          // Close mobile menu if a link inside the menu is clicked
+          if (e.target.closest('.header-menu-nav-item a')) {
+            document.body.classList.remove('header--menu-open');
+            document.querySelectorAll('.header-burger-btn').forEach(btn => {
+              btn.setAttribute('aria-expanded', 'false');
+            });
+          }
+        });
+      });
+    </script>
+
+  </body>
+</html>
