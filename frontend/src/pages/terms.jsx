@@ -2227,7 +2227,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="new_logo.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -2425,7 +2425,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="new_logo.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -3504,14 +3504,14 @@ header.header.header-is-scrolled {
   
   
   <img data-stretch="true"
-  src="footer_logo.png" data-src="footer_logo.png"
-  data-image="footer_logo.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
   data-image-dimensions="1024x341"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="footer_logo.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
   
     
   
@@ -4332,7 +4332,7 @@ header.header.header-is-scrolled {
 
   <!-- CENTER COLUMN: Logo & Socials -->
   <div class="tcf-col tcf-col-center">
-    <img src="footer_logo.png" alt="The Cinewale" />
+    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
     <div class="tcf-socials">
       <a href="#" target="_blank"><svg viewBox="0 0 64 64"><use href="#youtube-unauth-icon"></use></svg></a>
       <a href="https://www.instagram.com/thecinewale/" target="_blank"><svg viewBox="0 0 64 64"><use href="#instagram-unauth-icon"></use></svg></a>

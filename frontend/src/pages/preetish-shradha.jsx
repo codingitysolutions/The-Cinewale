@@ -2221,7 +2221,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="new_logo.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -2417,7 +2417,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="new_logo.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -3947,49 +3947,49 @@ header.header.header-is-scrolled {
     <!-- Gallery Masonry --><div class="custom-beautiful-grid" style="margin: 0 auto; padding: 0;">
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_0.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760474/pkvxe9awerhufgclpxmx.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_1.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760475/cexm0sttuuslrvkfitwn.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_2.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760480/bajuiapwg98tmcgcyrmn.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_3.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760480/hqcswwpvchjbljvmftvz.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_4.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760481/tw2hu1y3wj5tl0hiw7be.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_5.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760483/t7ov0dltombtvxxfzvr5.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_6.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760485/ec8oohn09qvhxdhxi5ig.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_7.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760487/yauqrrbfjinyptw7ubup.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_8.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760488/wx7qwkgeqjvlnme4epkn.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_9.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760488/pdiododvlusvbudvkr7b.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_10.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760476/ehi1ns61s9tbskdif1vf.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_11.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760477/t7ypu1mvbejpsikoh1so.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_12.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760478/modnzatmmq1sll2pbu1s.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_13.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760478/jrlyf12uoukxiegxhhz7.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/images/preetish_gallery/img_14.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760479/sjyjwckchl5whmetl2xa.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
 </div>
 
@@ -4098,14 +4098,14 @@ header.header.header-is-scrolled {
   
   
   <img data-stretch="true"
-  src="footer_logo.png" data-src="footer_logo.png"
-  data-image="footer_logo.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
   data-image-dimensions="1024x341"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="footer_logo.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
   
     
   
@@ -4926,7 +4926,7 @@ header.header.header-is-scrolled {
 
   <!-- CENTER COLUMN: Logo & Socials -->
   <div class="tcf-col tcf-col-center">
-    <img src="footer_logo.png" alt="The Cinewale" />
+    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
     <div class="tcf-socials">
       <a href="#" target="_blank"><svg viewBox="0 0 64 64"><use href="#youtube-unauth-icon"></use></svg></a>
       <a href="https://www.instagram.com/thecinewale/" target="_blank"><svg viewBox="0 0 64 64"><use href="#instagram-unauth-icon"></use></svg></a>

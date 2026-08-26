@@ -1,8 +1,8 @@
 name = "cinewale-backend"
 main = "src/index.ts"
-compatibility_date = "2024-03-20"
+compatibility_date = "2026-08-26"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "cinewale-db"
-database_id = "local-db"
+database_name = "my-backend-db"
+database_id = "1b1986b3-1278-4b60-8b3c-3874d058b1b3"

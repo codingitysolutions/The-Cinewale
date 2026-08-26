@@ -2360,7 +2360,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="new_logo.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -2558,7 +2558,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="new_logo.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -3215,7 +3215,7 @@ header.header.header-is-scrolled {
           <div data-controller="VideoBackgroundNative">
             <div class="sqs-video-background-native content-fill" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
               <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none;">
-                <source src="/herosection_cropped.mp4" type="video/mp4">
+                <source src="https://res.cloudinary.com/nmv4tzev/video/upload/v1787760153/gf6u6ykp7mu85xymuoza.mp4" type="video/mp4">
               </video>
             </div>
           </div>
@@ -4780,7 +4780,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:4"
           data-animation-role="image"
         >
-<img alt="Prajnya & Sasmita Wedding" src="/images/prajnya_main_v3.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
+<img alt="Prajnya & Sasmita Wedding" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760469/eedgyc7w0aikccb47mpv.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
       </div>
   
 
@@ -4879,7 +4879,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:4"
           data-animation-role="image"
         >
-<img alt="Naba & Nisitha Wedding" src="/images/naba_main.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
+<img alt="Naba & Nisitha Wedding" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760443/jjh80q5uap0o7zcuzcc1.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
       </div>
   
 
@@ -4978,7 +4978,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:4"
           data-animation-role="image"
         >
-<img alt="Sriram & Lipsa Wedding" src="/images/sriram_main.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
+<img alt="Sriram & Lipsa Wedding" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760516/bwly12xjt441f3eqmhmu.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
       </div>
   
 
@@ -5077,7 +5077,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:4"
           data-animation-role="image"
         >
-<img alt="Preetish & Shradha Wedding" src="/images/preetish_main.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
+<img alt="Preetish & Shradha Wedding" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760490/rp4b8dhmce9fla95xew8.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
       </div>
   
 
@@ -6172,7 +6172,7 @@ Mathapatti, Kaan chain @golecha_jewels
 Styled by @stylebysaachivj
 Mehendi artist @sonamistry_mehandi"
                     
-                    href="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_8.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/odiv1pluekllac6ybvbi.jpg"
                     role="button"
                   
                   
@@ -6189,9 +6189,9 @@ Mehendi artist @sonamistry_mehandi"
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_8.jpg" alt="Moods of a mommy-to-be, starring our forever favourite @karishmaktanna . 🤌✨
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/odiv1pluekllac6ybvbi.jpg" alt="Moods of a mommy-to-be, starring our forever favourite @karishmaktanna . 🤌✨
 
-What an honour to document this beautiful chapter of yours and Sasmita&amp;rsquo;s life. This little one is already so loved. congratulations, and we cannot wait to see the joy t" /></noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_8.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_8.jpg" data-src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_8.jpg" data-image="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_8.jpg" data-image-dimensions="2160x2700" data-image-focal-point="0.5,0.5" alt="Moods of a mommy-to-be, starring our forever favourite @karishmaktanna . 🤌✨
+What an honour to document this beautiful chapter of yours and Sasmita&amp;rsquo;s life. This little one is already so loved. congratulations, and we cannot wait to see the joy t" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/odiv1pluekllac6ybvbi.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/odiv1pluekllac6ybvbi.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/odiv1pluekllac6ybvbi.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/odiv1pluekllac6ybvbi.jpg" data-image-dimensions="2160x2700" data-image-focal-point="0.5,0.5" alt="Moods of a mommy-to-be, starring our forever favourite @karishmaktanna . 🤌✨
 
 What an honour to document this beautiful chapter of yours and Sasmita&amp;rsquo;s life. This little one is already so loved. congratulations, and we cannot wait to see the joy t" data-load="false" data-image-id="6a11626469250f59c99fdfa6" data-type="image" />
                 </a>
@@ -6222,7 +6222,7 @@ What an honour to document this beautiful chapter of yours and Sasmita&amp;rsquo
 -
 Shot by @himanshu_epic @harishyogi_ @the_pakk_ @kamalsaini_cinematographer for @epicstories.in"
                     
-                    href="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_7.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/fdwlqkroy5i1tx8reboe.jpg"
                     role="button"
                   
                   
@@ -6239,7 +6239,7 @@ Shot by @himanshu_epic @harishyogi_ @the_pakk_ @kamalsaini_cinematographer for @
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_7.jpg" alt="To witness moments like these is a privilege I don&amp;rsquo;t take for granted. When someone ( @badgalriri) from across the world comes to India and embraces our culture with such openness and joy, the aarti, the flowers, the traditions. it reminds me w" /></noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_7.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_7.jpg" data-src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_7.jpg" data-image="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_7.jpg" data-image-dimensions="1638x2048" data-image-focal-point="0.5,0.5" alt="To witness moments like these is a privilege I don&amp;rsquo;t take for granted. When someone ( @badgalriri) from across the world comes to India and embraces our culture with such openness and joy, the aarti, the flowers, the traditions. it reminds me w" data-load="false" data-image-id="69ef11f445deab53bd832bad" data-type="image" />
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/fdwlqkroy5i1tx8reboe.jpg" alt="To witness moments like these is a privilege I don&amp;rsquo;t take for granted. When someone ( @badgalriri) from across the world comes to India and embraces our culture with such openness and joy, the aarti, the flowers, the traditions. it reminds me w" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/fdwlqkroy5i1tx8reboe.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/fdwlqkroy5i1tx8reboe.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/fdwlqkroy5i1tx8reboe.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760413/fdwlqkroy5i1tx8reboe.jpg" data-image-dimensions="1638x2048" data-image-focal-point="0.5,0.5" alt="To witness moments like these is a privilege I don&amp;rsquo;t take for granted. When someone ( @badgalriri) from across the world comes to India and embraces our culture with such openness and joy, the aarti, the flowers, the traditions. it reminds me w" data-load="false" data-image-id="69ef11f445deab53bd832bad" data-type="image" />
                 </a>
                 
               </div>
@@ -6277,7 +6277,7 @@ Groom: @tanmayebhatia
 Photos: @epicstories.in 
 #EpicLoveStories"
                     
-                    href="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_6.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760412/styurif8xswgjzgu8g1w.jpg"
                     role="button"
                   
                   
@@ -6294,10 +6294,10 @@ Photos: @epicstories.in
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_6.jpg" alt="What a heartfelt celebration this was. 🤍
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760412/styurif8xswgjzgu8g1w.jpg" alt="What a heartfelt celebration this was. 🤍
 From a Brooklyn rooftop to the timeless grandeur of Umaid Bhawan Palace, Quinn &amp;amp; Tanmay&amp;rsquo;s wedding wasn&amp;rsquo;t about blending two worlds; it was about honouring each, fully and beautifully.
 
-Every m" /></noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_6.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_6.jpg" data-src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_6.jpg" data-image="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_6.jpg" data-image-dimensions="1440x1800" data-image-focal-point="0.5,0.5" alt="What a heartfelt celebration this was. 🤍
+Every m" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760412/styurif8xswgjzgu8g1w.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760412/styurif8xswgjzgu8g1w.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760412/styurif8xswgjzgu8g1w.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760412/styurif8xswgjzgu8g1w.jpg" data-image-dimensions="1440x1800" data-image-focal-point="0.5,0.5" alt="What a heartfelt celebration this was. 🤍
 From a Brooklyn rooftop to the timeless grandeur of Umaid Bhawan Palace, Quinn &amp;amp; Tanmay&amp;rsquo;s wedding wasn&amp;rsquo;t about blending two worlds; it was about honouring each, fully and beautifully.
 
 Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="image" />
@@ -6342,7 +6342,7 @@ Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="i
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DWqQ_8lkRvT/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_5.jpg" data-load="false" src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_5.jpg" data-src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_5.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DWqQ_8lkRvT/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760411/lpar4hkfbnu21xwro1nb.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760411/lpar4hkfbnu21xwro1nb.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760411/lpar4hkfbnu21xwro1nb.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
                 </div>
                 
               </div>
@@ -6372,7 +6372,7 @@ Planned by @eternitybytrinity
 Decor : @fleurondecor 
 Styled by : @ekalakhani"
                     
-                    href="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_4.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760410/lgtwcbnfgke7aqinkvcs.jpg"
                     role="button"
                   
                   
@@ -6389,13 +6389,13 @@ Styled by : @ekalakhani"
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_4.jpg" alt="The Tendulkars.
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760410/lgtwcbnfgke7aqinkvcs.jpg" alt="The Tendulkars.
 Celebrating Arjun &amp;amp; Saaniya. 🌸
 
 Photos and film by @epicstories.in 
 Planned by @eternitybytrinity 
 Decor : @fleurondecor 
-Styled by : @ekalakhani" /></noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_4.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_4.jpg" data-src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_4.jpg" data-image="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_4.jpg" data-image-dimensions="1440x1861" data-image-focal-point="0.5,0.5" alt="The Tendulkars.
+Styled by : @ekalakhani" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760410/lgtwcbnfgke7aqinkvcs.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760410/lgtwcbnfgke7aqinkvcs.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760410/lgtwcbnfgke7aqinkvcs.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760410/lgtwcbnfgke7aqinkvcs.jpg" data-image-dimensions="1440x1861" data-image-focal-point="0.5,0.5" alt="The Tendulkars.
 Celebrating Arjun &amp;amp; Saaniya. 🌸
 
 Photos and film by @epicstories.in 
@@ -6438,7 +6438,7 @@ Planning by @eternitybytrinity
 Styled by amazing @ekalakhani 
 Outfit : @manishmalhotraworld"
                     
-                    href="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_3.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/qeezmvg0mllrospfjck0.jpg"
                     role="button"
                   
                   
@@ -6455,11 +6455,11 @@ Outfit : @manishmalhotraworld"
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_3.jpg" alt="Some portraits carry a little extra meaning.
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/qeezmvg0mllrospfjck0.jpg" alt="Some portraits carry a little extra meaning.
 
 Just five minutes with Sachin Tendulkar on the wedding day, yet the warmth and ease with which he made us feel made those moments truly special.
 
-Grateful to have had the chance to create these portraits " /></noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_3.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_3.jpg" data-src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_3.jpg" data-image="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_3.jpg" data-image-dimensions="1440x1919" data-image-focal-point="0.5,0.5" alt="Some portraits carry a little extra meaning.
+Grateful to have had the chance to create these portraits " /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/qeezmvg0mllrospfjck0.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/qeezmvg0mllrospfjck0.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/qeezmvg0mllrospfjck0.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/qeezmvg0mllrospfjck0.jpg" data-image-dimensions="1440x1919" data-image-focal-point="0.5,0.5" alt="Some portraits carry a little extra meaning.
 
 Just five minutes with Sachin Tendulkar on the wedding day, yet the warmth and ease with which he made us feel made those moments truly special.
 
@@ -6503,7 +6503,7 @@ Wedding Planner : @eternitybytrinity
 
 Decor and Design : @fleurondecor"
                     
-                    href="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_2.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/dqgxo39wa27ltb4eekiu.jpg"
                     role="button"
                   
                   
@@ -6520,10 +6520,10 @@ Decor and Design : @fleurondecor"
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_2.jpg" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/dqgxo39wa27ltb4eekiu.jpg" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
 So many smiles, so many emotions, and so many moments that will live on forever through these photographs.
 
-Our heartfelt thanks to the Tendulkar and Chandok families for the warmth" /></noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_2.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_2.jpg" data-src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_2.jpg" data-image="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_2.jpg" data-image-dimensions="1440x1888" data-image-focal-point="0.5,0.5" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
+Our heartfelt thanks to the Tendulkar and Chandok families for the warmth" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/dqgxo39wa27ltb4eekiu.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/dqgxo39wa27ltb4eekiu.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/dqgxo39wa27ltb4eekiu.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760409/dqgxo39wa27ltb4eekiu.jpg" data-image-dimensions="1440x1888" data-image-focal-point="0.5,0.5" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
 So many smiles, so many emotions, and so many moments that will live on forever through these photographs.
 
 Our heartfelt thanks to the Tendulkar and Chandok families for the warmth" data-load="false" data-image-id="69a9b2a6b034f562fd529e37" data-type="image" />
@@ -6557,7 +6557,7 @@ As our founder, Himanshu Patel, says, &amp;ldquo;Photography is literally painti
 
 Here&amp;rsquo;s to storytelling that moves hearts, and to every couple who&amp;rsquo;s trusted us with theirs. This recognition is yours as much as ours. ✨"
                     
-                    href="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_1.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760408/lfrmtbkkbjr6ijtt6dxl.jpg"
                     role="button"
                   
                   
@@ -6574,10 +6574,10 @@ Here&amp;rsquo;s to storytelling that moves hearts, and to every couple who&amp;
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_1.jpg" alt="A little milestone we&amp;rsquo;re smiling about today. 🤍
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760408/lfrmtbkkbjr6ijtt6dxl.jpg" alt="A little milestone we&amp;rsquo;re smiling about today. 🤍
 We are thrilled to be featured in the Manifest Black Book, spotlighting the country&amp;rsquo;s top wedding photographers capturing the magic of the big day through timeless imagery. 
 
-As our founder" /></noscript><img src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_1.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_1.jpg" data-src="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_1.jpg" data-image="/images/instagram/thecinewale/2026-08-22_11-40-02_UTC_1.jpg" data-image-dimensions="1440x1920" data-image-focal-point="0.5,0.5" alt="A little milestone we&amp;rsquo;re smiling about today. 🤍
+As our founder" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760408/lfrmtbkkbjr6ijtt6dxl.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760408/lfrmtbkkbjr6ijtt6dxl.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760408/lfrmtbkkbjr6ijtt6dxl.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760408/lfrmtbkkbjr6ijtt6dxl.jpg" data-image-dimensions="1440x1920" data-image-focal-point="0.5,0.5" alt="A little milestone we&amp;rsquo;re smiling about today. 🤍
 We are thrilled to be featured in the Manifest Black Book, spotlighting the country&amp;rsquo;s top wedding photographers capturing the magic of the big day through timeless imagery. 
 
 As our founder" data-load="false" data-image-id="69a685694ae8060e0ffe78b0" data-type="image" />
@@ -6626,7 +6626,7 @@ For a heartbeat, the crowd disappeared. It was just her, just him, and the begin
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DVGVBxcCNR8/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="/images/instagram/thecinewale/2026-08-20_11-25-46_UTC.jpg" data-load="false" src="/images/instagram/thecinewale/2026-08-20_11-25-46_UTC.jpg" data-src="/images/instagram/thecinewale/2026-08-20_11-25-46_UTC.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DVGVBxcCNR8/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/qliflaasdq0urnbvkcrc.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/qliflaasdq0urnbvkcrc.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/qliflaasdq0urnbvkcrc.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
                 </div>
                 
               </div>
@@ -6658,7 +6658,7 @@ Recently featured in LA Magazine.
 Discover the full story:
 https://www.latimes.com/weddings/planning-ideas/inspiration/story/wedding-photography-trends"
                     
-                    href="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_7.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/ilugkikw0h7qmkogw1cf.jpg"
                     role="button"
                   
                   
@@ -6675,9 +6675,9 @@ https://www.latimes.com/weddings/planning-ideas/inspiration/story/wedding-photog
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_7.jpg" alt="Not sure about trends but we&amp;rsquo;re certain this one will stay with us❤️
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/ilugkikw0h7qmkogw1cf.jpg" alt="Not sure about trends but we&amp;rsquo;re certain this one will stay with us❤️
 
-Naina &amp;amp; Ryan&amp;rsquo;s Canadian-Hindu wedding at Willow Lane Barn was a beautiful reminder of how two cultures can come together so effortlessly. Rooted in tradition, yet s" /></noscript><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_7.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_7.jpg" data-src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_7.jpg" data-image="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_7.jpg" data-image-dimensions="1440x1920" data-image-focal-point="0.5,0.5" alt="Not sure about trends but we&amp;rsquo;re certain this one will stay with us❤️
+Naina &amp;amp; Ryan&amp;rsquo;s Canadian-Hindu wedding at Willow Lane Barn was a beautiful reminder of how two cultures can come together so effortlessly. Rooted in tradition, yet s" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/ilugkikw0h7qmkogw1cf.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/ilugkikw0h7qmkogw1cf.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/ilugkikw0h7qmkogw1cf.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760407/ilugkikw0h7qmkogw1cf.jpg" data-image-dimensions="1440x1920" data-image-focal-point="0.5,0.5" alt="Not sure about trends but we&amp;rsquo;re certain this one will stay with us❤️
 
 Naina &amp;amp; Ryan&amp;rsquo;s Canadian-Hindu wedding at Willow Lane Barn was a beautiful reminder of how two cultures can come together so effortlessly. Rooted in tradition, yet s" data-load="false" data-image-id="69a685694ae8060e0ffe78b2" data-type="image" />
                 </a>
@@ -6712,7 +6712,7 @@ Makeup : @shivanijaiswalmakeup
 
 Read the full story: https://www.travelandleisureasia.com/in/weddings-and-honeymoons/these-wedding-destinations-are-miles-from-ordinary-and-the-perfect-places-to-beat-the-noise/"
                     
-                    href="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_6.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760406/oc0lgf5urdoqcdmhpldf.jpg"
                     role="button"
                   
                   
@@ -6729,9 +6729,9 @@ Read the full story: https://www.travelandleisureasia.com/in/weddings-and-honeym
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_6.jpg" alt="We&amp;rsquo;re delighted to be featured in @travelandleisureindia  for Vishal and Dhwani&amp;rsquo;s wedding, a celebration that carried us from the serene, glassy turtle caves of Zanzibar to the fairy-light-adorned evenings of Dar es Salaam. 
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" alt="We&amp;rsquo;re delighted to be featured in @travelandleisureindia  for Vishal and Dhwani&amp;rsquo;s wedding, a celebration that carried us from the serene, glassy turtle caves of Zanzibar to the fairy-light-adorned evenings of Dar es Salaam. 
 
-Being part o" /></noscript><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_6.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_6.jpg" data-src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_6.jpg" data-image="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_6.jpg" data-image-dimensions="1440x1920" data-image-focal-point="0.5,0.5" alt="We&amp;rsquo;re delighted to be featured in @travelandleisureindia  for Vishal and Dhwani&amp;rsquo;s wedding, a celebration that carried us from the serene, glassy turtle caves of Zanzibar to the fairy-light-adorned evenings of Dar es Salaam. 
+Being part o" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" data-image-dimensions="1440x1920" data-image-focal-point="0.5,0.5" alt="We&amp;rsquo;re delighted to be featured in @travelandleisureindia  for Vishal and Dhwani&amp;rsquo;s wedding, a celebration that carried us from the serene, glassy turtle caves of Zanzibar to the fairy-light-adorned evenings of Dar es Salaam. 
 
 Being part o" data-load="false" data-image-id="69a685694ae8060e0ffe78b3" data-type="image" />
                 </a>
@@ -6777,7 +6777,7 @@ The pause before she steps in, the way every eye turns, that gaze, that smile. �
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DUk_iHiiOKu/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_5.jpg" data-load="false" src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_5.jpg" data-src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_5.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DUk_iHiiOKu/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760405/iaj7kvhq1svjntolc70y.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760405/iaj7kvhq1svjntolc70y.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760405/iaj7kvhq1svjntolc70y.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
                 </div>
                 
               </div>
@@ -6819,7 +6819,7 @@ A parent&amp;rsquo;s love learns to stand back, to trust the world with its hear
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DUVdX7KCDpV/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_4.jpg" data-load="false" src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_4.jpg" data-src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_4.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DUVdX7KCDpV/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760404/op1dqq5ltb7ntbfgbeee.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760404/op1dqq5ltb7ntbfgbeee.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760404/op1dqq5ltb7ntbfgbeee.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
                 </div>
                 
               </div>
@@ -6861,7 +6861,7 @@ Shot by @epicstories.in"
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DT7hEyCCKup/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_3.jpg" data-load="false" src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_3.jpg" data-src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_3.jpg" data-image-dimensions="720x1280" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DT7hEyCCKup/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760404/xjjd5hmvx4ba3mktglk4.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760404/xjjd5hmvx4ba3mktglk4.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760404/xjjd5hmvx4ba3mktglk4.jpg" data-image-dimensions="720x1280" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
                 </div>
                 
               </div>
@@ -6899,7 +6899,7 @@ Wedding planner @auraeventplanners
 Shot by @s.s_das @himanshu_epic
 Styled by amazing @bridelanindia @nishakundnani"
                     
-                    href="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_2.jpg"
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg"
                     role="button"
                   
                   
@@ -6916,11 +6916,11 @@ Styled by amazing @bridelanindia @nishakundnani"
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_2.jpg" alt="Been wanting to share these for a long time.
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" alt="Been wanting to share these for a long time.
 Couldn&amp;rsquo;t find the right moment&amp;hellip; so I thought, why not now, before it feels too late.
 
 Monica and Nate at Giraffe Manor.
-A place I had dreamt of visiting for years, and somehow life brought us " /></noscript><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_2.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_2.jpg" data-src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_2.jpg" data-image="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_2.jpg" data-image-dimensions="1440x1919" data-image-focal-point="0.5,0.5" alt="Been wanting to share these for a long time.
+A place I had dreamt of visiting for years, and somehow life brought us " /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" data-image-dimensions="1440x1919" data-image-focal-point="0.5,0.5" alt="Been wanting to share these for a long time.
 Couldn&amp;rsquo;t find the right moment&amp;hellip; so I thought, why not now, before it feels too late.
 
 Monica and Nate at Giraffe Manor.
@@ -6977,7 +6977,7 @@ Design and Execution - @altair_decor"
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSxFUjeCK2P/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_1.jpg" data-load="false" src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_1.jpg" data-src="/images/instagram/thecinewale/2026-08-15_11-45-02_UTC_1.jpg" data-image-dimensions="640x1136" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSxFUjeCK2P/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760402/wbsitaqd1u8xkbzzf1sv.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760402/wbsitaqd1u8xkbzzf1sv.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760402/wbsitaqd1u8xkbzzf1sv.jpg" data-image-dimensions="640x1136" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
                 </div>
                 
               </div>
@@ -7020,7 +7020,7 @@ And a hundred little moments that stayed with us long after the camera went down
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSrPHpuiKBl/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="/images/instagram/thecinewale/2026-08-14_15-04-09_UTC.jpg" data-load="false" src="/images/instagram/thecinewale/2026-08-14_15-04-09_UTC.jpg" data-src="/images/instagram/thecinewale/2026-08-14_15-04-09_UTC.jpg" data-image-dimensions="720x1280" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSrPHpuiKBl/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760401/lyxw1y7riiijjansrlpe.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760401/lyxw1y7riiijjansrlpe.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760401/lyxw1y7riiijjansrlpe.jpg" data-image-dimensions="720x1280" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
                 </div>
                 
               </div>
@@ -7066,7 +7066,7 @@ And a hundred little moments that stayed with us long after the camera went down
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSrOZzZiKOD/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="/images/instagram/thecinewale/2026-08-12_11-40-02_UTC_6.jpg" data-load="false" src="/images/instagram/thecinewale/2026-08-12_11-40-02_UTC_6.jpg" data-src="/images/instagram/thecinewale/2026-08-12_11-40-02_UTC_6.jpg" data-image-dimensions="640x1136" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSrOZzZiKOD/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760399/qjp8hnfmot9t12u4o6e5.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760399/qjp8hnfmot9t12u4o6e5.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760399/qjp8hnfmot9t12u4o6e5.jpg" data-image-dimensions="640x1136" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
                 </div>
                 
               </div>
@@ -7889,12 +7889,12 @@ And a hundred little moments that stayed with us long after the camera went down
   
   <div class="sqs-html-content" data-sqsp-text-block-content><h1 style="text-align:center;white-space:pre-wrap;">As Featured In</h1></div>
 <div class="custom-logos-grid">
-    <div class="logo-item"><img src="/images/logos/orissa_post.svg" class="logo-img logo-op" /></div>
-    <div class="logo-item"><img src="/images/logos/wedmegood.png" class="logo-img logo-wmg" /></div>
-    <div class="logo-item"><img src="/images/logos/toi.png" class="logo-img logo-toi" /></div>
-    <div class="logo-item"><img src="/images/logos/zee_kalinga.png" class="logo-img logo-zk" /></div>
-    <div class="logo-item"><img src="/images/logos/prameya.svg" class="logo-img logo-pr" /></div>
-    <div class="logo-item"><img src="/images/logos/canvera.png" class="logo-img logo-cv" /></div>
+    <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760417/umai3csbz5rsxjoexa1l.svg" class="logo-img logo-op" /></div>
+    <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760423/kximrudsgesu7bgyr3p4.png" class="logo-img logo-wmg" /></div>
+    <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760421/hjhexwlw6jjwok9qbtqs.png" class="logo-img logo-toi" /></div>
+    <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760426/lqu9ar68gxc39yqsifee.png" class="logo-img logo-zk" /></div>
+    <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760419/i8zfu5brdvzm4ytigygz.svg" class="logo-img logo-pr" /></div>
+    <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760414/lyvrznatgiuqvletjiyr.png" class="logo-img logo-cv" /></div>
 </div>
 </div>
 </div>
@@ -8059,14 +8059,14 @@ And a hundred little moments that stayed with us long after the camera went down
   
   
   <img data-stretch="false"
-  src="/images/logos/orissa_post.svg" data-src="/images/logos/orissa_post.svg"
-  data-image="/images/logos/orissa_post.svg"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760417/umai3csbz5rsxjoexa1l.svg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760417/umai3csbz5rsxjoexa1l.svg"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760417/umai3csbz5rsxjoexa1l.svg"
   data-image-dimensions="1597x424"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt="Silhouette of a person jumping with arms raised in front of a gradient background."
   data-licensed-asset-preview="false"
-  data-load="true" elementtiming="system-image-block" src="/images/logos/orissa_post.svg" width="1597" height="424" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 16.67vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
+  data-load="true" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760417/umai3csbz5rsxjoexa1l.svg" width="1597" height="424" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 16.67vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
   
     
   
@@ -8214,14 +8214,14 @@ And a hundred little moments that stayed with us long after the camera went down
   
   
   <img data-stretch="false"
-  src="/images/logos/toi.png" data-src="/images/logos/toi.png"
-  data-image="/images/logos/toi.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760421/hjhexwlw6jjwok9qbtqs.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760421/hjhexwlw6jjwok9qbtqs.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760421/hjhexwlw6jjwok9qbtqs.png"
   data-image-dimensions="1000x1000"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt="Four-leaf clover illustration on a transparent background."
   data-licensed-asset-preview="false"
-  data-load="true" elementtiming="system-image-block" src="/images/logos/toi.png" width="1000" height="1000" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 33.33vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
+  data-load="true" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760421/hjhexwlw6jjwok9qbtqs.png" width="1000" height="1000" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 33.33vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
   
     
   
@@ -8369,14 +8369,14 @@ And a hundred little moments that stayed with us long after the camera went down
   
   
   <img data-stretch="false"
-  src="/images/logos/zee_kalinga.png" data-src="/images/logos/zee_kalinga.png"
-  data-image="/images/logos/zee_kalinga.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760426/lqu9ar68gxc39yqsifee.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760426/lqu9ar68gxc39yqsifee.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760426/lqu9ar68gxc39yqsifee.png"
   data-image-dimensions="1035x241"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt="Logo displaying the word 'WEDDINGSUTRA' with an elegant circular design on the left."
   data-licensed-asset-preview="false"
-  data-load="true" elementtiming="system-image-block" src="/images/logos/zee_kalinga.png" width="1035" height="241" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
+  data-load="true" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760426/lqu9ar68gxc39yqsifee.png" width="1035" height="241" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
   
     
   
@@ -8524,14 +8524,14 @@ And a hundred little moments that stayed with us long after the camera went down
   
   
   <img data-stretch="false"
-  src="/images/logos/prameya.svg" data-src="/images/logos/prameya.svg"
-  data-image="/images/logos/prameya.svg"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760419/i8zfu5brdvzm4ytigygz.svg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760419/i8zfu5brdvzm4ytigygz.svg"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760419/i8zfu5brdvzm4ytigygz.svg"
   data-image-dimensions="964x186"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt="&quot;The Indian Express&quot; logo with stylized letters and emblem."
   data-licensed-asset-preview="false"
-  data-load="true" elementtiming="system-image-block" src="/images/logos/prameya.svg" width="964" height="186" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
+  data-load="true" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760419/i8zfu5brdvzm4ytigygz.svg" width="964" height="186" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
   
     
   
@@ -8679,14 +8679,14 @@ And a hundred little moments that stayed with us long after the camera went down
   
   
   <img data-stretch="false"
-  src="/images/logos/wedmegood.png" data-src="/images/logos/wedmegood.png"
-  data-image="/images/logos/wedmegood.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760423/kximrudsgesu7bgyr3p4.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760423/kximrudsgesu7bgyr3p4.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760423/kximrudsgesu7bgyr3p4.png"
   data-image-dimensions="350x312"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt="Logo with a stylized infinity symbol and the text 'WedMeGood' below it."
   data-licensed-asset-preview="false"
-  data-load="true" elementtiming="system-image-block" src="/images/logos/wedmegood.png" width="350" height="312" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 33.33vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
+  data-load="true" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760423/kximrudsgesu7bgyr3p4.png" width="350" height="312" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 33.33vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
   
     
   
@@ -8834,14 +8834,14 @@ And a hundred little moments that stayed with us long after the camera went down
   
   
   <img data-stretch="false"
-  src="/images/logos/canvera.png" data-src="/images/logos/canvera.png"
-  data-image="/images/logos/canvera.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760414/lyvrznatgiuqvletjiyr.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760414/lyvrznatgiuqvletjiyr.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760414/lyvrznatgiuqvletjiyr.png"
   data-image-dimensions="596x178"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt="Logo of Filmfare magazine"
   data-licensed-asset-preview="false"
-  data-load="true" elementtiming="system-image-block" src="/images/logos/canvera.png" width="596" height="178" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
+  data-load="true" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760414/lyvrznatgiuqvletjiyr.png" width="596" height="178" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
   
     
   
@@ -10357,14 +10357,14 @@ header.header.header-is-scrolled {
   
   
   <img data-stretch="true"
-  src="footer_logo.png" data-src="footer_logo.png"
-  data-image="footer_logo.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
   data-image-dimensions="1024x341"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="footer_logo.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
   
     
   
@@ -11185,7 +11185,7 @@ header.header.header-is-scrolled {
 
   <!-- CENTER COLUMN: Logo & Socials -->
   <div class="tcf-col tcf-col-center">
-    <img src="footer_logo.png" alt="The Cinewale" />
+    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
     <div class="tcf-socials">
       <a href="#" target="_blank"><svg viewBox="0 0 64 64"><use href="#youtube-unauth-icon"></use></svg></a>
       <a href="https://www.instagram.com/thecinewale/" target="_blank"><svg viewBox="0 0 64 64"><use href="#instagram-unauth-icon"></use></svg></a>

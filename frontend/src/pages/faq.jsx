@@ -2249,7 +2249,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="new_logo.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -2447,7 +2447,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="new_logo.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -3038,7 +3038,7 @@ header.header.header-is-scrolled {
 &quot;publicCommentCount&quot;: 0,
 &quot;commentState&quot;: 2,
 &quot;unsaved&quot;: false,
-&quot;assetUrl&quot;: &quot;/images/Faq_hero.jpg&quot;,
+&quot;assetUrl&quot;: &quot;https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg&quot;,
 &quot;contentType&quot;: &quot;image/jpeg&quot;,
 &quot;items&quot;: [ ],
 &quot;pushedServices&quot;: { },
@@ -3116,7 +3116,7 @@ header.header.header-is-scrolled {
 
 
 
-<img alt="" data-image-focal-point="0.5,0.24001500093755856" crossOrigin src="/images/Faq_hero.jpg" data-src="/images/Faq_hero.jpg" data-image="/images/Faq_hero.jpg" data-image-dimensions="2316x1528" data-image-focal-point="0.5,0.24001500093755856" alt="HIM06502.jpg" data-load="false" elementtiming="nbf-background-image-fx" src="/images/Faq_hero.jpg" width="2316" height="1528" alt="" sizes="(max-width: 799px) 200vw, 100vw" class="background-image-fx" style="display:block;object-position: 50% 24.00150009375586%" srcset="/images/Faq_hero.jpg 100w, /images/Faq_hero.jpg 300w, /images/Faq_hero.jpg 500w, /images/Faq_hero.jpg 750w, /images/Faq_hero.jpg 1000w, /images/Faq_hero.jpg 1500w, /images/Faq_hero.jpg 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
+<img alt="" data-image-focal-point="0.5,0.24001500093755856" crossOrigin src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg" data-image-dimensions="2316x1528" data-image-focal-point="0.5,0.24001500093755856" alt="HIM06502.jpg" data-load="false" elementtiming="nbf-background-image-fx" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg" width="2316" height="1528" alt="" sizes="(max-width: 799px) 200vw, 100vw" class="background-image-fx" style="display:block;object-position: 50% 24.00150009375586%" srcset="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg 100w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg 300w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg 500w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg 750w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg 1000w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg 1500w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760160/gzlmpqwoz6wrzfqvnuq0.jpg 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
 
   <div class="section-background-canvas background-fx-canvas"></div>
 </div>
@@ -4019,7 +4019,7 @@ header.header.header-is-scrolled {
 &quot;publicCommentCount&quot;: 0,
 &quot;commentState&quot;: 2,
 &quot;unsaved&quot;: false,
-&quot;assetUrl&quot;: &quot;/images/faq_2_image.jpg&quot;,
+&quot;assetUrl&quot;: &quot;https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg&quot;,
 &quot;contentType&quot;: &quot;image/jpeg&quot;,
 &quot;items&quot;: [ ],
 &quot;pushedServices&quot;: { },
@@ -4090,7 +4090,7 @@ header.header.header-is-scrolled {
 
 
 
-<img alt="" src="/images/faq_2_image.jpg" data-src="/images/faq_2_image.jpg" data-image="/images/faq_2_image.jpg" data-image-dimensions="2500x969" data-image-focal-point="0.50390625,0.9766380869975615" alt="01 BRIDE GETTING READY-71.jpg" data-load="false" elementtiming="nbf-background" src="/images/faq_2_image.jpg" width="2500" height="969" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50.390625% 97.66380869975615%" srcset="/images/faq_2_image.jpg 100w, /images/faq_2_image.jpg 300w, /images/faq_2_image.jpg 500w, /images/faq_2_image.jpg 750w, /images/faq_2_image.jpg 1000w, /images/faq_2_image.jpg 1500w, /images/faq_2_image.jpg 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
+<img alt="" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg" data-image-dimensions="2500x969" data-image-focal-point="0.50390625,0.9766380869975615" alt="01 BRIDE GETTING READY-71.jpg" data-load="false" elementtiming="nbf-background" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg" width="2500" height="969" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50.390625% 97.66380869975615%" srcset="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg 100w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg 300w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg 500w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg 750w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg 1000w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg 1500w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760171/brv95geoix16xkdwygfy.jpg 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
 
 
 
@@ -4829,14 +4829,14 @@ header.header.header-is-scrolled {
   
   
   <img data-stretch="true"
-  src="footer_logo.png" data-src="footer_logo.png"
-  data-image="footer_logo.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
   data-image-dimensions="1024x341"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="footer_logo.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
   
     
   
@@ -5657,7 +5657,7 @@ header.header.header-is-scrolled {
 
   <!-- CENTER COLUMN: Logo & Socials -->
   <div class="tcf-col tcf-col-center">
-    <img src="footer_logo.png" alt="The Cinewale" />
+    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
     <div class="tcf-socials">
       <a href="#" target="_blank"><svg viewBox="0 0 64 64"><use href="#youtube-unauth-icon"></use></svg></a>
       <a href="https://www.instagram.com/thecinewale/" target="_blank"><svg viewBox="0 0 64 64"><use href="#instagram-unauth-icon"></use></svg></a>
