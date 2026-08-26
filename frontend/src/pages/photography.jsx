@@ -3304,7 +3304,7 @@ header.header.header-is-scrolled {
       style= "padding-bottom: 40px;"
       data-section-title-alignment="center"
     >
-      <p class="" style="white-space:pre-wrap; color: #791112 !important; -webkit-text-fill-color: #791112 !important;">Photographs Gallery</p>
+      <p class="" style="font-family: Poppins, sans-serif !important; white-space:pre-wrap; color: #791112 !important; -webkit-text-fill-color: #791112 !important;">Photographs Gallery</p>
     </div>
   
 

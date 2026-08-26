@@ -557,3 +557,17 @@ h1.custom-contact-heading {
         font-size: 32px !important;
     }
 }
+
+/* Explicitly requested by user: Nav links and 4 Cards to use Poppins */
+.header-nav-item a, 
+.header-menu-nav-item a {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+[data-section-id="66adf9c52e735457c7814c2f"] .list-item-content__title,
+[data-section-id="66adf9c52e735457c7814c2f"] .list-item-content__description,
+[data-section-id="66adf9c52e735457c7814c2f"] .list-item-content__description p,
+[data-section-id="66adf9c52e735457c7814c2f"] .sqs-block-button-element,
+[data-section-id="66adf9c52e735457c7814c2f"] .list-item-content__button {
+    font-family: 'Poppins', sans-serif !important;
+}
