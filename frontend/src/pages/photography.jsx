@@ -2221,7 +2221,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -2419,7 +2419,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -3108,7 +3108,7 @@ header.header.header-is-scrolled {
           <div data-controller="VideoBackgroundNative">
             <div class="sqs-video-background-native content-fill" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
               <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none;">
-                <source src="https://res.cloudinary.com/nmv4tzev/video/upload/v1787760153/gf6u6ykp7mu85xymuoza.mp4" type="video/mp4">
+                <source src="https://res.cloudinary.com/nmv4tzev/video/upload/f_auto,q_auto/v1787760153/gf6u6ykp7mu85xymuoza.mp4" type="video/mp4">
               </video>
             </div>
           </div>
@@ -4016,7 +4016,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760516/bwly12xjt441f3eqmhmu.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Sriram & Lipsa" /></div>
+<img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760516/bwly12xjt441f3eqmhmu.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Sriram & Lipsa" /></div>
       </div>
   
 
@@ -4110,7 +4110,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760443/jjh80q5uap0o7zcuzcc1.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Naba & Nisitha" /></div>
+<img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760443/jjh80q5uap0o7zcuzcc1.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Naba & Nisitha" /></div>
       </div>
   
 
@@ -4213,7 +4213,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760469/eedgyc7w0aikccb47mpv.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Prajnya & Sasmita" /></div>
+<img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760469/eedgyc7w0aikccb47mpv.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Prajnya & Sasmita" /></div>
       </div>
   
 
@@ -4307,7 +4307,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760490/rp4b8dhmce9fla95xew8.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Preetish & Shradha" /></div>
+<img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760490/rp4b8dhmce9fla95xew8.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Preetish & Shradha" /></div>
       </div>
   
 
@@ -4467,7 +4467,7 @@ header.header.header-is-scrolled {
           &quot;publicCommentCount&quot;: 0,
           &quot;commentState&quot;: 2,
           &quot;unsaved&quot;: false,
-          &quot;assetUrl&quot;: &quot;https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg&quot;,
+          &quot;assetUrl&quot;: &quot;https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg&quot;,
           &quot;contentType&quot;: &quot;image/jpeg&quot;,
           &quot;items&quot;: [ ],
           &quot;pushedServices&quot;: { },
@@ -4531,7 +4531,7 @@ header.header.header-is-scrolled {
 
 
 
-<img alt="" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="H+B BLOG 126 HIM02212.jpg" data-load="false" elementtiming="nbf-background" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg" width="1920" height="1280" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg 100w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg 300w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg 500w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg 750w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg 1000w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg 1500w, https://res.cloudinary.com/nmv4tzev/image/upload/v1787760158/tlidjy7bjzkajtycgmru.jpg 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
+<img alt="" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="H+B BLOG 126 HIM02212.jpg" data-load="false" elementtiming="nbf-background" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" width="1920" height="1280" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 100w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 300w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 500w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 750w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 1000w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 1500w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
 
 
 
@@ -5266,14 +5266,14 @@ header.header.header-is-scrolled {
   
   
   <img data-stretch="true"
-  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
-  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png"
   data-image-dimensions="1024x341"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
   
     
   
@@ -6094,7 +6094,7 @@ header.header.header-is-scrolled {
 
   <!-- CENTER COLUMN: Logo & Socials -->
   <div class="tcf-col tcf-col-center">
-    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
+    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
     <div class="tcf-socials">
       <a href="#" target="_blank"><svg viewBox="0 0 64 64"><use href="#youtube-unauth-icon"></use></svg></a>
       <a href="https://www.instagram.com/thecinewale/" target="_blank"><svg viewBox="0 0 64 64"><use href="#instagram-unauth-icon"></use></svg></a>

@@ -2235,7 +2235,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -2431,7 +2431,7 @@ header.header.header-is-scrolled {
                   >
                     
                       <div class="header-title-logo">
-                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
+                        <a href="/" data-animation-role="header-element"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" class="site-branding-logo" ></a>
                       </div>
 
                     
@@ -3165,7 +3165,7 @@ header.header.header-is-scrolled {
 >
   
 
-  <div class="sqs-video-background-native__video-player"><video src="https://res.cloudinary.com/nmv4tzev/video/upload/v1787760115/mh398r8zm6b3ic4w233l.mp4" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0;"></video></div>
+  <div class="sqs-video-background-native__video-player"><video src="https://res.cloudinary.com/nmv4tzev/video/upload/f_auto,q_auto/v1787760115/mh398r8zm6b3ic4w233l.mp4" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0;"></video></div>
 </div>
 
           </div>
@@ -4153,109 +4153,109 @@ header.header.header-is-scrolled {
     <!-- Gallery Masonry --><div class="custom-beautiful-grid" style="margin: 0 auto; padding: 0;">
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760453/ionsc2kawscekd9g7qmv.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760453/ionsc2kawscekd9g7qmv.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760444/auargmlbilmp2yvs3v6r.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760444/auargmlbilmp2yvs3v6r.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760445/pl3nviib6qlk1a9nwclt.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760445/pl3nviib6qlk1a9nwclt.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760464/ndyshsxymvz4kfpuqkle.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760464/ndyshsxymvz4kfpuqkle.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760461/erwgsaapjuzfieprmmao.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760461/erwgsaapjuzfieprmmao.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760463/dttzrclrk6wpd9fll4ns.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760463/dttzrclrk6wpd9fll4ns.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760467/nlzlxhwmrw9s7t4m2zce.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760467/nlzlxhwmrw9s7t4m2zce.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760463/t57lapnrwhavhrmoah8c.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760463/t57lapnrwhavhrmoah8c.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760465/cez7t0ibv4o6qrfpih6x.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760465/cez7t0ibv4o6qrfpih6x.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760451/jl0khal2h7bxpwffrjfy.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760451/jl0khal2h7bxpwffrjfy.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760466/oztowjakkxg9ywa6qq9p.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760466/oztowjakkxg9ywa6qq9p.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760446/izyjclcnhqzs4xj3x8ks.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760446/izyjclcnhqzs4xj3x8ks.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760455/n39fkhzkufjv8onwombq.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760455/n39fkhzkufjv8onwombq.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760446/tr7nkb58lpgzmlo6n7l4.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760446/tr7nkb58lpgzmlo6n7l4.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760447/z3jslpsibyqfifgfnucq.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760447/z3jslpsibyqfifgfnucq.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760456/xmjbp5q7gasbjdghqodt.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760456/xmjbp5q7gasbjdghqodt.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760448/aquqju5zanj5zgrrtjbp.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760448/aquqju5zanj5zgrrtjbp.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760449/t3kgxm9g7fngcbr35cie.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760449/t3kgxm9g7fngcbr35cie.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760449/q3wncuzyerhfkhqqptyv.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760449/q3wncuzyerhfkhqqptyv.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760450/uttolbvlxvfcjywi13hc.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760450/uttolbvlxvfcjywi13hc.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760451/fudegaaquh4vr3lkvypk.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760451/fudegaaquh4vr3lkvypk.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760452/ndekdetkmew2rr5v6rjc.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760452/ndekdetkmew2rr5v6rjc.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760454/ixfspvxz44y06hgxkav6.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760454/ixfspvxz44y06hgxkav6.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760454/fxfkgtxqmxmlyduhgfaw.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760454/fxfkgtxqmxmlyduhgfaw.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760457/pi6hz8y2cqtw7gx8bg3b.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760457/pi6hz8y2cqtw7gx8bg3b.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760457/zzypkrnz9z9i3twxobur.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760457/zzypkrnz9z9i3twxobur.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760458/grtu3ppgavoafvybsvnq.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760458/grtu3ppgavoafvybsvnq.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760459/r2unpleeacf62dxg4iwg.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760459/r2unpleeacf62dxg4iwg.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760460/nd7sdnqktjhdbvh930tg.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760460/nd7sdnqktjhdbvh930tg.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760461/bwfxtslivfqzr02kgraf.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760461/bwfxtslivfqzr02kgraf.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760462/cg5gfp7xzxqj3qel9zaz.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760462/cg5gfp7xzxqj3qel9zaz.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
 </div>
 
@@ -4812,14 +4812,14 @@ header.header.header-is-scrolled {
   
   
   <img data-stretch="true"
-  src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
-  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png"
   data-image-dimensions="1024x341"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-   elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" >
+   elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" >
   
     
   
@@ -5640,7 +5640,7 @@ header.header.header-is-scrolled {
 
   <!-- CENTER COLUMN: Logo & Socials -->
   <div class="tcf-col tcf-col-center">
-    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
+    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
     <div class="tcf-socials">
       <a href="#" target="_blank"><svg viewBox="0 0 64 64"><use href="#youtube-unauth-icon"></use></svg></a>
       <a href="https://www.instagram.com/thecinewale/" target="_blank"><svg viewBox="0 0 64 64"><use href="#instagram-unauth-icon"></use></svg></a>

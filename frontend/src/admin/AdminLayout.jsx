@@ -42,7 +42,7 @@ export default function AdminLayout() {
       {/* Sidebar */}
       <aside className="admin-sidebar">
         <div className="admin-sidebar-logo" style={{justifyContent: 'center', padding: '20px'}}>
-          <img src="https://res.cloudinary.com/nmv4tzev/image/upload/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" style={{width: '100%', maxWidth: '180px', height: 'auto', display: 'block'}} />
+          <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760762/uuxscuaciavioalk7gyc.png" alt="The Cinewale" style={{width: '100%', maxWidth: '180px', height: 'auto', display: 'block'}} />
         </div>
         
         <div className="admin-nav">
