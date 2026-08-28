@@ -600,3 +600,21 @@ h1.custom-contact-heading {
         margin-left: auto !important; margin-right: auto !important;
     }
 }
+
+@media screen and (max-width: 767px) {
+    #block-a1aa82d32f7cfe27ca17,
+    #block-a1aa82d32f7cfe27ca17 .sqs-block-content,
+    #block-a1aa82d32f7cfe27ca17 .form-wrapper {
+        width: 100% !important;
+        margin: 0 auto !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+    .custom-contact-form {
+        margin: 0 auto !important;
+        padding: 20px 15px !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+}
