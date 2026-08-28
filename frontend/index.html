@@ -8,6 +8,24 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
+  
+    <!-- Preload critical Squarespace CSS to prevent FOUC -->
+    <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/62838fda1d80b676079fcce4/83/5c5a519771c10ba3470d8101/62838fda1d80b676079fcd17/1816/site.css?nocustom=true"/>
+    <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1786731263525-36JJDFB14HC1BE313AOI/static.css"/>
+    <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/custom-css/62838fda1d80b676079fcce4/62838fda1d80b676079fcd17/0/custom.css"/>
+    
+    <style>
+      /* Fallback black background during initial load to mask unstyled white background */
+      html, body {
+        background-color: #111 !important;
+      }
+      /* Prevent unstyled links from showing up as blue/red before CSS loads */
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
+    </style>
+
   </head>
   <body>
     <div id="root"></div>
