@@ -581,11 +581,3 @@ h1.custom-contact-heading {
         grid-area: 33/2/37/10 !important;
     }
 }
-@media (min-width: 768px) {
-    .fe-66adf9c52e735457c7814c2d {
-        grid-template-rows: repeat(28, minmax(24px, auto)) !important;
-    }
-    .fe-block-feac8f893955c4868796 {
-        grid-area: 22/3/26/25 !important;
-    }
-}
