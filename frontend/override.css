@@ -581,3 +581,21 @@ h1.custom-contact-heading {
         grid-area: 33/2/37/10 !important;
     }
 }
+
+/* Fix sizing and centering of logos on mobile specifically */
+@media (max-width: 480px) {
+    .custom-logos-grid {
+        grid-template-columns: 1fr !important;
+        row-gap: 30px !important;
+        margin: 40px auto !important;
+    }
+    
+    /* Make logos smaller and consistent on phone so they look centered and balanced */
+    .logo-wmg { width: 45% !important; margin: 0 auto !important; }
+    .logo-toi { width: 75% !important; margin: 0 auto !important; }
+    .logo-zk  { width: 45% !important; margin: 0 auto !important; }
+    .logo-op  { width: 75% !important; margin: 0 auto !important; }
+    .logo-pr  { width: 65% !important; margin: 0 auto !important; }
+    .logo-cv  { width: 45% !important; margin: 0 auto !important; }
+}
+
