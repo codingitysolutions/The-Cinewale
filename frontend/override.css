@@ -593,3 +593,10 @@ h1.custom-contact-heading {
         transform: translateX(15px) !important;
     }
 }
+
+/* Center footer logo on mobile without changing its size */
+@media (max-width: 767px) {
+    footer img[alt="The Cinewale"] {
+        margin-left: auto !important; margin-right: auto !important;
+    }
+}
