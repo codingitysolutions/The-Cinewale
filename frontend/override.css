@@ -685,3 +685,10 @@ h1.custom-contact-heading {
     -webkit-overflow-scrolling: touch;
   }
 }
+
+/* Force Poppins font on FAQ Accordions for consistency across desktop and mobile */
+.accordion-item__title,
+.accordion-item__description,
+.sqs-block-accordion * {
+    font-family: 'Poppins', sans-serif !important;
+}
