@@ -571,8 +571,3 @@ h1.custom-contact-heading {
 [data-section-id="66adf9c52e735457c7814c2f"] .list-item-content__button {
     font-family: 'Poppins', sans-serif !important;
 }
-
-/* Fix flower image overlapping with text on home page */
-.fe-block-feac8f893955c4868796 {
-    margin-top: 45px !important;
-}
