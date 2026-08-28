@@ -3102,57 +3102,12 @@ header.header.header-is-scrolled {
     
       
         
-          <div data-controller="VideoBackgroundNative">
-            <div
-  class="sqs-video-background-native content-fill"
-  data-config-native-video="{
-&quot;id&quot;: &quot;62a5f734ca4edc65ed1b50cd&quot;,
-&quot;recordType&quot;: 61,
-&quot;addedOn&quot;: 1655043892053,
-&quot;updatedOn&quot;: 1655043892053,
-&quot;authorId&quot;: &quot;605b61dd2326317867eed357&quot;,
-&quot;systemDataId&quot;: &quot;d44beefe-33e6-44f6-ab8a-bb10905d9dc3&quot;,
-&quot;systemDataVariants&quot;: &quot;1920:1080,640:360&quot;,
-&quot;systemDataSourceType&quot;: &quot;mp4&quot;,
-&quot;filename&quot;: &quot;1.mp4&quot;,
-&quot;body&quot;: null,
-&quot;likeCount&quot;: 0,
-&quot;commentCount&quot;: 0,
-&quot;publicCommentCount&quot;: 0,
-&quot;commentState&quot;: 1,
-&quot;contentType&quot;: &quot;video/mp4&quot;,
-&quot;structuredContent&quot;: {
-&quot;_type&quot;: &quot;SqspHostedVideo&quot;,
-&quot;videoCodec&quot;: &quot;h264&quot;,
-&quot;audioCodec&quot;: &quot;aac&quot;,
-&quot;alexandriaUrl&quot;: &quot;https://video.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d44beefe-33e6-44f6-ab8a-bb10905d9dc3/{variant}&quot;,
-&quot;alexandriaLibraryId&quot;: &quot;62838fda1d80b676079fcce4&quot;,
-&quot;aspectRatio&quot;: 1.7777777777777777,
-&quot;durationSeconds&quot;: 19.75
-},
-&quot;videoCodec&quot;: &quot;h264&quot;,
-&quot;audioCodec&quot;: &quot;aac&quot;,
-&quot;alexandriaUrl&quot;: &quot;https://video.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d44beefe-33e6-44f6-ab8a-bb10905d9dc3/{variant}&quot;,
-&quot;alexandriaLibraryId&quot;: &quot;62838fda1d80b676079fcce4&quot;,
-&quot;aspectRatio&quot;: 1.7777777777777777,
-&quot;durationSeconds&quot;: 19.75,
-&quot;items&quot;: [ ],
-&quot;pushedServices&quot;: { },
-&quot;pendingPushedServices&quot;: { },
-&quot;usageId&quot;: &quot;c8c9faaf-4a84-377b-969b-f754124f3dee&quot;,
-&quot;assetProtectionLevel&quot;: &quot;LIBRARY&quot;,
-&quot;originalSize&quot;: &quot;1920:1080&quot;,
-&quot;recordTypeLabel&quot;: &quot;sqsp-hosted-video&quot;
-}"
-  data-config-playback-speed="1"
-  data-config-filter="1"
-  data-config-filter-strength="0"
->
-  
-
-  <div class="sqs-video-background-native__video-player"></div>
-</div>
-
+                    <div data-controller="VideoBackgroundNative">
+            <div class="sqs-video-background-native content-fill" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
+              <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none;">
+                <source src="https://res.cloudinary.com/nmv4tzev/video/upload/f_auto,q_auto/v1787760153/gf6u6ykp7mu85xymuoza.mp4" type="video/mp4">
+              </video>
+            </div>
           </div>
         
       
