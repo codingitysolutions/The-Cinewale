@@ -561,7 +561,7 @@ h1.custom-contact-heading {
 /* Explicitly requested by user: Nav links and 4 Cards to use Poppins */
 .header-nav-item a, 
 .header-menu-nav-item a {
-    font-family: 'Poppins', sans-serif !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
 [data-section-id="66adf9c52e735457c7814c2f"] .list-item-content__title,
@@ -569,7 +569,7 @@ h1.custom-contact-heading {
 [data-section-id="66adf9c52e735457c7814c2f"] .list-item-content__description p,
 [data-section-id="66adf9c52e735457c7814c2f"] .sqs-block-button-element,
 [data-section-id="66adf9c52e735457c7814c2f"] .list-item-content__button {
-    font-family: 'Poppins', sans-serif !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
 /* Fix flower overlapping text by adjusting the fluid engine grid rows */
@@ -686,9 +686,9 @@ h1.custom-contact-heading {
   }
 }
 
-/* Force Poppins font on FAQ Accordions for consistency across desktop and mobile */
+/* Force Helvetica font on FAQ Accordions for consistency across desktop and mobile */
 .accordion-item__title,
 .accordion-item__description,
 .sqs-block-accordion * {
-    font-family: 'Poppins', sans-serif !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
