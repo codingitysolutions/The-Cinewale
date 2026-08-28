@@ -666,3 +666,22 @@ h1.custom-contact-heading {
       object-fit: cover !important;
       object-position: center center !important;
   }
+
+/* Extreme Performance Optimization for Mobile Scrolling */
+@media screen and (max-width: 767px) {
+  /* Disable heavy scroll-reveal animations to prevent scroll jank */
+  .sqs-scroll-animation,
+  .preSlide,
+  .slideIn,
+  [data-animation-role] {
+    transition-duration: 0s !important;
+    animation-duration: 0s !important;
+    transition-delay: 0s !important;
+    animation-delay: 0s !important;
+  }
+  
+  /* Force GPU rendering for smoother native scrolling */
+  body {
+    -webkit-overflow-scrolling: touch;
+  }
+}
