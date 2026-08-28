@@ -581,3 +581,10 @@ h1.custom-contact-heading {
         grid-area: 33/2/37/10 !important;
     }
 }
+
+/* Shift WedMeGood logo slightly left (towards the middle) on mobile as it appeared slightly to the right */
+@media (max-width: 767px) {
+    .logo-wmg {
+        transform: translateX(-15px) !important;
+    }
+}
