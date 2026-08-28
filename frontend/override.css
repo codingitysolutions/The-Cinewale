@@ -634,3 +634,35 @@ h1.custom-contact-heading {
     outline: none !important;
     background: transparent !important;
 }
+
+/* Global Mobile Image & Video Responsive Fixes */
+@media screen and (max-width: 767px) {
+  /* Prevent background videos from being excessively zoomed in */
+  .sqs-video-background-native__video-player video,
+  .sqs-video-background-native video,
+  .section-background video {
+      transform: scale(1) !important;
+      object-fit: cover !important;
+      object-position: center center !important;
+  }
+  
+  /* Ensure all image blocks scale correctly within the screen bounds */
+  }
+
+  /* Improve hero section height on mobile so videos/images don't get cropped too heavily on the sides */
+  .page-section.has-background {
+      min-height: 60vh !important;
+  }
+  .page-section.has-background .content-wrapper {
+      min-height: 60vh !important;
+  }
+}
+  /* Ensure all image blocks scale correctly without getting distorted or cropped improperly */
+  .sqs-block-image img {
+      max-width: 100% !important;
+      object-fit: inherit;
+  }
+  .section-background img {
+      object-fit: cover !important;
+      object-position: center center !important;
+  }
