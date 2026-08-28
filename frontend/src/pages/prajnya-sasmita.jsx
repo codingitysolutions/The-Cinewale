@@ -3405,7 +3405,6 @@ header.header.header-is-scrolled {
   
   
   
-<h1 style="z-index: 10; color: white; font-family: 'Bodoni Moda', serif; text-align: center; width: 100%; font-size: 5vw; font-weight: 400; letter-spacing: 1px; margin: 0; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); white-space: nowrap; line-height: 1;">Prajnya & Sasmita</h1>
 
   
   <div class="fluidImageOverlay"></div>
