@@ -627,3 +627,10 @@ h1.custom-contact-heading {
     -webkit-backdrop-filter: none !important;
   }
 }
+
+/* Remove mobile tap highlight (grey background) on the toggle button */
+.header-burger-btn, .burger-box, .header-burger {
+    -webkit-tap-highlight-color: transparent !important;
+    outline: none !important;
+    background: transparent !important;
+}

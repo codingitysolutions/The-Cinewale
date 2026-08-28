@@ -1704,48 +1704,6 @@ footer#footer-sections .page-section {
   }
 }
 
-/* Custom Staggered Burger Menu Animation */
-.burger-inner .top-bun, 
-.burger-inner .patty, 
-.burger-inner .bottom-bun {
-  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1), 
-              width 0.4s cubic-bezier(0.4, 0, 0.2, 1),
-              margin 0.4s cubic-bezier(0.4, 0, 0.2, 1),
-              opacity 0.4s ease !important;
-  border-radius: 4px !important;
-}
-
-/* Default State (Closed) - Staggered Lines */
-body:not(.header--menu-open) .header-burger-btn:not([aria-expanded="true"]) .burger-inner .top-bun {
-  width: 70% !important;
-  margin-left: 30% !important;
-}
-body:not(.header--menu-open) .header-burger-btn:not([aria-expanded="true"]) .burger-inner .patty {
-  width: 100% !important;
-}
-body:not(.header--menu-open) .header-burger-btn:not([aria-expanded="true"]) .burger-inner .bottom-bun {
-  width: 50% !important;
-  margin-left: 50% !important;
-}
-
-/* Hover Animation (Closed state hover) - expand to full width */
-body:not(.header--menu-open) .header-burger-btn:not([aria-expanded="true"]):hover .top-bun,
-body:not(.header--menu-open) .header-burger-btn:not([aria-expanded="true"]):hover .bottom-bun {
-  width: 100% !important;
-  margin-left: 0 !important;
-}
-
-/* Open State overrides to ensure Squarespace X animation works well */
-body.header--menu-open .burger-inner .top-bun,
-.header-burger-btn[aria-expanded="true"] .burger-inner .top-bun {
-  width: 100% !important;
-  margin-left: 0 !important;
-}
-body.header--menu-open .burger-inner .bottom-bun,
-.header-burger-btn[aria-expanded="true"] .burger-inner .bottom-bun {
-  width: 100% !important;
-  margin-left: 0 !important;
-}
 </style>
 
 </head>
