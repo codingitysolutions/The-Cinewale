@@ -5811,7 +5811,11 @@ header.header.header-is-scrolled {
   filter: none !important;
 }
 </style>
-  </body>
+  <style>
+/* Aggressive FAQ Font Override */
+.accordion-item__title-wrapper, .accordion-item__title, .accordion-item__description, .accordion-item__description p, .accordion-item__description span, .sqs-block-accordion, .sqs-block-accordion * { font-family: "Poppins", sans-serif !important; }
+</style>
+</body>
 
 </html>
 ` }} />
