@@ -393,7 +393,7 @@ input[type="submit"]:hover,
 }
 
 /* Footer Logo Sizing */
-footer img[src*="thecinewale"],
+footer img[alt="The Cinewale"],
 .footer-branding-logo,
 [data-section-id="630485c68279d40bf40889db"] img,
 footer .sqs-block-image img,
@@ -410,7 +410,7 @@ footer .image-block img {
 }
 
 @media screen and (max-width: 767px) {
-  footer img[src*="thecinewale"],
+  footer img[alt="The Cinewale"],
   .footer-branding-logo {
     max-width: 150px !important;
     width: 150px !important;
