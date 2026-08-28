@@ -588,3 +588,8 @@ h1.custom-contact-heading {
         transform: translateX(-15px) !important;
     }
 }
+@media (max-width: 767px) {
+    .logo-zk {
+        transform: translateX(15px) !important;
+    }
+}
