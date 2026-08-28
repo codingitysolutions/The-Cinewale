@@ -3165,7 +3165,7 @@ header.header.header-is-scrolled {
 >
   
 
-  <div class="sqs-video-background-native__video-player"><video src="https://res.cloudinary.com/nmv4tzev/video/upload/f_auto,q_auto/v1787896781/syiqptb8wyibcg04vdvb.mp4" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0;"></video></div>
+  <div class="sqs-video-background-native__video-player"><video src="https://res.cloudinary.com/nmv4tzev/video/upload/f_auto,q_auto/v1787896781/syiqptb8wyibcg04vdvb.mp4" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0; transform: scale(1.34);"></video></div>
 </div>
 
           </div>
