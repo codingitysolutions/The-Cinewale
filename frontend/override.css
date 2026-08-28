@@ -646,8 +646,6 @@ h1.custom-contact-heading {
       object-position: center center !important;
   }
   
-  /* Ensure all image blocks scale correctly within the screen bounds */
-  }
 
   /* Improve hero section height on mobile so videos/images don't get cropped too heavily on the sides */
   .page-section.has-background {
