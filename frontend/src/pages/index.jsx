@@ -3173,7 +3173,7 @@ header.header.header-is-scrolled {
           <div data-controller="VideoBackgroundNative">
             <div class="sqs-video-background-native content-fill" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
               <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none;">
-                <source src="https://archive.org/download/ram-lipsa-text-remove-videi-file-for-website/Ram%20%26%20Lipsa%20Text%20remove%20videi%20file%20for%20Website.mp4" type="video/mp4">
+                <source src="https://res.cloudinary.com/nmv4tzev/video/upload/f_auto,q_auto/v1787760153/gf6u6ykp7mu85xymuoza.mp4" type="video/mp4">
               </video>
             </div>
           </div>
