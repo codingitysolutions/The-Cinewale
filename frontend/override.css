@@ -307,7 +307,7 @@ body .sqs-announcement-bar-dropzone {
 }
 
 .logo-op { width: 100% !important; max-height: none !important; }
-.logo-wmg { width: 60% !important; max-height: none !important; }
+.logo-wmg, .logo-toi { width: 60% !important; max-height: none !important; }
 .logo-toi { width: 100% !important; max-height: none !important; }
 .logo-zk { width: 65% !important; max-height: none !important; }
 .logo-pr { width: 90% !important; max-height: none !important; }
@@ -584,7 +584,7 @@ h1.custom-contact-heading {
 
 /* Shift WedMeGood logo slightly left (towards the middle) on mobile as it appeared slightly to the right */
 @media (max-width: 767px) {
-    .logo-wmg {
+    .logo-wmg, .logo-toi {
         transform: translateX(-15px) !important;
     }
 }
