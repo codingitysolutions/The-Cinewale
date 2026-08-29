@@ -635,7 +635,6 @@ h1.custom-contact-heading {
   .sqs-video-background-native__video-player video,
   .sqs-video-background-native video,
   .section-background video {
-      transform: scale(1) !important;
       object-fit: cover !important;
       object-position: center center !important;
   }

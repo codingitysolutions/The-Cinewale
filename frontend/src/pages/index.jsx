@@ -3169,7 +3169,7 @@ header.header.header-is-scrolled {
         
           <div data-controller="VideoBackgroundNative">
             <div class="sqs-video-background-native content-fill" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
-              <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none;">
+              <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; transform: scale(1.35);">
                 <source src="https://res.cloudinary.com/nmv4tzev/video/upload/export.mp4" type="video/mp4">
               </video>
             </div>
