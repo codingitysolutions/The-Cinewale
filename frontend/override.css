@@ -693,3 +693,13 @@ h1.custom-contact-heading {
     justify-content: center !important;
   }
 }
+
+/* Fix bottom flower gap on desktop screens (> 1024px) */
+@media (min-width: 1025px) {
+  .fe-66adf9c52e735457c7814c2d {
+    grid-template-rows: repeat(25, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
+  }
+  .fe-block-feac8f893955c4868796 {
+    grid-area: 22/3/25/25 !important;
+  }
+}
