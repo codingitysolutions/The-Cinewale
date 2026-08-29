@@ -704,7 +704,12 @@ h1.custom-contact-heading {
   }
 }
 
-/* Ensure philosophy text uses Poppins consistently across desktop and mobile */
+/* Ensure philosophy text uses the mobile phone font (Helvetica) consistently across desktop and mobile */
 [data-philosophy-p="true"] {
-  font-family: 'Poppins', sans-serif !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+/* Ensure "A Glimpse Into Our Favourite..." heading uses the mobile phone font (Helvetica) */
+.list-section-title p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
