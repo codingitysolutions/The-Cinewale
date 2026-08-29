@@ -691,14 +691,3 @@ h1.custom-contact-heading {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
-/* Fix flower overlapping text on tablet view (768px to 1024px) */
-@media (min-width: 768px) and (max-width: 1024px) {
-    /* Increase the grid rows to make space for wrapped text on narrower tablet screens */
-    .fe-66adf9c52e735457c7814c2d {
-        grid-template-rows: repeat(29, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
-    }
-    /* Push the bottom flower block down */
-    .fe-block-feac8f893955c4868796 {
-        grid-area: 23/3/27/25 !important;
-    }
-}

@@ -3467,7 +3467,7 @@ header.header.header-is-scrolled {
     --row-height-scaling-factor: 0.0215;
     --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
 
-    grid-template-rows: repeat(24,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-rows: repeat(28,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
     grid-template-columns:
       minmax(var(--grid-gutter), 1fr)
       repeat(24, minmax(0, var(--cell-max-width)))
@@ -3580,7 +3580,7 @@ header.header.header-is-scrolled {
 
   @media (min-width: 768px) {
     .fe-block-feac8f893955c4868796 {
-      grid-area: 19/3/22/25;
+      grid-area: 24/3/27/25;
       z-index: 3;
 
       
