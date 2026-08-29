@@ -1662,7 +1662,8 @@ footer#footer-sections .page-section {
 .tcf-col-center img {
   max-width: 90%;
   margin-bottom: 25px;
-  display: inline-block;
+  margin: 0 auto 25px auto !important;
+  display: block !important;
 }
 
 .tcf-socials {
