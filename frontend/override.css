@@ -703,3 +703,8 @@ h1.custom-contact-heading {
     grid-area: 17/3/20/25 !important;
   }
 }
+
+/* Ensure philosophy text uses Poppins consistently across desktop and mobile */
+[data-philosophy-p="true"] {
+  font-family: 'Poppins', sans-serif !important;
+}
