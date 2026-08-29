@@ -691,3 +691,12 @@ h1.custom-contact-heading {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
+
+/* Vertically center the FAQ hero text on mobile screens */
+@media screen and (max-width: 767px) {
+  section[data-section-id="629de92395a8fc23d54662fd"] .content-wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+}
