@@ -543,7 +543,7 @@ a[href="/films"] {
 /* Custom Contact Heading Sizing */
 h1.custom-contact-heading {
     font-size: 54px !important;
-    white-space: nowrap !important;
+    white-space: normal !important;
 }
 
 @media screen and (max-width: 900px) {
