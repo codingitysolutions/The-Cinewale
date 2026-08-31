@@ -572,15 +572,6 @@ h1.custom-contact-heading {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
-/* Fix flower overlapping text by adjusting the fluid engine grid rows */
-@media (max-width: 767px) {
-    .fe-66adf9c52e735457c7814c2d {
-        grid-template-rows: repeat(38, minmax(24px, auto)) !important;
-    }
-    .fe-block-feac8f893955c4868796 {
-        grid-area: 33/2/37/10 !important;
-    }
-}
 
 /* Shift WedMeGood logo slightly left (towards the middle) on mobile as it appeared slightly to the right */
 @media (max-width: 767px) {
@@ -705,22 +696,28 @@ h1.custom-contact-heading {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
-/* Fix bottom flower gap on laptop screens (1025px - 1440px) */
-@media (min-width: 1025px) and (max-width: 1440px) {
-  .fe-66adf9c52e735457c7814c2d {
-    grid-template-rows: repeat(24, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
-  }
-  .fe-block-feac8f893955c4868796 {
-    grid-area: 21/3/24/25 !important;
-  }
+
+
+/* Ultimate responsive fix for the Philosophy section with the flowers */
+/* Converts the rigid Fluid Engine grid to a flexible column so elements naturally stack and never overlap */
+.fe-66adf9c52e735457c7814c2d {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 30px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
 }
 
-/* Fix bottom flower gap on large desktop screens (> 1440px) */
-@media (min-width: 1441px) {
-  .fe-66adf9c52e735457c7814c2d {
-    grid-template-rows: repeat(20, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
-  }
-  .fe-block-feac8f893955c4868796 {
-    grid-area: 17/3/20/25 !important;
-  }
+.fe-66adf9c52e735457c7814c2d .fe-block {
+    position: static !important;
+    width: 90% !important;
+    max-width: 1400px !important;
+    height: auto !important;
+}
+
+.fe-66adf9c52e735457c7814c2d .sqs-block-image .sqs-block-alignment-wrapper {
+    justify-content: center !important;
+    align-items: center !important;
 }
