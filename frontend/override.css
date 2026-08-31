@@ -540,23 +540,6 @@ a[href="/films"] {
     white-space: normal !important;
 }
 
-/* Custom Contact Heading Sizing */
-h1.custom-contact-heading {
-    font-size: 54px !important;
-    white-space: normal !important;
-}
-
-@media screen and (max-width: 900px) {
-    h1.custom-contact-heading {
-        font-size: 40px !important;
-        white-space: normal !important; /* Allow wrap on smaller screens */
-    }
-}
-@media screen and (max-width: 600px) {
-    h1.custom-contact-heading {
-        font-size: 32px !important;
-    }
-}
 
 /* Explicitly requested by user: Nav links and 4 Cards to use Poppins */
 .header-nav-item a, 
@@ -716,4 +699,18 @@ h1.custom-contact-heading {
   .fe-block-feac8f893955c4868796 {
     grid-area: 22/3/25/25 !important;
   }
+}
+
+/* Custom Contact Heading Sizing (Fluid typography) */
+/* This ensures the text dynamically shrinks on smaller screens so it can stay on a single line without overflowing and shifting right */
+h1.custom-contact-heading {
+    font-size: clamp(28px, 4.2vw, 54px) !important;
+    white-space: normal !important;
+}
+
+/* Force single line on all screens larger than a phone */
+@media screen and (min-width: 768px) {
+    h1.custom-contact-heading {
+        white-space: nowrap !important;
+    }
 }
