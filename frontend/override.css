@@ -708,10 +708,10 @@ h1.custom-contact-heading {
 /* Fix bottom flower gap on laptop screens (1025px - 1440px) */
 @media (min-width: 1025px) and (max-width: 1440px) {
   .fe-66adf9c52e735457c7814c2d {
-    grid-template-rows: repeat(24, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
+    grid-template-rows: repeat(27, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
   }
   .fe-block-feac8f893955c4868796 {
-    grid-area: 21/3/24/25 !important;
+    grid-area: 24/3/27/25 !important;
   }
 }
 
