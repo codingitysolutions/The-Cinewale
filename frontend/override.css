@@ -705,22 +705,15 @@ h1.custom-contact-heading {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
-/* Fix bottom flower gap on laptop screens (1025px - 1440px) */
-@media (min-width: 768px) and (max-width: 1440px) {
-  .fe-66adf9c52e735457c7814c2d {
-    grid-template-rows: repeat(30, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
-  }
-  .fe-block-feac8f893955c4868796 {
-    grid-area: 27/3/30/25 !important;
-  }
-}
 
-/* Fix bottom flower gap on large desktop screens (> 1440px) */
-@media (min-width: 1441px) {
+
+/* Fix bottom flower gap on all desktop and laptop screens (> 1024px) */
+/* We place the flower at row 22 to guarantee enough space for text wrapping on laptops, while remaining visually tight on larger desktops */
+@media (min-width: 1025px) {
   .fe-66adf9c52e735457c7814c2d {
-    grid-template-rows: repeat(20, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
+    grid-template-rows: repeat(25, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
   }
   .fe-block-feac8f893955c4868796 {
-    grid-area: 17/3/20/25 !important;
+    grid-area: 22/3/25/25 !important;
   }
 }
