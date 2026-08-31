@@ -694,15 +694,6 @@ h1.custom-contact-heading {
   }
 }
 
-/* Fix bottom flower gap on desktop screens (> 1024px) */
-@media (min-width: 1025px) {
-  .fe-66adf9c52e735457c7814c2d {
-    grid-template-rows: repeat(20, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
-  }
-  .fe-block-feac8f893955c4868796 {
-    grid-area: 17/3/20/25 !important;
-  }
-}
 
 /* Ensure philosophy text uses the mobile phone font (Helvetica) consistently across desktop and mobile */
 [data-philosophy-p="true"] {
@@ -712,4 +703,24 @@ h1.custom-contact-heading {
 /* Ensure "A Glimpse Into Our Favourite..." heading uses the mobile phone font (Helvetica) */
 .list-section-title p {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+/* Fix bottom flower gap on laptop screens (1025px - 1440px) */
+@media (min-width: 1025px) and (max-width: 1440px) {
+  .fe-66adf9c52e735457c7814c2d {
+    grid-template-rows: repeat(24, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
+  }
+  .fe-block-feac8f893955c4868796 {
+    grid-area: 21/3/24/25 !important;
+  }
+}
+
+/* Fix bottom flower gap on large desktop screens (> 1440px) */
+@media (min-width: 1441px) {
+  .fe-66adf9c52e735457c7814c2d {
+    grid-template-rows: repeat(20, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)) !important;
+  }
+  .fe-block-feac8f893955c4868796 {
+    grid-area: 17/3/20/25 !important;
+  }
 }
