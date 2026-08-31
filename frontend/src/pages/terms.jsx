@@ -4290,7 +4290,7 @@ header.header.header-is-scrolled {
 
   <!-- CENTER COLUMN: Logo & Socials -->
   <div class="tcf-col tcf-col-center">
-    <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" />
+    <div class="tcf-logo-wrapper" style="display: flex; justify-content: center; width: 100%; margin-bottom: 25px;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" alt="The Cinewale" style="max-width: 90%; margin: 0 auto; display: block;" /></div>
     <div class="tcf-socials">
       <a href="#" target="_blank"><svg viewBox="0 0 64 64"><use href="#youtube-unauth-icon"></use></svg></a>
       <a href="https://www.instagram.com/thecinewale/" target="_blank"><svg viewBox="0 0 64 64"><use href="#instagram-unauth-icon"></use></svg></a>
