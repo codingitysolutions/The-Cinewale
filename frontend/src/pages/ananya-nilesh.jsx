@@ -3689,8 +3689,8 @@ header.header.header-is-scrolled {
   data-file-location=""
   data-url=""
   data-asset-url="https://static1.squarespace.com/static/62838fda1d80b676079fcce4/t/62b8a77977148a5bbe7d2167/1656268718659/Baarish_Ka_Asar_Twin_Strings_Orig_%28getmp3.pro%29.mp3"
-  data-title="Baarish Ka Asar"
-  data-author="Twin Strings Originals"
+  data-title=""
+  data-author=""
   data-length-in-milli-seconds="249000"
   data-no-file="No File"
   data-untitled="Untitled">
@@ -3703,9 +3703,9 @@ header.header.header-is-scrolled {
       <div class="placeholder">
         <div class="wrapper">
           
-            <span class="audio-author">Twin Strings Originals</span>
+            <span class="audio-author"></span>
           
-          <span class="audio-title">Baarish Ka Asar</span>
+          <span class="audio-title"></span>
         </div>
       </div>
     

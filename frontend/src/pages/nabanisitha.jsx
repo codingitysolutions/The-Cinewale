@@ -3228,8 +3228,8 @@ header.header.header-is-scrolled {
   data-file-location=""
   data-url=""
   data-asset-url="https://static1.squarespace.com/static/62838fda1d80b676079fcce4/t/62a629074b56034fd22a601d/1655056701453/Ghar+Aa+-+Orchestral+Qawwali+_+Rushil+_+Abi+Sampa+_+Amrit+Dhuffer.mp3"
-  data-title="Ghar Aa - Orchestral Qawwali "
-  data-author="Rushil | Abi Sampa | Amrit Dhuffer"
+  data-title=""
+  data-author=""
   data-length-in-milli-seconds="456000"
   data-no-file="No File"
   data-untitled="Untitled">
@@ -3242,9 +3242,9 @@ header.header.header-is-scrolled {
       <div class="placeholder">
         <div class="wrapper">
           
-            <span class="audio-author">Rushil | Abi Sampa | Amrit Dhuffer</span>
+            <span class="audio-author"></span>
           
-          <span class="audio-title">Ghar Aa - Orchestral Qawwali </span>
+          <span class="audio-title"></span>
         </div>
       </div>
     

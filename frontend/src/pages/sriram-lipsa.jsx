@@ -3355,8 +3355,8 @@ header.header.header-is-scrolled {
   data-file-location=""
   data-url=""
   data-asset-url="https://static1.squarespace.com/static/62838fda1d80b676079fcce4/t/62a5fcfc0c0a913ddd47e2c1/1655055194720/Je+te+laisserai+des+mots.mp3"
-  data-title="Je te laisserai des mots"
-  data-author="Patrick Watson"
+  data-title=""
+  data-author=""
   data-length-in-milli-seconds="160000"
   data-no-file="No File"
   data-untitled="Untitled">
@@ -3369,9 +3369,9 @@ header.header.header-is-scrolled {
       <div class="placeholder">
         <div class="wrapper">
           
-            <span class="audio-author">Patrick Watson</span>
+            <span class="audio-author"></span>
           
-          <span class="audio-title">Je te laisserai des mots</span>
+          <span class="audio-title"></span>
         </div>
       </div>
     
