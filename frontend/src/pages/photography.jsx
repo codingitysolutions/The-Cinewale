@@ -3373,7 +3373,7 @@ header.header.header-is-scrolled {
             &quot;workflowState&quot;: 1,
             &quot;publishOn&quot;: 1658224524868,
             &quot;authorId&quot;: &quot;605b61dd2326317867eed357&quot;,
-            &quot;systemDataId&quot;: &quot;1658224535754-QNKR8R5OIOFITOMJSYZH&quot;,
+            &quot;systemDataId&quot;: &quot;BROKEN&quot;,
             &quot;systemDataVariants&quot;: &quot;2560x1707,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
             &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
             &quot;filename&quot;: &quot;N+S 84.jpg&quot;,
@@ -3398,7 +3398,7 @@ header.header.header-is-scrolled {
             &quot;publicCommentCount&quot;: 0,
             &quot;commentState&quot;: 2,
             &quot;unsaved&quot;: false,
-            &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/1658224535754-QNKR8R5OIOFITOMJSYZH/N%2BS+84.jpg&quot;,
+            &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/BROKEN/N%2BS+84.jpg&quot;,
             &quot;contentType&quot;: &quot;image/jpeg&quot;,
             &quot;items&quot;: [ ],
             &quot;pushedServices&quot;: { },
@@ -3974,7 +3974,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760516/bwly12xjt441f3eqmhmu.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Sriram & Lipsa" /></div>
+<img src="/sriram_lipsa/sriram_lipsa_cover_new.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Sriram & Lipsa" /></div>
       </div>
   
 
