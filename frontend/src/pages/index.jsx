@@ -4834,7 +4834,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:4"
           data-animation-role="image"
         >
-<img alt="Naba & Nisitha Wedding" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760443/jjh80q5uap0o7zcuzcc1.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
+<img alt="Naba & Nisitha Wedding" src="/naba_nisitha/_L0A0824.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
       </div>
   
 
