@@ -3647,7 +3647,7 @@ header.header.header-is-scrolled {
             &quot;workflowState&quot;: 1,
             &quot;publishOn&quot;: 1658224898857,
             &quot;authorId&quot;: &quot;605b61dd2326317867eed357&quot;,
-            &quot;systemDataId&quot;: &quot;1658224907236-I1PVUDDWWRSF1FGYSF0T&quot;,
+            &quot;systemDataId&quot;: &quot;BROKEN_ANANYA&quot;,
             &quot;systemDataVariants&quot;: &quot;1920x1280,100w,300w,500w,750w,1000w,1500w&quot;,
             &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
             &quot;filename&quot;: &quot;K+V 246 SLP02815.jpg&quot;,
@@ -3672,7 +3672,7 @@ header.header.header-is-scrolled {
             &quot;publicCommentCount&quot;: 0,
             &quot;commentState&quot;: 2,
             &quot;unsaved&quot;: false,
-            &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/1658224907236-I1PVUDDWWRSF1FGYSF0T/K%2BV+246+SLP02815.jpg&quot;,
+            &quot;assetUrl&quot;: &quot;/ananya_nilesh/cover_new.jpg&quot;,
             &quot;contentType&quot;: &quot;image/jpeg&quot;,
             &quot;items&quot;: [ ],
             &quot;pushedServices&quot;: { },
@@ -3702,7 +3702,7 @@ header.header.header-is-scrolled {
             &quot;workflowState&quot;: 1,
             &quot;publishOn&quot;: 1658224128500,
             &quot;authorId&quot;: &quot;605b61dd2326317867eed357&quot;,
-            &quot;systemDataId&quot;: &quot;1658224133956-8IMWETS96ZXUAM9K0IBU&quot;,
+            &quot;systemDataId&quot;: &quot;BROKEN_PREETISH&quot;,
             &quot;systemDataVariants&quot;: &quot;2000x1333,100w,300w,500w,750w,1000w,1500w&quot;,
             &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
             &quot;filename&quot;: &quot;HIM05735.jpg&quot;,
@@ -3727,7 +3727,7 @@ header.header.header-is-scrolled {
             &quot;publicCommentCount&quot;: 0,
             &quot;commentState&quot;: 2,
             &quot;unsaved&quot;: false,
-            &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/1658224133956-8IMWETS96ZXUAM9K0IBU/HIM05735.jpg&quot;,
+            &quot;assetUrl&quot;: &quot;https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760490/rp4b8dhmce9fla95xew8.jpg&quot;,
             &quot;contentType&quot;: &quot;image/jpeg&quot;,
             &quot;items&quot;: [ ],
             &quot;pushedServices&quot;: { },
@@ -4171,7 +4171,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760469/eedgyc7w0aikccb47mpv.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Prajnya & Sasmita" /></div>
+<img src="/ananya_nilesh/cover_new.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Prajnya & Sasmita" /></div>
       </div>
   
 
