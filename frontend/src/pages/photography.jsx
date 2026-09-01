@@ -3428,7 +3428,7 @@ header.header.header-is-scrolled {
             &quot;workflowState&quot;: 1,
             &quot;publishOn&quot;: 1656170227409,
             &quot;authorId&quot;: &quot;605b61dd2326317867eed357&quot;,
-            &quot;systemDataId&quot;: &quot;1656170231199-M9L2M85VI1FTZR1ECA3U&quot;,
+            &quot;systemDataId&quot;: &quot;BROKEN&quot;,
             &quot;systemDataVariants&quot;: &quot;1920x1280,100w,300w,500w,750w,1000w,1500w&quot;,
             &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
             &quot;filename&quot;: &quot;H+B 87.jpg&quot;,
@@ -3453,7 +3453,7 @@ header.header.header-is-scrolled {
             &quot;publicCommentCount&quot;: 0,
             &quot;commentState&quot;: 2,
             &quot;unsaved&quot;: false,
-            &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/1656170231199-M9L2M85VI1FTZR1ECA3U/H%2BB+87.jpg&quot;,
+            &quot;assetUrl&quot;: &quot;/naba_nisitha/naba_nisitha_cover_new.jpg&quot;,
             &quot;contentType&quot;: &quot;image/jpeg&quot;,
             &quot;items&quot;: [ ],
             &quot;pushedServices&quot;: { },
@@ -4068,7 +4068,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760443/jjh80q5uap0o7zcuzcc1.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Naba & Nisitha" /></div>
+<img src="/naba_nisitha/naba_nisitha_cover_new.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Naba & Nisitha" /></div>
       </div>
   
 
