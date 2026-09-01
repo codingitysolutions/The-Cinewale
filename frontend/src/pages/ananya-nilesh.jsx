@@ -3123,7 +3123,7 @@ header.header.header-is-scrolled {
 >
   
 
-  <div class="sqs-video-background-native__video-player"><img src="/ananya_nilesh/SR503120.jpg" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0; transform: scale(1.34);"></div>
+  <div class="sqs-video-background-native__video-player"><video src="https://res.cloudinary.com/nmv4tzev/video/upload/Ananya_Nilesh_Video_for_Wbesite_1.mp4" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0; transform: scale(1.35);"></video></div>
 </div>
 
           </div>
