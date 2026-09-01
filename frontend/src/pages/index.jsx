@@ -4735,7 +4735,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:4"
           data-animation-role="image"
         >
-<img alt="Ananya & Nilesh Wedding" src="/ananya_nilesh/SR502970.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
+<img alt="Ananya & Nilesh Wedding" src="/ananya_nilesh/cover_new.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
       </div>
   
 
