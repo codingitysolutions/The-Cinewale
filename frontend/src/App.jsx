@@ -7,7 +7,7 @@ import Faq from './pages/faq.jsx';
 import Terms from './pages/terms.jsx';
 import Films from './pages/films.jsx';
 import Nabanisitha from './pages/nabanisitha.jsx';
-import Prajnya_sasmita from './pages/prajnya-sasmita.jsx';
+import Ananya_nilesh from './pages/ananya-nilesh.jsx';
 import Preetish_shradha from './pages/preetish-shradha.jsx';
 import Sriram_lipsa from './pages/sriram-lipsa.jsx';
 import Photography from './pages/photography.jsx';
@@ -64,8 +64,8 @@ function App() {
           <Route path="/films.html" element={<Films />} />
           <Route path="/nabanisitha" element={<Nabanisitha />} />
           <Route path="/nabanisitha.html" element={<Nabanisitha />} />
-          <Route path="/prajnya-sasmita" element={<Prajnya_sasmita />} />
-          <Route path="/prajnya-sasmita.html" element={<Prajnya_sasmita />} />
+          <Route path="/ananya-nilesh" element={<Ananya_nilesh />} />
+          <Route path="/ananya-nilesh.html" element={<Ananya_nilesh />} />
           <Route path="/preetish-shradha" element={<Preetish_shradha />} />
           <Route path="/preetish-shradha.html" element={<Preetish_shradha />} />
           <Route path="/sriram-lipsa" element={<Sriram_lipsa />} />
