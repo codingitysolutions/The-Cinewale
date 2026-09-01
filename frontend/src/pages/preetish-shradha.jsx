@@ -3387,51 +3387,80 @@ header.header.header-is-scrolled {
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62a6235ee4ad350c678bc729"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-audio audio-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.audio/23ca0d19-0875-4a8a-8f83-b7b631178b6f_490/website.components.audio.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.audio/23ca0d19-0875-4a8a-8f83-b7b631178b6f_490/website.components.audio.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.audio" data-sqsp-block="audio" data-website-component-id="ae33c2a33902da90eb29" id="block-ae33c2a33902da90eb29"><div class="sqs-block-content">
   
 
-<div class="sqs-audio-embed"
-  data-design-style="legacy"
-  data-show-download="false"
-  data-file-location=""
-  data-url=""
-  data-asset-url="https://static1.squarespace.com/static/62838fda1d80b676079fcce4/t/62a6235de4ad350c678bc666/1655055194720/Je+te+laisserai+des+mots.mp3"
-  data-title=""
-  data-author=""
-  data-length-in-milli-seconds="160000"
-  data-no-file="No File"
-  data-untitled="Untitled">
-  
-  <!-- Classic Mode Player Structure -->
-  <div class="sqs-widget sqs-audio-player">
-    <div class="sqs-audio-player-content">
-      <div class="controls" tabindex="0"></div>
-    
-      <div class="placeholder">
-        <div class="wrapper">
-          
-            <span class="audio-author"></span>
-          
-          <span class="audio-title"></span>
-        </div>
+<style>
+@keyframes eq-bounce {
+  0% { transform: scaleY(0.4); }
+  100% { transform: scaleY(1.3); }
+}
+</style>
+<div class="custom-card-audio" style="margin: 20px auto; width: 100%; max-width: 1200px; background: rgba(34, 34, 34, 0.95); border-radius: 50px; display: flex; align-items: center; padding: 12px 20px; cursor: pointer; position: relative; overflow: hidden; box-sizing: border-box; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <div class="audio-progress-fill" style="position: absolute; left: 0; top: 0; bottom: 0; width: 0%; background: rgba(255,255,255,0.15); z-index: 1;"></div>
+  <div style="z-index: 2; display: flex; align-items: center; width: 100%;">
+      <div class="audio-play-icon" style="margin-right: 15px; display: flex; align-items: center; z-index: 3;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="#ffffff"><path d="M8 5v14l11-7z"/></svg>
       </div>
-    
-      <div class="progress" tabindex="0">
-      <div class="progress-inner">
-        <div class="scrubber"></div>
-      </div>
-      </div>
-    
-      <div class="duration"></div>
-    
-      <div class="volume" tabindex="0"></div>
-    
       
-    </div>
+      <div style="flex-grow: 1;"></div>
+      
+      <div class="audio-eq" style="display: flex; gap: 3px; align-items: center; z-index: 3;">
+         <div style="width: 2px; height: 10px; background: #ffffff; border-radius: 1px;"></div>
+         <div style="width: 2px; height: 14px; background: #ffffff; border-radius: 1px;"></div>
+         <div style="width: 2px; height: 10px; background: #ffffff; border-radius: 1px;"></div>
+         <div style="width: 2px; height: 12px; background: #ffffff; border-radius: 1px;"></div>
+         <div style="width: 2px; height: 8px; background: #ffffff; border-radius: 1px;"></div>
+      </div>
   </div>
-  
-  
-
-
-
+  <audio src="https://video.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d3ebc764-0a01-49df-92c4-fc52d00e57a7/1080p.mp4" preload="auto" loop></audio>
 </div>
+<script>
+  setTimeout(function() {
+    var players = document.querySelectorAll('.custom-card-audio:not(.initialized)');
+    players.forEach(function(player) {
+      player.classList.add('initialized');
+      var audio = player.querySelector('audio');
+      var playIcon = player.querySelector('.audio-play-icon svg');
+      var progressFill = player.querySelector('.audio-progress-fill');
+      var eqBars = player.querySelectorAll('.audio-eq div');
+      var isPlaying = false;
+      
+      player.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        if (isPlaying) {
+          audio.pause();
+        } else {
+          document.querySelectorAll('.custom-card-audio audio').forEach(function(a) {
+            if (a !== audio) a.pause();
+          });
+          audio.play().catch(function(err){ console.log(err); });
+        }
+      });
+      
+      audio.addEventListener('play', function() {
+        isPlaying = true;
+        playIcon.innerHTML = '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>';
+        eqBars.forEach(function(bar, i) {
+          bar.style.animation = 'eq-bounce 0.6s ' + (i * 0.1) + 's infinite alternate ease-in-out';
+        });
+      });
+      
+      audio.addEventListener('pause', function() {
+        isPlaying = false;
+        playIcon.innerHTML = '<path d="M8 5v14l11-7z"/>';
+        eqBars.forEach(function(bar) {
+          bar.style.animation = 'none';
+        });
+      });
+      
+      audio.addEventListener('timeupdate', function() {
+        if (audio.duration) {
+          var percent = (audio.currentTime / audio.duration) * 100;
+          progressFill.style.width = percent + '%';
+        }
+      });
+    });
+  }, 500);
+</script>
 
 <style class="transform-overrides-vars">
   
