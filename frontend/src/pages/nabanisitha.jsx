@@ -3412,7 +3412,7 @@ header.header.header-is-scrolled {
       
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62a6235a91477f22c5ec86be"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="958c0ee28c74fb93cdcd" id="block-958c0ee28c74fb93cdcd"><div class="sqs-block-content"><div class="sqs-text-block-container">
   
-  <div class="sqs-html-content" data-sqsp-text-block-content><h4 style="text-align:center;white-space:pre-wrap;">Two souls, one beautiful journey, where every glance, smile, and moment feels destined to become a memory...</h4><h4 style="text-align:center;white-space:pre-wrap;"><em>Wedding Makers</em> </h4><h4 style="text-align:center;white-space:pre-wrap;">Photographs &amp; Film : <em>The Cinewale</em> | Decor : <em>The Girl With Ideas</em></h4><h4 style="text-align:center;white-space:pre-wrap;">Makeup: <em>Seema Makhrani &amp; Chaitali Sen</em> | Outfit: <em>Sabyasachi Mukherjee</em></h4></div>
+  <div class="sqs-html-content" data-sqsp-text-block-content style="display:none;"></div>
 
 
   

@@ -3668,7 +3668,7 @@ header.header.header-is-scrolled {
 
 </style><div class="fluid-engine fe-63052e5e23e7bf03ed83ed9f"><div class="fe-block fe-block-63052e5e55c28c6f1f0c826c"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="63052e5e55c28c6f1f0c826c" id="block-63052e5e55c28c6f1f0c826c"><div class="sqs-block-content"><div class="sqs-text-block-container">
   
-  <div class="sqs-html-content" data-sqsp-text-block-content><h4 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--lightAccent"><strong>— A celebration of love, connection, and togetherness, beautifully unfolding into the beginning of their forever...</strong></span></h4></div>
+  <div class="sqs-html-content" data-sqsp-text-block-content style="display:none;"></div>
 
 
   
