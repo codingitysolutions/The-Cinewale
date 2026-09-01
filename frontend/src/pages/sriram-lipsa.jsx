@@ -1244,7 +1244,7 @@ header.header.header-is-scrolled {
   img[data-src*="freepik-export-20240803103330fQJQ"],
   img[srcset*="freepik-export-20240803103330fQJQ"],
   .sqs-block-image:has(img[src*="freepik-export"]) canvas {
-    filter: brightness(0) saturate(100%) invert(11%) sepia(97%) saturate(4155%) hue-rotate(349deg) brightness(88%) contrast(98%) !important;
+    filter: brightness(0) saturate(100%) invert(39%) sepia(15%) saturate(747%) hue-rotate(350deg) brightness(99%) contrast(88%) !important;
   }
 
   /* 2. Target the block's reveal animation curtain so it matches the new color */
