@@ -635,9 +635,9 @@ body .list-item-content__description * {
 
 /* 7. Headlines: #791112 */
 [data-weddings-headline="true"] {
-  color: #791112 !important;
-  fill: #791112 !important;
-  -webkit-text-fill-color: #791112 !important;
+  color: #7b6650 !important;
+  fill: #7b6650 !important;
+  -webkit-text-fill-color: #7b6650 !important;
 }
 
 /* Hide header completely on scroll for a cinematic experience */
@@ -669,8 +669,8 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('h1, h2, h3, h4, strong, span').forEach(function(el) {
       var txt = (el.textContent || '').trim();
       if (txt === "CRAFTING WEDDINGS INTO CINEMA" || txt === "CRAFTING WEDDINGS INTO CINEMA") {
-        el.style.setProperty('color', '#791112', 'important');
-        el.style.setProperty('-webkit-text-fill-color', '#791112', 'important');
+        el.style.setProperty('color', '#7b6650', 'important');
+        el.style.setProperty('-webkit-text-fill-color', '#7b6650', 'important');
         el.setAttribute('data-weddings-headline', 'true');
       }
       if (txt === "A Glimpse Into Our Favourite Love Stories Across The World") {
@@ -1244,7 +1244,7 @@ header.header.header-is-scrolled {
   .sqs-block-image:has(img[src*="freepik-export"]) .fluid-image-animation-wrapper::after,
   .sqs-block-image:has(img[src*="freepik-export"]) .animation-mask,
   .sqs-block-image:has(img[src*="freepik-export"]) .sqs-image-shape-container::after {
-    background-color: #791112 !important;
+    background-color: #7B6650 !important;
   }
 </style>
 
