@@ -1,60 +1,6 @@
 import React, { useEffect } from 'react';
 
 export default function Films() {
-
-  useEffect(() => {
-    const audioPlayers = document.querySelectorAll('.custom-card-audio');
-    audioPlayers.forEach(player => {
-      const audio = player.querySelector('audio');
-      const playIcon = player.querySelector('.audio-play-icon svg');
-      const progressFill = player.querySelector('.audio-progress-fill');
-      const eqBars = player.querySelectorAll('.audio-eq div');
-      
-      let isPlaying = false;
-      
-      const togglePlay = (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        
-        if (isPlaying) {
-          audio.pause();
-        } else {
-          document.querySelectorAll('.custom-card-audio audio').forEach(a => {
-            if(a !== audio) {
-               a.pause();
-            }
-          });
-          audio.play().catch(err => console.log('Audio play error:', err));
-        }
-      };
-      
-      player.addEventListener('click', togglePlay);
-      
-      audio.addEventListener('play', () => {
-        isPlaying = true;
-        playIcon.innerHTML = '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>';
-        eqBars.forEach((bar, i) => {
-          bar.style.animation = `eq-bounce 0.6s ${i*0.1}s infinite alternate ease-in-out`;
-        });
-      });
-      
-      audio.addEventListener('pause', () => {
-        isPlaying = false;
-        playIcon.innerHTML = '<path d="M8 5v14l11-7z"/>';
-        eqBars.forEach(bar => {
-          bar.style.animation = 'none';
-        });
-      });
-      
-      audio.addEventListener('timeupdate', () => {
-        if(audio.duration) {
-          const percent = (audio.currentTime / audio.duration) * 100;
-          progressFill.style.width = percent + '%';
-        }
-      });
-    });
-  }, []);
-
   useEffect(() => {
     const container = document.getElementById('films-container');
     if (container) {
@@ -4817,27 +4763,6 @@ header.header.header-is-scrolled {
         >
           <p class="" style="white-space:pre-wrap;"><em>Where Two Souls Meet</em></p><p class="" style="white-space:pre-wrap;">A quiet celebration of two hearts finding their rhythm, captured through intimate moments, laughter, and timeless emotions....</p>
         </div>
-        <div class="custom-card-audio" style={marginTop: "20px", width: "100%", background: "rgba(34, 34, 34, 0.85)", borderRadius: "50px", display: "flex", alignItems: "center", padding: "8px 15px", cursor: "pointer", position: "relative", overflow: "hidden", boxSizing: "border-box"}>
-          <div class="audio-progress-fill" style={position: "absolute", left: 0, top: 0, bottom: 0, width: "0%", background: "rgba(255,255,255,0.15)", zIndex: 1}></div>
-          <div style={zIndex: 2, display: "flex", alignItems: "center", width: "100%"}>
-              <div class="audio-play-icon" style={marginRight: "12px", display: "flex", alignItems: "center"}>
-                <svg width="12" height="12" viewBox="0 0 24 24" fill="#ffffff"><path d="M8 5v14l11-7z"/></svg>
-              </div>
-              <div class="audio-text" style={display: "flex", gap: "8px", flexGrow: 1, fontFamily: "'Helvetica', Arial, sans-serif", fontSize: "11px"}>
-                <span style={color: "#ffffff", fontWeight: 600}>The Cinewale</span>
-                <span style={color: "#aaaaaa"}>Original Audio</span>
-              </div>
-              <div class="audio-eq" style={display: "flex", gap: "2px", alignItems: "center"}>
-                 <div style={width: "2px", height: "8px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "12px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "8px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "10px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "6px", background: "#aaaaaa", borderRadius: "1px"}></div>
-              </div>
-          </div>
-          <audio src="https://res.cloudinary.com/nmv4tzev/video/upload/Ananya_Nilesh_Video_for_Wbesite_1.mp4" preload="none" loop></audio>
-        </div>
-
       
 
     </div>
@@ -4937,27 +4862,6 @@ header.header.header-is-scrolled {
         >
           <p class="" style="white-space:pre-wrap;">Written in the Stars</p><p class="" style="white-space:pre-wrap;">Two souls, one beautiful journey, where every glance, smile, and moment feels destined to become a memory...</p>
         </div>
-        <div class="custom-card-audio" style={marginTop: "20px", width: "100%", background: "rgba(34, 34, 34, 0.85)", borderRadius: "50px", display: "flex", alignItems: "center", padding: "8px 15px", cursor: "pointer", position: "relative", overflow: "hidden", boxSizing: "border-box"}>
-          <div class="audio-progress-fill" style={position: "absolute", left: 0, top: 0, bottom: 0, width: "0%", background: "rgba(255,255,255,0.15)", zIndex: 1}></div>
-          <div style={zIndex: 2, display: "flex", alignItems: "center", width: "100%"}>
-              <div class="audio-play-icon" style={marginRight: "12px", display: "flex", alignItems: "center"}>
-                <svg width="12" height="12" viewBox="0 0 24 24" fill="#ffffff"><path d="M8 5v14l11-7z"/></svg>
-              </div>
-              <div class="audio-text" style={display: "flex", gap: "8px", flexGrow: 1, fontFamily: "'Helvetica', Arial, sans-serif", fontSize: "11px"}>
-                <span style={color: "#ffffff", fontWeight: 600}>The Cinewale</span>
-                <span style={color: "#aaaaaa"}>Original Audio</span>
-              </div>
-              <div class="audio-eq" style={display: "flex", gap: "2px", alignItems: "center"}>
-                 <div style={width: "2px", height: "8px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "12px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "8px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "10px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "6px", background: "#aaaaaa", borderRadius: "1px"}></div>
-              </div>
-          </div>
-          <audio src="https://res.cloudinary.com/nmv4tzev/video/upload/Naba_Export.mp4" preload="none" loop></audio>
-        </div>
-
       
 
     </div>
@@ -5057,27 +4961,6 @@ header.header.header-is-scrolled {
         >
           <p class="" style="white-space:pre-wrap;"><em>A Love in Frames </em></p><p class="" style="white-space:pre-wrap;">A cinematic journey capturing their chemistry, emotions, and the little moments that make their story uniquely theirs....</p>
         </div>
-        <div class="custom-card-audio" style={marginTop: "20px", width: "100%", background: "rgba(34, 34, 34, 0.85)", borderRadius: "50px", display: "flex", alignItems: "center", padding: "8px 15px", cursor: "pointer", position: "relative", overflow: "hidden", boxSizing: "border-box"}>
-          <div class="audio-progress-fill" style={position: "absolute", left: 0, top: 0, bottom: 0, width: "0%", background: "rgba(255,255,255,0.15)", zIndex: 1}></div>
-          <div style={zIndex: 2, display: "flex", alignItems: "center", width: "100%"}>
-              <div class="audio-play-icon" style={marginRight: "12px", display: "flex", alignItems: "center"}>
-                <svg width="12" height="12" viewBox="0 0 24 24" fill="#ffffff"><path d="M8 5v14l11-7z"/></svg>
-              </div>
-              <div class="audio-text" style={display: "flex", gap: "8px", flexGrow: 1, fontFamily: "'Helvetica', Arial, sans-serif", fontSize: "11px"}>
-                <span style={color: "#ffffff", fontWeight: 600}>The Cinewale</span>
-                <span style={color: "#aaaaaa"}>Original Audio</span>
-              </div>
-              <div class="audio-eq" style={display: "flex", gap: "2px", alignItems: "center"}>
-                 <div style={width: "2px", height: "8px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "12px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "8px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "10px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "6px", background: "#aaaaaa", borderRadius: "1px"}></div>
-              </div>
-          </div>
-          <audio src="https://res.cloudinary.com/nmv4tzev/video/upload/export.mp4" preload="none" loop></audio>
-        </div>
-
       
 
     </div>
@@ -5177,27 +5060,6 @@ header.header.header-is-scrolled {
         >
           <p class="" style="white-space:pre-wrap;"><em>The Beginning of Forever</em></p><p class="" style="white-space:pre-wrap;">— A celebration of love, connection, and togetherness, beautifully unfolding into the beginning of their forever...</p>
         </div>
-        <div class="custom-card-audio" style={marginTop: "20px", width: "100%", background: "rgba(34, 34, 34, 0.85)", borderRadius: "50px", display: "flex", alignItems: "center", padding: "8px 15px", cursor: "pointer", position: "relative", overflow: "hidden", boxSizing: "border-box"}>
-          <div class="audio-progress-fill" style={position: "absolute", left: 0, top: 0, bottom: 0, width: "0%", background: "rgba(255,255,255,0.15)", zIndex: 1}></div>
-          <div style={zIndex: 2, display: "flex", alignItems: "center", width: "100%"}>
-              <div class="audio-play-icon" style={marginRight: "12px", display: "flex", alignItems: "center"}>
-                <svg width="12" height="12" viewBox="0 0 24 24" fill="#ffffff"><path d="M8 5v14l11-7z"/></svg>
-              </div>
-              <div class="audio-text" style={display: "flex", gap: "8px", flexGrow: 1, fontFamily: "'Helvetica', Arial, sans-serif", fontSize: "11px"}>
-                <span style={color: "#ffffff", fontWeight: 600}>The Cinewale</span>
-                <span style={color: "#aaaaaa"}>Original Audio</span>
-              </div>
-              <div class="audio-eq" style={display: "flex", gap: "2px", alignItems: "center"}>
-                 <div style={width: "2px", height: "8px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "12px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "8px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "10px", background: "#aaaaaa", borderRadius: "1px"}></div>
-                 <div style={width: "2px", height: "6px", background: "#aaaaaa", borderRadius: "1px"}></div>
-              </div>
-          </div>
-          <audio src="https://video.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d3ebc764-0a01-49df-92c4-fc52d00e57a7/1080p.mp4" preload="none" loop></audio>
-        </div>
-
       
 
     </div>
