@@ -3895,59 +3895,59 @@ header.header.header-is-scrolled {
     <!-- Gallery Masonry --><div class="custom-beautiful-grid" style="margin: 0 auto; padding: 0;">
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760493/czjirdbreftutnbgfjki.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS103361.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760493/dmchrdcxudmk8xbelkbo.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS103415.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760508/phcrybg50l7qsgqfa8xr.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS103659.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760500/wdaisnvkpw5ccpjmaa5d.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS103692.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760510/q6m4brwahyg9vi5t4kjt.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS104131.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760512/z5ydyomxsmoqia6rckqu.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS104172.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760511/nuamnseivt4xeryigyk7.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS104197.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760513/znsk5yofdohwuuotdip4.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS104270.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760496/extemjnrqt4aqm4uiv5x.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS104280.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760514/fu8w6es2r78bgpwqzqtv.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS104467.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760498/cmp2hujon1nrvrkwhuls.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS104635.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760515/fs9y0iwiah1z6s9aws7l.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS104675.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760494/olqbutyc127uftzupim5.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS104770.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760495/cqne64uswqwchz3jeltd.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS104827.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
   </div>
 </div>

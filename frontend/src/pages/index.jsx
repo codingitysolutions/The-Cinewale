@@ -4933,7 +4933,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:4"
           data-animation-role="image"
         >
-<img alt="Sriram & Lipsa Wedding" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760516/bwly12xjt441f3eqmhmu.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
+<img alt="Sriram & Lipsa Wedding" src="/sriram_lipsa/SS105031.jpg" class="list-image" style="display:block;object-position: 50% 50%; width: 100%; height: 100%; object-fit: cover;" loading="lazy" decoding="async"></div>
       </div>
   
 
