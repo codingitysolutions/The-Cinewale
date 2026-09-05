@@ -1601,7 +1601,6 @@ footer#footer-sections .page-section {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
 }
 
 
@@ -1658,9 +1657,13 @@ footer#footer-sections .page-section {
 .tcf-col-center {
   text-align: center;
   flex: 1.2;
-  align-items: center;
 }
 
+.tcf-col-center img {
+  max-width: 90%;
+  margin-bottom: 25px;
+  display: inline-block;
+}
 
 .tcf-socials {
   display: flex;

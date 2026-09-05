@@ -1632,8 +1632,8 @@ footer#footer-sections .page-section {
   height: 50px;
   background-color: #fffeff;
   border-radius: 50%;
-  color: #ffffff !important;
-  -webkit-text-fill-color: #ffffff !important;
+  color: #791112 !important;
+  -webkit-text-fill-color: #791112 !important;
   text-decoration: none;
   font-size: 1.2rem;
   transition: opacity 0.3s ease;
