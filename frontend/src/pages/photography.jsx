@@ -4171,7 +4171,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="/ananya_nilesh/cover_new.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 20%; display: block;" alt="Prajnya & Sasmita" /></div>
+<img src="/ananya_nilesh/cover_new.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 70%; display: block;" alt="Prajnya & Sasmita" /></div>
       </div>
   
 
