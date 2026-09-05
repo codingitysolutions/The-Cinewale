@@ -4647,7 +4647,7 @@ header.header.header-is-scrolled {
   
 >
   <a
-    href="/"
+    href="/contact"
     class="sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element"
     data-sqsp-button
     
