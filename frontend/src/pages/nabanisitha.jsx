@@ -3683,7 +3683,7 @@ header.header.header-is-scrolled {
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/naba_nisitha/_L0A0288.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/naba_nisitha/_L0A0609.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
       <img src="/naba_nisitha/_L0A0377.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
@@ -3702,10 +3702,6 @@ header.header.header-is-scrolled {
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
       <img src="/naba_nisitha/_L0A0591.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
     </div>
-  </div>
-  <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
-    <div style="width: 100%;">
-      <img src="/naba_nisitha/_L0A0609.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
