@@ -5706,6 +5706,11 @@ header.header.header-is-scrolled {
 
 
 <style id="faq-accordion-style">
+#block-626e64e097bca0eadaed span.accordion-item__title,
+span.accordion-item__title {
+  color: #7B6650 !important;
+  -webkit-text-fill-color: #7B6650 !important;
+}
 /* =========================================
    FAQ ACCORDION: NUCLEAR OVERRIDE
    Transparent BG + #791112 Text
@@ -5746,7 +5751,7 @@ header.header.header-is-scrolled {
 /* Force ALL text inside to #791112 */
 [data-section-id="62a6f1d9d304b11c0deb524c"] *,
 #block-626e64e097bca0eadaed *,
-#block-626e64e097bca0eadaed .accordion-item__title,
+#block-626e64e097bca0eadaed span.accordion-item__title,
 #block-626e64e097bca0eadaed button,
 #block-626e64e097bca0eadaed span,
 #block-626e64e097bca0eadaed p,
