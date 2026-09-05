@@ -65,7 +65,9 @@ function App() {
           <Route path="/nabanisitha" element={<Nabanisitha />} />
           <Route path="/nabanisitha.html" element={<Nabanisitha />} />
           <Route path="/ananya-nilesh" element={<Ananya_nilesh />} />
+          <Route path="/prajnya-sasmita" element={<Ananya_nilesh />} />
           <Route path="/ananya-nilesh.html" element={<Ananya_nilesh />} />
+          <Route path="/prajnya-sasmita.html" element={<Ananya_nilesh />} />
           <Route path="/preetish-shradha" element={<Preetish_shradha />} />
           <Route path="/preetish-shradha.html" element={<Preetish_shradha />} />
           <Route path="/sriram-lipsa" element={<Sriram_lipsa />} />
