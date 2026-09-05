@@ -714,9 +714,9 @@ body .list-item-content__description * {
 
 /* 7. Headlines: #791112 */
 [data-weddings-headline="true"] {
-  color: #7b6650 !important;
-  fill: #7b6650 !important;
-  -webkit-text-fill-color: #7b6650 !important;
+  color: #b48c5b !important;
+  fill: #b48c5b !important;
+  -webkit-text-fill-color: #b48c5b !important;
 }
 
 /* Hide header completely on scroll for a cinematic experience */
@@ -748,8 +748,8 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('h1, h2, h3, h4, strong, span').forEach(function(el) {
       var txt = (el.textContent || '').trim();
       if (txt === "CRAFTING WEDDINGS INTO CINEMA" || txt === "CRAFTING WEDDINGS INTO CINEMA") {
-        el.style.setProperty('color', '#7b6650', 'important');
-        el.style.setProperty('-webkit-text-fill-color', '#7b6650', 'important');
+        el.style.setProperty('color', '#b48c5b', 'important');
+        el.style.setProperty('-webkit-text-fill-color', '#b48c5b', 'important');
         el.setAttribute('data-weddings-headline', 'true');
       }
       if (txt === "A Glimpse Into Our Favourite Love Stories Across The World") {
@@ -1313,7 +1313,7 @@ header.header.header-is-scrolled {
   img[data-src*="freepik-export-20240803103330fQJQ"],
   img[srcset*="freepik-export-20240803103330fQJQ"],
   .sqs-block-image:has(img[src*="freepik-export"]) canvas {
-    filter: brightness(0) saturate(100%) invert(39%) sepia(15%) saturate(747%) hue-rotate(350deg) brightness(99%) contrast(88%) !important;
+    filter: brightness(0) saturate(100%) invert(55%) sepia(62%) saturate(281%) hue-rotate(353deg) brightness(92%) contrast(93%) !important;
   }
 
   /* 2. Target the block's reveal animation curtain so it matches the new color */
@@ -3784,7 +3784,7 @@ header.header.header-is-scrolled {
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "id": "bc30c8fe-49ef-4349-b272-dba38cb18482"
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     } ]</script>
   
-  <div class="sqs-html-content" data-sqsp-text-block-content><h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--accent" style="color: #7B6650 !important; -webkit-text-fill-color: #7B6650 !important;"><strong>CRAFTING WEDDINGS INTO CINEMA</strong></span></h1><p style="text-align:center;white-space:pre-wrap; color: #7B6650;" class="sqsrte-large">Your wedding is more than a day. It is a collection of moments, people, emotions, and memories that make your story special.</p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p><p style="text-align:center;white-space:pre-wrap; color: #7B6650;" class="sqsrte-large">We focus on capturing it all as it happens — the excitement, the laughter, the happy tears, the little details, and the moments you may not even notice on the day.</p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p><p style="text-align:center;white-space:pre-wrap; color: #7B6650;" class="sqsrte-large">With a love for honest storytelling and cinematic visuals, we create photographs and films that bring you back to how it all felt.</p></div>
+  <div class="sqs-html-content" data-sqsp-text-block-content><h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--accent" style="color: #b48c5b !important; -webkit-text-fill-color: #b48c5b !important;"><strong>CRAFTING WEDDINGS INTO CINEMA</strong></span></h1><p style="text-align:center;white-space:pre-wrap; color: #7B6650;" class="sqsrte-large">Your wedding is more than a day. It is a collection of moments, people, emotions, and memories that make your story special.</p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p><p style="text-align:center;white-space:pre-wrap; color: #7B6650;" class="sqsrte-large">We focus on capturing it all as it happens — the excitement, the laughter, the happy tears, the little details, and the moments you may not even notice on the day.</p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p><p style="text-align:center;white-space:pre-wrap; color: #7B6650;" class="sqsrte-large">With a love for honest storytelling and cinematic visuals, we create photographs and films that bring you back to how it all felt.</p></div>
 
 
   

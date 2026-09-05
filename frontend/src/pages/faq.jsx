@@ -701,8 +701,8 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('h1, h2, h3, h4, strong, span').forEach(function(el) {
       var txt = (el.textContent || '').trim();
       if (txt === "CRAFTING WEDDINGS INTO CINEMA" || txt === "CRAFTING WEDDINGS INTO CINEMA") {
-        el.style.setProperty('color', '#7b6650', 'important');
-        el.style.setProperty('-webkit-text-fill-color', '#7b6650', 'important');
+        el.style.setProperty('color', '#b48c5b', 'important');
+        el.style.setProperty('-webkit-text-fill-color', '#b48c5b', 'important');
         el.setAttribute('data-weddings-headline', 'true');
       }
       if (txt === "A Glimpse Into Our Favourite Love Stories Across The World") {
@@ -1266,7 +1266,7 @@ header.header.header-is-scrolled {
   img[data-src*="freepik-export-20240803103330fQJQ"],
   img[srcset*="freepik-export-20240803103330fQJQ"],
   .sqs-block-image:has(img[src*="freepik-export"]) canvas {
-    filter: brightness(0) saturate(100%) invert(39%) sepia(15%) saturate(747%) hue-rotate(350deg) brightness(99%) contrast(88%) !important;
+    filter: brightness(0) saturate(100%) invert(55%) sepia(62%) saturate(281%) hue-rotate(353deg) brightness(92%) contrast(93%) !important;
   }
 
   /* 2. Target the block's reveal animation curtain so it matches the new color */
