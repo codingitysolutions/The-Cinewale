@@ -3464,14 +3464,14 @@ header.header.header-is-scrolled {
   
   
   <img data-stretch="false"
-  src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png"
-  data-image="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png"
+  src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=750w"
+  data-image="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=750w"
   data-image-dimensions="2767x1330"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt="&quot;Showcasing films&quot; white text on black background."
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png" width="2767" height="1330" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=750w" width="2767" height="1330" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/9acdecd2-0729-4501-9f23-118942009cf1/Untitled-3.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
   
     
   
@@ -3710,7 +3710,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4g2LBUykFVM%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4g2LBUykFVM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4g2LBUykFVM%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/4g2LBUykFVM?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -3718,7 +3718,7 @@ header.header.header-is-scrolled {
             <img
               data-load="false"
               data-mode="cover"
-              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/5b24dd77-b127-45c1-8e84-3037ed132888/Nupur+aakash+%281%29.jpg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/5b24dd77-b127-45c1-8e84-3037ed132888/Nupur+aakash+%281%29.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/5b24dd77-b127-45c1-8e84-3037ed132888/Nupur+aakash+%281%29.jpg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/5b24dd77-b127-45c1-8e84-3037ed132888/Nupur+aakash+%281%29.jpg?format=750w"
               data-image-focal-point="0.5,0.5"
             />
             <div class="sqs-video-opaque"></div>
@@ -3778,7 +3778,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0uJsuIOELfA%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0uJsuIOELfA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0uJsuIOELfA%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/0uJsuIOELfA?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -3786,7 +3786,7 @@ header.header.header-is-scrolled {
             <img
               data-load="false"
               data-mode="cover"
-              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/952304a0-c1e7-4453-9f14-caed673e571f/Nupur+aakash+%282%29.jpg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/952304a0-c1e7-4453-9f14-caed673e571f/Nupur+aakash+%282%29.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/952304a0-c1e7-4453-9f14-caed673e571f/Nupur+aakash+%282%29.jpg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/952304a0-c1e7-4453-9f14-caed673e571f/Nupur+aakash+%282%29.jpg?format=750w"
               data-image-focal-point="0.5,0.5"
             />
             <div class="sqs-video-opaque"></div>
@@ -3967,7 +3967,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSqID221_OGg%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSqID221_OGg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSqID221_OGg%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/SqID221_OGg?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -3975,7 +3975,7 @@ header.header.header-is-scrolled {
             <img
               data-load="false"
               data-mode="cover"
-              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d7dd87af-06de-4d35-a427-09777e90e390/3.jpg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d7dd87af-06de-4d35-a427-09777e90e390/3.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d7dd87af-06de-4d35-a427-09777e90e390/3.jpg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d7dd87af-06de-4d35-a427-09777e90e390/3.jpg?format=750w"
               data-image-focal-point="0.5,0.5"
             />
             <div class="sqs-video-opaque"></div>
@@ -4035,7 +4035,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FbwVyMtuXR3I%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbwVyMtuXR3I&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbwVyMtuXR3I%2Fhqdefault.jpg&amp;key=c6502efcb3c84824bc6c1f27d683be13&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/bwVyMtuXR3I?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -4043,7 +4043,7 @@ header.header.header-is-scrolled {
             <img
               data-load="false"
               data-mode="cover"
-              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/f43eb58b-544d-4a26-ba91-237a9ab9ec93/2.jpg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/f43eb58b-544d-4a26-ba91-237a9ab9ec93/2.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/f43eb58b-544d-4a26-ba91-237a9ab9ec93/2.jpg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/f43eb58b-544d-4a26-ba91-237a9ab9ec93/2.jpg?format=750w"
               data-image-focal-point="0.5,0.5"
             />
             <div class="sqs-video-opaque"></div>
@@ -4225,7 +4225,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIo79lviAi6A%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIo79lviAi6A&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIo79lviAi6A%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/Io79lviAi6A?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -4233,7 +4233,7 @@ header.header.header-is-scrolled {
             <img
               data-load="false"
               data-mode="cover"
-              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/5efaf846-8196-4c28-8016-3cfa370e9333/sanil+srishti+sangeet.jpeg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/5efaf846-8196-4c28-8016-3cfa370e9333/sanil+srishti+sangeet.jpeg"
+              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/5efaf846-8196-4c28-8016-3cfa370e9333/sanil+srishti+sangeet.jpeg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/5efaf846-8196-4c28-8016-3cfa370e9333/sanil+srishti+sangeet.jpeg?format=750w"
               data-image-focal-point="0.5,0.5"
             />
             <div class="sqs-video-opaque"></div>
@@ -4293,7 +4293,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FxqGzdyMbMeM%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxqGzdyMbMeM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxqGzdyMbMeM%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/xqGzdyMbMeM?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -4471,7 +4471,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FcHontScxQzc%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcHontScxQzc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcHontScxQzc%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/cHontScxQzc?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -4479,7 +4479,7 @@ header.header.header-is-scrolled {
             <img
               data-load="false"
               data-mode="cover"
-              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b598829a-62ea-4909-9070-744277b44636/sanil+srishti.jpeg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b598829a-62ea-4909-9070-744277b44636/sanil+srishti.jpeg"
+              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b598829a-62ea-4909-9070-744277b44636/sanil+srishti.jpeg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b598829a-62ea-4909-9070-744277b44636/sanil+srishti.jpeg?format=750w"
               data-image-focal-point="0.5,0.5"
             />
             <div class="sqs-video-opaque"></div>
@@ -4539,7 +4539,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCkdB567stNM%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCkdB567stNM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCkdB567stNM%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/CkdB567stNM?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -4547,7 +4547,7 @@ header.header.header-is-scrolled {
             <img
               data-load="false"
               data-mode="cover"
-              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/24df7618-8f50-451d-9dc8-17255c8c2e93/sriram+lipsa.jpeg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/24df7618-8f50-451d-9dc8-17255c8c2e93/sriram+lipsa.jpeg"
+              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/24df7618-8f50-451d-9dc8-17255c8c2e93/sriram+lipsa.jpeg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/24df7618-8f50-451d-9dc8-17255c8c2e93/sriram+lipsa.jpeg?format=750w"
               data-image-focal-point="0.5,0.5"
             />
             <div class="sqs-video-opaque"></div>
@@ -4858,7 +4858,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvErptSu8Lds%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvErptSu8Lds&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvErptSu8Lds%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/vErptSu8Lds?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -4866,7 +4866,7 @@ header.header.header-is-scrolled {
             <img
               data-load="false"
               data-mode="cover"
-              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/bcd14999-8d54-4dd7-a573-7ec579f0aeba/maxresdefault.jpeg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/bcd14999-8d54-4dd7-a573-7ec579f0aeba/maxresdefault.jpeg"
+              src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/bcd14999-8d54-4dd7-a573-7ec579f0aeba/maxresdefault.jpeg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/bcd14999-8d54-4dd7-a573-7ec579f0aeba/maxresdefault.jpeg?format=750w"
               data-image-focal-point="0.5,0.5"
             />
             <div class="sqs-video-opaque"></div>
@@ -4926,7 +4926,7 @@ header.header.header-is-scrolled {
       <div
         class="sqs-video-wrapper"
         data-provider-name="YouTube"
-        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FK8FLBlfIhHA%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DK8FLBlfIhHA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FK8FLBlfIhHA%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
+        data-html="&lt;iframe class=&quot;embedly-embed&quot; src=&quot;https://www.youtube.com/embed/K8FLBlfIhHA?autoplay=1&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;"
         data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}"
       >
         
@@ -5116,7 +5116,7 @@ header.header.header-is-scrolled {
 
 
 
-<img alt="" data-image-focal-point="0.5,0.5" crossOrigin src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg" data-image-dimensions="6821x4166" data-image-focal-point="0.5,0.5" alt="HIM_7758.jpg" data-load="false" elementtiming="nbf-background-image-fx" src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg" width="6821" height="4166" alt="" sizes="(max-width: 799px) 200vw, 100vw" class="background-image-fx" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=2500w 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
+<img alt="" data-image-focal-point="0.5,0.5" crossOrigin src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=750w" data-image="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=750w" data-image-dimensions="6821x4166" data-image-focal-point="0.5,0.5" alt="HIM_7758.jpg" data-load="false" elementtiming="nbf-background-image-fx" src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=750w" width="6821" height="4166" alt="" sizes="(max-width: 799px) 200vw, 100vw" class="background-image-fx" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/b9259a74-5012-4f30-9374-1d39677bf511/HIM_7758.jpg?format=2500w 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
 
   <div class="section-background-canvas background-fx-canvas"></div>
 </div>
