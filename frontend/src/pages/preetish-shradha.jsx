@@ -663,7 +663,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // 1. Philosophy Paragraph -> #7b6650 (Exact Match to avoid bleeding)
     document.querySelectorAll('p, span, div').forEach(function(el) {
       var txt = (el.textContent || '').trim();
-      if (txt.includes("Your wedding is more than a day") || txt.includes("We focus on capturing it all") || txt.includes("We focus on capturing it all")) {
+      if (txt.includes("Your wedding is more than a day") || txt.includes("We focus on capturing it all") || txt.includes("With a love for honest storytelling")) {
         el.style.setProperty('color', '#7b6650', 'important');
         el.style.setProperty('-webkit-text-fill-color', '#7b6650', 'important');
         el.setAttribute('data-philosophy-p', 'true');
