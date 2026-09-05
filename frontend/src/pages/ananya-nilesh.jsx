@@ -4235,13 +4235,13 @@ header.header.header-is-scrolled {
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503148.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
-    <div style="width: 100%;">
       <img src="/ananya_nilesh/SR503149.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
       <img src="/ananya_nilesh/SR503163.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+    <div style="width: 100%;">
+      <img src="/ananya_nilesh/SR503148.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
   </div>
 </div>
 
