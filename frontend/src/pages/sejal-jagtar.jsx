@@ -8505,35 +8505,35 @@ header.header.header-is-scrolled {
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;dark-bold&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
+        &quot;imageOverlayOpacity&quot;: 0.15,
+        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+        &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+        &quot;customSectionHeight&quot;: 10,
+        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+        &quot;customContentWidth&quot;: 50,
+        &quot;sectionTheme&quot;: &quot;dark-bold&quot;,
+        &quot;sectionAnimation&quot;: &quot;none&quot;,
+        &quot;backgroundMode&quot;: &quot;image&quot;
+      }"
   data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: {
-&quot;type&quot;: &quot;none&quot;
-},
-&quot;divider&quot;: {
-&quot;enabled&quot;: false
-},
-&quot;typeName&quot;: &quot;page&quot;
-}"
+        &quot;video&quot;: {
+          &quot;playbackSpeed&quot;: 0.5,
+          &quot;filter&quot;: 1,
+          &quot;filterStrength&quot;: 0,
+          &quot;zoom&quot;: 0,
+          &quot;videoSourceProvider&quot;: &quot;none&quot;
+        },
+        &quot;backgroundImageId&quot;: null,
+        &quot;backgroundMediaEffect&quot;: {
+          &quot;type&quot;: &quot;none&quot;
+        },
+        &quot;divider&quot;: {
+          &quot;enabled&quot;: false
+        },
+        &quot;typeName&quot;: &quot;page&quot;
+      }"
   data-animation="none"
   data-fluid-engine-section
    
@@ -8859,7 +8859,7 @@ header.header.header-is-scrolled {
   transition: opacity 0.6s ease, transform 0.6s ease !important;
 }
 
-</style><div class="fluid-engine fe-630485c6743bfea0d7b05832"><div class="fe-block fe-block-630485c6f6a40b8b351bf88a"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-image image-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/872def20-a13e-4aa4-881e-9a64eb27b7e3_826/website.components.imageFluid.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/872def20-a13e-4aa4-881e-9a64eb27b7e3_826/2452.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/872def20-a13e-4aa4-881e-9a64eb27b7e3_826/2513.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/872def20-a13e-4aa4-881e-9a64eb27b7e3_826/8018.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/872def20-a13e-4aa4-881e-9a64eb27b7e3_826/9188.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/872def20-a13e-4aa4-881e-9a64eb27b7e3_826/9882.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/872def20-a13e-4aa4-881e-9a64eb27b7e3_826/website.components.imageFluid.shared.constants.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/872def20-a13e-4aa4-881e-9a64eb27b7e3_826/website.components.imageFluid.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.imageFluid" data-sqsp-block="image" data-website-component-id="630485c6f6a40b8b351bf88a" id="block-630485c6f6a40b8b351bf88a"><div class="sqs-block-content">
+</style><div class="fluid-engine fe-630485c6743bfea0d7b05832"><div class="fe-block fe-block-630485c6f6a40b8b351bf88a"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-image image-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/website.components.imageFluid.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/2452.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/2513.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/8018.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/9188.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/9882.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/website.components.imageFluid.shared.constants.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/website.components.imageFluid.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.imageFluid" data-sqsp-block="image" data-website-component-id="630485c6f6a40b8b351bf88a" id="block-630485c6f6a40b8b351bf88a"><div class="sqs-block-content">
 
 
 
@@ -8911,7 +8911,7 @@ header.header.header-is-scrolled {
   >
     <div
       class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
-      data-animation-role="image"
+      
     >
       <div
         class="fluid-image-container sqs-image-content js-image-container visitor-mode"
@@ -9037,7 +9037,7 @@ header.header.header-is-scrolled {
 
   </div>
 
-</div></div></div><div class="fe-block fe-block-630485c6ad1897f330883720"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/2129d20b-c038-4fbe-afd5-99eed7e8e5b8_839/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/2129d20b-c038-4fbe-afd5-99eed7e8e5b8_839/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="630485c6ad1897f330883720" id="block-630485c6ad1897f330883720"><div class="sqs-block-content"><div class="sqs-text-block-container">
+</div></div></div><div class="fe-block fe-block-630485c6ad1897f330883720"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="630485c6ad1897f330883720" id="block-630485c6ad1897f330883720"><div class="sqs-block-content"><div class="sqs-text-block-container">
   
   <div class="sqs-html-content" data-sqsp-text-block-content><p style="text-align:center;white-space:pre-wrap;" class=""><strong>GET IN TOUCH WITH US</strong></p><pre style="text-align:center;"><code>thecinewala@gmail.com</code></pre><pre style="text-align:center;"><code> +91 97764 66466</code></pre></div>
 
@@ -9150,7 +9150,7 @@ header.header.header-is-scrolled {
 
 
 </div>
-</div></div></div><div class="fe-block fe-block-630485c697d3a31aa5005a04"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-socialaccountlinks social-account-links-block social-account-links-v2-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/ea7941ee-9223-4382-8f52-37116229a643_617/website.components.socialLinks.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/ea7941ee-9223-4382-8f52-37116229a643_617/website.components.socialLinks.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.socialLinks" data-sqsp-block="social-links" data-website-component-id="630485c697d3a31aa5005a04" id="block-630485c697d3a31aa5005a04"><div class="sqs-block-content">
+</div></div></div><div class="fe-block fe-block-630485c697d3a31aa5005a04"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-socialaccountlinks social-account-links-block social-account-links-v2-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/bdd42134-dc10-4a4a-b9ed-e3f056d30f81_612/website.components.socialLinks.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/bdd42134-dc10-4a4a-b9ed-e3f056d30f81_612/website.components.socialLinks.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.socialLinks" data-sqsp-block="social-links" data-website-component-id="630485c697d3a31aa5005a04" id="block-630485c697d3a31aa5005a04"><div class="sqs-block-content">
   
 
 
@@ -9399,7 +9399,7 @@ header.header.header-is-scrolled {
 
   
 </div>
-</div></div></div><div class="fe-block fe-block-630485c642fc5b1fac27ae06"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/2129d20b-c038-4fbe-afd5-99eed7e8e5b8_839/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/2129d20b-c038-4fbe-afd5-99eed7e8e5b8_839/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="630485c642fc5b1fac27ae06" id="block-630485c642fc5b1fac27ae06"><div class="sqs-block-content"><div class="sqs-text-block-container">
+</div></div></div><div class="fe-block fe-block-630485c642fc5b1fac27ae06"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="630485c642fc5b1fac27ae06" id="block-630485c642fc5b1fac27ae06"><div class="sqs-block-content"><div class="sqs-text-block-container">
   
   <div class="sqs-html-content" data-sqsp-text-block-content><pre style="text-align:center;"><code>Address : Flat-203, Cornerstone, near Care Hospital Road, Niladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751016</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p></div>
 
@@ -9512,7 +9512,7 @@ header.header.header-is-scrolled {
 
 
 </div>
-</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1661237561528_110064"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/2129d20b-c038-4fbe-afd5-99eed7e8e5b8_839/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/2129d20b-c038-4fbe-afd5-99eed7e8e5b8_839/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="yui_3_17_2_1_1661237561528_110064" id="block-yui_3_17_2_1_1661237561528_110064"><div class="sqs-block-content"><div class="sqs-text-block-container">
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1661237561528_110064"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="yui_3_17_2_1_1661237561528_110064" id="block-yui_3_17_2_1_1661237561528_110064"><div class="sqs-block-content"><div class="sqs-text-block-container">
   
   <div class="sqs-html-content" data-sqsp-text-block-content><p style="text-align:left;white-space:pre-wrap;" class="sqsrte-small">All Images and Videos Are Copyrighted © 2025 The Cinewale - ESTD 2015</p></div>
 
@@ -9625,7 +9625,7 @@ header.header.header-is-scrolled {
 
 
 </div>
-</div></div></div><div class="fe-block fe-block-5b0cb61a7f09afea4a1a"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/2129d20b-c038-4fbe-afd5-99eed7e8e5b8_839/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/2129d20b-c038-4fbe-afd5-99eed7e8e5b8_839/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="5b0cb61a7f09afea4a1a" id="block-5b0cb61a7f09afea4a1a"><div class="sqs-block-content"><div class="sqs-text-block-container">
+</div></div></div><div class="fe-block fe-block-5b0cb61a7f09afea4a1a"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="5b0cb61a7f09afea4a1a" id="block-5b0cb61a7f09afea4a1a"><div class="sqs-block-content"><div class="sqs-text-block-container">
   
   <div class="sqs-html-content" data-sqsp-text-block-content><pre style="text-align:center;"><code>All Images and Videos Are Copyrighted © 2025 The Cinewale - ESTD 2015</code></pre></div>
 

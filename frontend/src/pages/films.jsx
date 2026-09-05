@@ -5402,35 +5402,35 @@ header.header.header-is-scrolled {
   
   data-controller="SectionWrapperController"
   data-current-styles="{
-                                                                                                                                                                                                                    &quot;imageOverlayOpacity&quot;: 0.15,
-                                                                                                                                                                                                                    &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                                                                                                                                                                                    &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
-                                                                                                                                                                                                                    &quot;customSectionHeight&quot;: 10,
-                                                                                                                                                                                                                    &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                                                                                                                                                                                    &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                                                                                                                                                                                    &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                                                                                                                                                                                    &quot;customContentWidth&quot;: 50,
-                                                                                                                                                                                                                    &quot;sectionTheme&quot;: &quot;dark-bold&quot;,
-                                                                                                                                                                                                                    &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                                                                                                                                                                                    &quot;backgroundMode&quot;: &quot;image&quot;
-                                                                                                                                                                                                                  }"
+        &quot;imageOverlayOpacity&quot;: 0.15,
+        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+        &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+        &quot;customSectionHeight&quot;: 10,
+        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+        &quot;customContentWidth&quot;: 50,
+        &quot;sectionTheme&quot;: &quot;dark-bold&quot;,
+        &quot;sectionAnimation&quot;: &quot;none&quot;,
+        &quot;backgroundMode&quot;: &quot;image&quot;
+      }"
   data-current-context="{
-                                                                                                                                                                                                                    &quot;video&quot;: {
-                                                                                                                                                                                                                      &quot;playbackSpeed&quot;: 0.5,
-                                                                                                                                                                                                                      &quot;filter&quot;: 1,
-                                                                                                                                                                                                                      &quot;filterStrength&quot;: 0,
-                                                                                                                                                                                                                      &quot;zoom&quot;: 0,
-                                                                                                                                                                                                                      &quot;videoSourceProvider&quot;: &quot;none&quot;
-                                                                                                                                                                                                                    },
-                                                                                                                                                                                                                    &quot;backgroundImageId&quot;: null,
-                                                                                                                                                                                                                    &quot;backgroundMediaEffect&quot;: {
-                                                                                                                                                                                                                      &quot;type&quot;: &quot;none&quot;
-                                                                                                                                                                                                                    },
-                                                                                                                                                                                                                    &quot;divider&quot;: {
-                                                                                                                                                                                                                      &quot;enabled&quot;: false
-                                                                                                                                                                                                                    },
-                                                                                                                                                                                                                    &quot;typeName&quot;: &quot;page&quot;
-                                                                                                                                                                                                                  }"
+        &quot;video&quot;: {
+          &quot;playbackSpeed&quot;: 0.5,
+          &quot;filter&quot;: 1,
+          &quot;filterStrength&quot;: 0,
+          &quot;zoom&quot;: 0,
+          &quot;videoSourceProvider&quot;: &quot;none&quot;
+        },
+        &quot;backgroundImageId&quot;: null,
+        &quot;backgroundMediaEffect&quot;: {
+          &quot;type&quot;: &quot;none&quot;
+        },
+        &quot;divider&quot;: {
+          &quot;enabled&quot;: false
+        },
+        &quot;typeName&quot;: &quot;page&quot;
+      }"
   data-animation="none"
   data-fluid-engine-section
    
@@ -5808,7 +5808,7 @@ header.header.header-is-scrolled {
   >
     <div
       class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
-      data-animation-role="image"
+      
     >
       <div
         class="fluid-image-container sqs-image-content js-image-container visitor-mode"
@@ -5936,7 +5936,7 @@ header.header.header-is-scrolled {
 
 </div></div></div><div class="fe-block fe-block-630485c6ad1897f330883720"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="630485c6ad1897f330883720" id="block-630485c6ad1897f330883720"><div class="sqs-block-content"><div class="sqs-text-block-container">
   
-  <div class="sqs-html-content" data-sqsp-text-block-content><p style="text-align:center;white-space:pre-wrap;" class=""><strong>GET IN TOUCH WITH US</strong></p><pre style="text-align:center;"><code>thecinewale@gmail.com</code></pre><pre style="text-align:center;"><code> +91 97764 66466</code></pre></div>
+  <div class="sqs-html-content" data-sqsp-text-block-content><p style="text-align:center;white-space:pre-wrap;" class=""><strong>GET IN TOUCH WITH US</strong></p><pre style="text-align:center;"><code>thecinewala@gmail.com</code></pre><pre style="text-align:center;"><code> +91 97764 66466</code></pre></div>
 
 
   

@@ -4890,6 +4890,1301 @@ header.header.header-is-scrolled {
 </article>
 </main>
 <footer class="sections" id="footer-sections" data-footer-sections>
+  
+  
+  
+  
+  
+  
+    
+    
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="dark-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    dark-bold'
+  
+  data-section-id="630485c68279d40bf40889db"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+        &quot;imageOverlayOpacity&quot;: 0.15,
+        &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+        &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+        &quot;customSectionHeight&quot;: 10,
+        &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+        &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+        &quot;customContentWidth&quot;: 50,
+        &quot;sectionTheme&quot;: &quot;dark-bold&quot;,
+        &quot;sectionAnimation&quot;: &quot;none&quot;,
+        &quot;backgroundMode&quot;: &quot;image&quot;
+      }"
+  data-current-context="{
+        &quot;video&quot;: {
+          &quot;playbackSpeed&quot;: 0.5,
+          &quot;filter&quot;: 1,
+          &quot;filterStrength&quot;: 0,
+          &quot;zoom&quot;: 0,
+          &quot;videoSourceProvider&quot;: &quot;none&quot;
+        },
+        &quot;backgroundImageId&quot;: null,
+        &quot;backgroundMediaEffect&quot;: {
+          &quot;type&quot;: &quot;none&quot;
+        },
+        &quot;divider&quot;: {
+          &quot;enabled&quot;: false
+        },
+        &quot;typeName&quot;: &quot;page&quot;
+      }"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+  
+  
+  
+
+
+  data-sqsp-section="fluid-engine"
+
+
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-630485c6743bfea0d7b05832 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(31,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+  overflow-x: hidden;
+  overflow-x: clip;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-630485c6743bfea0d7b05832 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-630485c6743bfea0d7b05832 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-630485c6f6a40b8b351bf88a {
+    grid-area: 1/2/12/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+      
+    }
+  }
+
+  .fe-block-630485c6f6a40b8b351bf88a .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-630485c6f6a40b8b351bf88a .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-630485c6f6a40b8b351bf88a {
+      grid-area: 1/10/6/18;
+      z-index: 0;
+
+      
+
+      
+    }
+
+    .fe-block-630485c6f6a40b8b351bf88a .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-630485c6f6a40b8b351bf88a .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-630485c6ad1897f330883720 {
+    grid-area: 12/2/16/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+      
+    }
+  }
+
+  .fe-block-630485c6ad1897f330883720 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-630485c6ad1897f330883720 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-630485c6ad1897f330883720 {
+      grid-area: 2/2/5/7;
+      z-index: 1;
+
+      
+
+      
+    }
+
+    .fe-block-630485c6ad1897f330883720 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-630485c6ad1897f330883720 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-630485c697d3a31aa5005a04 {
+    grid-area: 16/2/18/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+      
+    }
+  }
+
+  .fe-block-630485c697d3a31aa5005a04 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-630485c697d3a31aa5005a04 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-630485c697d3a31aa5005a04 {
+      grid-area: 6/11/8/17;
+      z-index: 2;
+
+      
+
+      
+    }
+
+    .fe-block-630485c697d3a31aa5005a04 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-630485c697d3a31aa5005a04 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-630485c642fc5b1fac27ae06 {
+    grid-area: 18/2/26/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+      
+    }
+  }
+
+  .fe-block-630485c642fc5b1fac27ae06 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-630485c642fc5b1fac27ae06 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-630485c642fc5b1fac27ae06 {
+      grid-area: 5/2/9/7;
+      z-index: 3;
+
+      
+
+      
+    }
+
+    .fe-block-630485c642fc5b1fac27ae06 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-630485c642fc5b1fac27ae06 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1661237561528_110064 {
+    grid-area: 26/2/28/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1661237561528_110064 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1661237561528_110064 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1661237561528_110064 {
+      grid-area: 2/17/4/26;
+      z-index: 5;
+
+      
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1661237561528_110064 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1661237561528_110064 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-5b0cb61a7f09afea4a1a {
+    grid-area: 28/2/32/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+      
+    }
+  }
+
+  .fe-block-5b0cb61a7f09afea4a1a .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-5b0cb61a7f09afea4a1a .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5b0cb61a7f09afea4a1a {
+      grid-area: 5/17/6/26;
+      z-index: 2;
+
+      
+
+      
+    }
+
+    .fe-block-5b0cb61a7f09afea4a1a .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-5b0cb61a7f09afea4a1a .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style><div class="fluid-engine fe-630485c6743bfea0d7b05832"><div class="fe-block fe-block-630485c6f6a40b8b351bf88a"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-image image-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/website.components.imageFluid.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/2452.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/2513.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/8018.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/9188.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/9882.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/website.components.imageFluid.shared.constants.js&quot;, &quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/4d3c84c8-9c02-49e3-85d0-69c841c8e11e_821/website.components.imageFluid.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.imageFluid" data-sqsp-block="image" data-website-component-id="630485c6f6a40b8b351bf88a" id="block-630485c6f6a40b8b351bf88a"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div
+    class="fluid-image-component-root image-block-outer-wrapper design-layout-fluid image-position-left combination-animation-site-default individual-animation-site-default
+    }"
+    data-component-id="630485c6f6a40b8b351bf88a"
+    data-test="image-block-fluid-outer-wrapper"
+    data-is-image-stretched="true"
+    data-is-mask-applied="false"
+    data-media-focal-point="0.5,0.5"
+    
+    
+      data-bpo=""
+      data-breakpoints="[{&quot;id&quot;:&quot;system_desktop&quot;,&quot;name&quot;:&quot;Desktop&quot;},{&quot;id&quot;:&quot;system_mobile&quot;,&quot;name&quot;:&quot;Mobile&quot;,&quot;maxWidth&quot;:&quot;767px&quot;}]"
+    
+    
+  >
+    <div
+      class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+      
+    >
+      <div
+        class="fluid-image-container sqs-image-content js-image-container visitor-mode"
+        
+        data-sqsp-image-block-image-container
+      >
+        
+          
+  
+      
+        
+        
+        
+  
+  <div class="js-content-mode-element-wrapper js-content-mode-element-system_desktop">
+    
+      <a
+        class="sqs-block-image-link js-content-mode-element content-fill"
+        data-sqsp-image-block-link
+        href="/"
+        
+      >
+        
+  
+  
+  
+  
+  
+  
+  <img data-stretch="true"
+  src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png"
+  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png"
+  data-image-dimensions="1024x341"
+  data-image-focal-point="0.5,0.5"
+  data-sqsp-image-block-image
+  alt=""
+  data-licensed-asset-preview="false"
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  
+    
+  
+  <div class="fluidImageOverlay"></div>
+
+      </a>
+    
+  </div>
+  
+  
+  
+
+
+      
+    
+      
+         
+      
+    
+  
+
+        
+      </div>
+    </div>
+    <style>
+      
+      
+      
+      #block-630485c6f6a40b8b351bf88a {
+        --image-component-focal-point: 50% 50%;
+        
+  --image-component-object-fit: cover;
+  --image-component-overlay-opacity: 0;
+  --image-component-overlay-blend-mode: normal;
+  
+  --image-component-native-aspect-ratio: 4501/4501;
+  
+  
+  
+
+      }
+      #block-630485c6f6a40b8b351bf88a .fluid-image-container.visitor-mode {
+        
+  
+  overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);clip-path: none;-webkit-clip-path: none;
+
+      }
+      #block-630485c6f6a40b8b351bf88a .js-content-mode-element-wrapper {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        display: none;
+      }
+      #block-630485c6f6a40b8b351bf88a .js-content-mode-element-system_desktop {
+        display: block;
+      }
+    
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+    <style class="transform-overrides-vars">
+  
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+    
+
+
+
+  </div>
+
+</div></div></div><div class="fe-block fe-block-630485c6ad1897f330883720"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="630485c6ad1897f330883720" id="block-630485c6ad1897f330883720"><div class="sqs-block-content"><div class="sqs-text-block-container">
+  
+  <div class="sqs-html-content" data-sqsp-text-block-content><p style="text-align:center;white-space:pre-wrap;" class=""><strong>GET IN TOUCH WITH US</strong></p><pre style="text-align:center;"><code>thecinewala@gmail.com</code></pre><pre style="text-align:center;"><code> +91 97764 66466</code></pre></div>
+
+
+  
+<style id="container-styles">#block-630485c6ad1897f330883720 {
+    
+    --stroke-style: none;--stroke-thickness: 6px;
+    
+      
+      
+      
+    
+
+
+
+  }
+
+  #block-630485c6ad1897f330883720 .sqs-html-content {
+    
+    --tweak-text-block-padding: 6% 6% 6% 6%;
+  --tweak-text-block-padding: initial;
+}
+
+  .fe-block-630485c6ad1897f330883720 {
+      mix-blend-mode: var(--tweak-text-block-blend
+  );
+      border-radius: var(--tweak-text-block-radius);
+  }
+
+  
+  
+.fe-block-630485c6ad1897f330883720 {
+      --tweak-text-block-radius: 0px 0px 0px 0px;
+    }
+
+
+  
+  .fe-block-630485c6ad1897f330883720 {
+      --tweak-text-block-blend
+  : normal;
+    }
+  
+
+  .fe-block-630485c6ad1897f330883720 {
+    --blur-value: blur(15px);}
+
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+<style id="override-container-styles">
+    @media screen and (max-width: 767px) {
+          
+            
+
+#block-630485c6ad1897f330883720 {
+            
+            }
+        }
+    
+  
+    @media screen and (max-width: 767px) {
+          #block-630485c6ad1897f330883720 .sqs-html-content {
+            
+            }
+        }
+    
+  @media screen and (max-width: 767px) {
+          
+          
+
+          
+          
+          
+        }
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+<style class="transform-overrides-vars">
+  
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+
+
+
+</div>
+</div></div></div><div class="fe-block fe-block-630485c697d3a31aa5005a04"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-socialaccountlinks social-account-links-block social-account-links-v2-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/bdd42134-dc10-4a4a-b9ed-e3f056d30f81_612/website.components.socialLinks.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/bdd42134-dc10-4a4a-b9ed-e3f056d30f81_612/website.components.socialLinks.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.socialLinks" data-sqsp-block="social-links" data-website-component-id="630485c697d3a31aa5005a04" id="block-630485c697d3a31aa5005a04"><div class="sqs-block-content">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sqs-block-socialaccountlinks-content">
+  <div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-large social-icons-shape-circle social-icons-style-knockout">
+    <style>
+      
+      #block-630485c697d3a31aa5005a04 {
+        --social-icons-justify-content: center;
+        --social-icons-dimension: 36px;--social-icons-gap: 10px;
+        
+      }
+
+      
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--wrapper {
+        --si-border-radius: 50%;--si-scale: 1;--si-box-shadow: none;--si-fill-icon: transparent;--si-fill-icon-fade: transparent;--si-fill-icon-hover: transparent;--si-fill-mask: var(--si-primary);--si-fill-mask-fade: var(--si-primary-faded);--si-fill-mask-hover: var(--si-primary);--si-bg: transparent;--si-bg-fade: transparent;--si-bg-hover: transparent;
+      }
+
+      
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--list {
+        justify-content: var(--social-icons-justify-content, center);
+        column-gap: var(--social-icons-gap, 12px);
+        row-gap: var(--social-icons-gap, 12px);
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--wrapper {
+        width: var(--social-icons-dimension, 20px);
+        height: var(--social-icons-dimension, 20px);
+        margin: 0;
+        border: none; 
+        background-color: var(--si-bg, transparent);
+        box-shadow: var(--si-box-shadow, none);
+        border-radius: var(--si-border-radius, 0);
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--wrapper > div {
+        transform: scale(var(--si-scale, 1));
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-use--icon {
+        fill: var(--si-fill-icon, transparent);
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-use--mask {
+        fill: var(--si-fill-mask, transparent);
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper {
+        background-color: var(--si-bg-fade, var(--si-bg, transparent));
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper .sqs-use--icon {
+        fill: var(--si-fill-icon-fade, var(--si-fill-icon, transparent));
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper .sqs-use--mask {
+        fill: var(--si-fill-mask-fade, var(--si-fill-mask, transparent));
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover {
+        background-color: var(--si-bg-hover, var(--si-bg, transparent));
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+        fill: var(--si-fill-icon-hover, var(--si-fill-icon, transparent));
+      }
+      #block-630485c697d3a31aa5005a04 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--mask {
+        fill: var(--si-fill-mask-hover, var(--si-fill-mask, transparent));
+      }
+    
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+    <nav class="sqs-svg-icon--list">
+      
+        
+          <a
+            href="https://youtube.com/channel/UCnC7RMAOh3os86bdGU3r-uw"
+            target="_blank"
+            class="sqs-svg-icon--wrapper youtube-unauth"
+            aria-label="YouTube"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#youtube-unauth-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#youtube-unauth-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+          <a
+            href="https://www.instagram.com/epicstories.in/?igshid=YmMyMTA2M2Y%3D"
+            target="_blank"
+            class="sqs-svg-icon--wrapper instagram-unauth"
+            aria-label="Instagram"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#instagram-unauth-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#instagram-unauth-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+          <a
+            href="http://facebook.com/epicstories.in"
+            target="_blank"
+            class="sqs-svg-icon--wrapper facebook-unauth"
+            aria-label="Facebook"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#facebook-unauth-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#facebook-unauth-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+      
+        
+      
+    </nav>
+  </div>
+  
+    
+<style id="container-styles">#block-630485c697d3a31aa5005a04 {
+    
+    
+    
+
+
+
+  }
+
+  #block-630485c697d3a31aa5005a04 .sqs-block-socialaccountlinks-content {
+    
+    --tweak-social-links-block-padding: initial;
+}
+
+  .fe-block-630485c697d3a31aa5005a04 {
+      mix-blend-mode: var(--tweak-social-links-block-blend);
+      border-radius: var(--tweak-social-links-block-radius);
+  }
+
+  
+  
+
+
+
+  
+  
+
+  .fe-block-630485c697d3a31aa5005a04 {
+    }
+
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+<style id="override-container-styles">
+    @media screen and (max-width: 767px) {
+          
+            
+
+#block-630485c697d3a31aa5005a04 {
+            
+            }
+        }
+    
+  
+    @media screen and (max-width: 767px) {
+          #block-630485c697d3a31aa5005a04 .sqs-block-socialaccountlinks-content {
+            
+            }
+        }
+    
+  @media screen and (max-width: 767px) {
+          
+          
+
+          
+          
+          
+        }
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+    <style class="transform-overrides-vars">
+  
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+    
+
+
+
+  
+</div>
+</div></div></div><div class="fe-block fe-block-630485c642fc5b1fac27ae06"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="630485c642fc5b1fac27ae06" id="block-630485c642fc5b1fac27ae06"><div class="sqs-block-content"><div class="sqs-text-block-container">
+  
+  <div class="sqs-html-content" data-sqsp-text-block-content><pre style="text-align:center;"><code>Address : Flat-203, Cornerstone, near Care Hospital Road, Niladri Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751016</code></pre><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p></div>
+
+
+  
+<style id="container-styles">#block-630485c642fc5b1fac27ae06 {
+    
+    --stroke-style: none;--stroke-thickness: 6px;
+    
+      
+      
+      
+    
+
+
+
+  }
+
+  #block-630485c642fc5b1fac27ae06 .sqs-html-content {
+    
+    --tweak-text-block-padding: 6% 6% 6% 6%;
+  --tweak-text-block-padding: initial;
+}
+
+  .fe-block-630485c642fc5b1fac27ae06 {
+      mix-blend-mode: var(--tweak-text-block-blend
+  );
+      border-radius: var(--tweak-text-block-radius);
+  }
+
+  
+  
+.fe-block-630485c642fc5b1fac27ae06 {
+      --tweak-text-block-radius: 0px 0px 0px 0px;
+    }
+
+
+  
+  .fe-block-630485c642fc5b1fac27ae06 {
+      --tweak-text-block-blend
+  : normal;
+    }
+  
+
+  .fe-block-630485c642fc5b1fac27ae06 {
+    --blur-value: blur(15px);}
+
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+<style id="override-container-styles">
+    @media screen and (max-width: 767px) {
+          
+            
+
+#block-630485c642fc5b1fac27ae06 {
+            
+            }
+        }
+    
+  
+    @media screen and (max-width: 767px) {
+          #block-630485c642fc5b1fac27ae06 .sqs-html-content {
+            
+            }
+        }
+    
+  @media screen and (max-width: 767px) {
+          
+          
+
+          
+          
+          
+        }
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+<style class="transform-overrides-vars">
+  
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+
+
+
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1661237561528_110064"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="yui_3_17_2_1_1661237561528_110064" id="block-yui_3_17_2_1_1661237561528_110064"><div class="sqs-block-content"><div class="sqs-text-block-container">
+  
+  <div class="sqs-html-content" data-sqsp-text-block-content><p style="text-align:left;white-space:pre-wrap;" class="sqsrte-small">All Images and Videos Are Copyrighted © 2025 The Cinewale - ESTD 2015</p></div>
+
+
+  
+<style id="container-styles">#block-yui_3_17_2_1_1661237561528_110064 {
+    
+    --stroke-style: none;--stroke-thickness: 6px;
+    
+      
+      
+      
+    
+
+
+
+  }
+
+  #block-yui_3_17_2_1_1661237561528_110064 .sqs-html-content {
+    
+    --tweak-text-block-padding: 6% 6% 6% 6%;
+  --tweak-text-block-padding: initial;
+}
+
+  .fe-block-yui_3_17_2_1_1661237561528_110064 {
+      mix-blend-mode: var(--tweak-text-block-blend
+  );
+      border-radius: var(--tweak-text-block-radius);
+  }
+
+  
+  
+.fe-block-yui_3_17_2_1_1661237561528_110064 {
+      --tweak-text-block-radius: 0px 0px 0px 0px;
+    }
+
+
+  
+  .fe-block-yui_3_17_2_1_1661237561528_110064 {
+      --tweak-text-block-blend
+  : normal;
+    }
+  
+
+  .fe-block-yui_3_17_2_1_1661237561528_110064 {
+    --blur-value: blur(15px);}
+
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+<style id="override-container-styles">
+    @media screen and (max-width: 767px) {
+          
+            
+
+#block-yui_3_17_2_1_1661237561528_110064 {
+            
+            }
+        }
+    
+  
+    @media screen and (max-width: 767px) {
+          #block-yui_3_17_2_1_1661237561528_110064 .sqs-html-content {
+            
+            }
+        }
+    
+  @media screen and (max-width: 767px) {
+          
+          
+
+          
+          
+          
+        }
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+<style class="transform-overrides-vars">
+  
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+
+
+
+</div>
+</div></div></div><div class="fe-block fe-block-5b0cb61a7f09afea4a1a"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-html html-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/c2406d2e-d5f7-4858-8ff5-84fc6297f94e_834/website.components.html.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.html" data-sqsp-block="text" data-website-component-id="5b0cb61a7f09afea4a1a" id="block-5b0cb61a7f09afea4a1a"><div class="sqs-block-content"><div class="sqs-text-block-container">
+  
+  <div class="sqs-html-content" data-sqsp-text-block-content><pre style="text-align:center;"><code>All Images and Videos Are Copyrighted © 2025 The Cinewale - ESTD 2015</code></pre></div>
+
+
+  
+<style id="container-styles">#block-5b0cb61a7f09afea4a1a {
+    
+    --stroke-style: none;--stroke-thickness: 6px;
+    
+      
+      
+      
+    
+
+
+
+  }
+
+  #block-5b0cb61a7f09afea4a1a .sqs-html-content {
+    
+    --tweak-text-block-padding: 6% 6% 6% 6%;
+  --tweak-text-block-padding: initial;
+}
+
+  .fe-block-5b0cb61a7f09afea4a1a {
+      mix-blend-mode: var(--tweak-text-block-blend
+  );
+      border-radius: var(--tweak-text-block-radius);
+  }
+
+  
+  
+.fe-block-5b0cb61a7f09afea4a1a {
+      --tweak-text-block-radius: 0px 0px 0px 0px;
+    }
+
+
+  
+  .fe-block-5b0cb61a7f09afea4a1a {
+      --tweak-text-block-blend
+  : normal;
+    }
+  
+
+  .fe-block-5b0cb61a7f09afea4a1a {
+    --blur-value: blur(15px);}
+
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+<style id="override-container-styles">
+    @media screen and (max-width: 767px) {
+          
+            
+
+#block-5b0cb61a7f09afea4a1a {
+            
+            }
+        }
+    
+  
+    @media screen and (max-width: 767px) {
+          #block-5b0cb61a7f09afea4a1a .sqs-html-content {
+            
+            }
+        }
+    
+  @media screen and (max-width: 767px) {
+          
+          
+
+          
+          
+          
+        }
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+<style class="transform-overrides-vars">
+  
+
+/* Hide header completely on scroll for a cinematic experience */
+#header.header-is-scrolled, 
+header.header.header-is-scrolled {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  transform: translateY(-100%) !important;
+  transition: opacity 0.6s ease, transform 0.6s ease !important;
+}
+
+</style>
+
+
+
+
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+
 <div class="custom-bottom-bar">
   <div class="custom-bottom-bar-left">
     All Images and Videos Are Copyrighted © 2026 The Cinewale
