@@ -741,7 +741,7 @@ section[data-section-id="62b6fa9d7e4e280b86d4f008"],
 section[data-section-id="62b6fa9d7e4e280b86d4f008"] .content-wrapper,
 section[data-section-id="63052e5efd7a6430114e8e0d"],
 section[data-section-id="63052e5efd7a6430114e8e0d"] .content-wrapper {
-  padding-top: 0 !important;
+  display: none !important;
 }
 /* Nuke any potential lingering margins in the audio block */
 .sqs-block-audio {
