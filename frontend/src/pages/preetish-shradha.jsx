@@ -3101,7 +3101,7 @@ header.header.header-is-scrolled {
 >
   
 
-  <div class="sqs-video-background-native__video-player"></div>
+  <div class="sqs-video-background-native__video-player"><video src="https://res.cloudinary.com/nmv4tzev/video/upload/Preetish_Shradha.mp4" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0; transform: scale(1.35);"></video></div>
 </div>
 
           </div>
