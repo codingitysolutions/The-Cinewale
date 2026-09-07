@@ -718,3 +718,17 @@ h1.custom-contact-heading {
         width: max-content !important;
     }
 }
+
+/* Remove huge gap around audio player sections */
+section[data-section-id="62a6235a91477f22c5ec86bc"],
+section[data-section-id="62a6235a91477f22c5ec86bc"] .content-wrapper,
+section[data-section-id="62a5fb87f15525534c875c89"],
+section[data-section-id="62a5fb87f15525534c875c89"] .content-wrapper,
+section[data-section-id="62b6fa9d7e4e280b86d4f006"],
+section[data-section-id="62b6fa9d7e4e280b86d4f006"] .content-wrapper,
+section[data-section-id="62a6235ee4ad350c678bc729"],
+section[data-section-id="62a6235ee4ad350c678bc729"] .content-wrapper {
+  min-height: 0 !important;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+}
