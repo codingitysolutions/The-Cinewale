@@ -3893,6 +3893,11 @@ header.header.header-is-scrolled {
 
   
     <!-- Gallery Masonry --><div class="custom-beautiful-grid" style="margin: 0 auto; padding: 0;">
+  <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
+    <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
+      <img src="/sriram_lipsa/SS103361.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+    </div>
+  </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
       <img src="/sriram_lipsa/SS103415.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
@@ -3944,8 +3949,6 @@ header.header.header-is-scrolled {
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
       <img src="/sriram_lipsa/SS104131.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
-    <div style="width: 100%;">
-      <img src="/sriram_lipsa/SS103361.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" /></div>
   </div>
 </div>
 
