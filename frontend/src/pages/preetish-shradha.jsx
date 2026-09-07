@@ -3299,7 +3299,7 @@ header.header.header-is-scrolled {
       content-width--wide
     
     horizontal-alignment--center
-    vertical-alignment--bottom
+    vertical-alignment--middle
     
       
     
@@ -3315,7 +3315,7 @@ header.header.header-is-scrolled {
                                                                                                                                                                                                                         &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
                                                                                                                                                                                                                         &quot;customSectionHeight&quot;: 10,
                                                                                                                                                                                                                         &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                                                                                                                                                                                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--bottom&quot;,
+                                                                                                                                                                                                                        &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
                                                                                                                                                                                                                         &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
                                                                                                                                                                                                                         &quot;customContentWidth&quot;: 50,
                                                                                                                                                                                                                         &quot;sectionTheme&quot;: &quot;dark&quot;,
