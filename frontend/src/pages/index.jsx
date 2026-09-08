@@ -7851,7 +7851,7 @@ And a hundred little moments that stayed with us long after the camera went down
     <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760423/kximrudsgesu7bgyr3p4.png" class="logo-img logo-wmg" /></div>
     <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760421/hjhexwlw6jjwok9qbtqs.png" class="logo-img logo-toi" /></div>
     <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760426/lqu9ar68gxc39yqsifee.png" class="logo-img logo-zk" /></div>
-    <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760419/i8zfu5brdvzm4ytigygz.svg" class="logo-img logo-pr" /></div>
+    <div class="logo-item"><img src="/images/prameya.png" class="logo-img logo-pr" /></div>
     <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760414/lyvrznatgiuqvletjiyr.png" class="logo-img logo-cv" /></div>
 </div>
 </div>
@@ -8482,14 +8482,14 @@ And a hundred little moments that stayed with us long after the camera went down
   
   
   <img data-stretch="false"
-  src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760419/i8zfu5brdvzm4ytigygz.svg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760419/i8zfu5brdvzm4ytigygz.svg"
-  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760419/i8zfu5brdvzm4ytigygz.svg"
+  src="/images/prameya.png" data-src="/images/prameya.png"
+  data-image="/images/prameya.png"
   data-image-dimensions="964x186"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
-  alt="&quot;The Indian Express&quot; logo with stylized letters and emblem."
+  alt="Prameya logo"
   data-licensed-asset-preview="false"
-  data-load="true" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760419/i8zfu5brdvzm4ytigygz.svg" width="964" height="186" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
+  data-load="true" elementtiming="system-image-block" src="/images/prameya.png" width="964" height="186" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 25.00vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
   
     
   
