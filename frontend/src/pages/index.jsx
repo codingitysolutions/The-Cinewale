@@ -7847,7 +7847,7 @@ And a hundred little moments that stayed with us long after the camera went down
   
   <div class="sqs-html-content" data-sqsp-text-block-content><h1 style="text-align:center;white-space:pre-wrap;">As Featured In</h1></div>
 <div class="custom-logos-grid">
-    <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760417/umai3csbz5rsxjoexa1l.svg" class="logo-img logo-op" /></div>
+    <div class="logo-item"><img src="/images/orisha-post.png" class="logo-img logo-op" /></div>
     <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760423/kximrudsgesu7bgyr3p4.png" class="logo-img logo-wmg" /></div>
     <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760421/hjhexwlw6jjwok9qbtqs.png" class="logo-img logo-toi" /></div>
     <div class="logo-item"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760426/lqu9ar68gxc39yqsifee.png" class="logo-img logo-zk" /></div>
@@ -8017,14 +8017,14 @@ And a hundred little moments that stayed with us long after the camera went down
   
   
   <img data-stretch="false"
-  src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760417/umai3csbz5rsxjoexa1l.svg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760417/umai3csbz5rsxjoexa1l.svg"
-  data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760417/umai3csbz5rsxjoexa1l.svg"
+  src="/images/orisha-post.png" data-src="/images/orisha-post.png"
+  data-image="/images/orisha-post.png"
   data-image-dimensions="1597x424"
   data-image-focal-point="0.5,0.5"
   data-sqsp-image-block-image
   alt="Silhouette of a person jumping with arms raised in front of a gradient background."
   data-licensed-asset-preview="false"
-  data-load="true" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760417/umai3csbz5rsxjoexa1l.svg" width="1597" height="424" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 16.67vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
+  data-load="true" elementtiming="system-image-block" src="/images/orisha-post.png" width="1597" height="424" alt="" sizes="auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 16.67vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);"   decoding="async" >
   
     
   
