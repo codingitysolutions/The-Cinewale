@@ -839,10 +839,10 @@ document.addEventListener('DOMContentLoaded', function() {
   box-sizing: border-box !important;
 }
 
-/* Desktop: 5 columns like the screenshot */
+/* Desktop: 6 columns like the screenshot */
 @media (min-width: 768px) {
   .sqs-block-instagram .sqs-gallery {
-    grid-template-columns: repeat(5, 1fr) !important;
+    grid-template-columns: repeat(6, 1fr) !important;
   }
 }
 
@@ -851,7 +851,7 @@ document.addEventListener('DOMContentLoaded', function() {
   position: relative !important;
   width: 100% !important;
   height: auto !important;
-  aspect-ratio: 1 / 1 !important; /* 4:5 vertical aspect ratio matching original */
+  aspect-ratio: 4 / 5 !important; /* 4:5 vertical aspect ratio matching original */
   top: auto !important;
   left: auto !important;
   transform: none !important;
@@ -6036,10 +6036,10 @@ header.header.header-is-scrolled {
 
 
   <style>
-  /* 5-Column Vertical Grid Layout for Instagram */
+  /* 6-Column Vertical Grid Layout for Instagram */
   #block-cb30cac92a1439901d45 .sqs-gallery {
       display: grid !important;
-      grid-template-columns: repeat(5, 1fr) !important;
+      grid-template-columns: repeat(6, 1fr) !important;
       gap: 2px !important;
       max-width: 100% !important;
       margin: 0 auto !important;
@@ -6059,7 +6059,7 @@ header.header.header-is-scrolled {
       clear: none !important;
       padding: 0 !important;
       margin: 0 !important;
-      aspect-ratio: 1 / 1 !important;
+      aspect-ratio: 4 / 5 !important;
       overflow: hidden !important;
   }
   #block-cb30cac92a1439901d45 .margin-wrapper {
@@ -6655,6 +6655,385 @@ Naina &amp;amp; Ryan&amp;rsquo;s Canadian-Hindu wedding at Willow Lane Barn was 
 
         
           
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    data-title=""
+                    data-description="We&amp;rsquo;re delighted to be featured in @travelandleisureindia  for Vishal and Dhwani&amp;rsquo;s wedding, a celebration that carried us from the serene, glassy turtle caves of Zanzibar to the fairy-light-adorned evenings of Dar es Salaam. 
+
+Being part of their journey was more than photography, it was a privilege to witness two hearts and two families coming together, and to capture the magic of a love that stretches across oceans.
+
+Planner : @auraeventplanners 
+Makeup : @shivanijaiswalmakeup 
+
+Read the full story: https://www.travelandleisureasia.com/in/weddings-and-honeymoons/these-wedding-destinations-are-miles-from-ordinary-and-the-perfect-places-to-beat-the-noise/"
+                    
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760406/oc0lgf5urdoqcdmhpldf.jpg"
+                    role="button"
+                  
+                  
+                    aria-label=""
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      custom-lightbox-opener
+                    
+                    content-fill
+                  "
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" alt="We&amp;rsquo;re delighted to be featured in @travelandleisureindia  for Vishal and Dhwani&amp;rsquo;s wedding, a celebration that carried us from the serene, glassy turtle caves of Zanzibar to the fairy-light-adorned evenings of Dar es Salaam. 
+
+Being part o" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760406/oc0lgf5urdoqcdmhpldf.jpg" data-image-dimensions="1440x1920" data-image-focal-point="0.5,0.5" alt="We&amp;rsquo;re delighted to be featured in @travelandleisureindia  for Vishal and Dhwani&amp;rsquo;s wedding, a celebration that carried us from the serene, glassy turtle caves of Zanzibar to the fairy-light-adorned evenings of Dar es Salaam. 
+
+Being part o" data-load="false" data-image-id="69a685694ae8060e0ffe78b3" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide" data-type="video" data-animation-role="image">
+              <div class="margin-wrapper">
+                <div
+                  class="
+                    content-wrapper
+                    content-fill
+                    
+                      video-lightbox-wrapper
+                      custom-lightbox-opener
+                    
+                  "
+                  
+                    data-title=""
+                    data-description="Four years to the day, and this entry still feels just as fresh to us. ✨
+
+The pause before she steps in, the way every eye turns, that gaze, that smile. 💫💖 A moment full of emotion and magic. These are not just frames we captured, but memories we carry with us. 🤍"
+                    
+                    tabindex="0"
+                    role="button"
+                  
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DUk_iHiiOKu/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760405/iaj7kvhq1svjntolc70y.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760405/iaj7kvhq1svjntolc70y.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760405/iaj7kvhq1svjntolc70y.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide" data-type="video" data-animation-role="image">
+              <div class="margin-wrapper">
+                <div
+                  class="
+                    content-wrapper
+                    content-fill
+                    
+                      video-lightbox-wrapper
+                      custom-lightbox-opener
+                    
+                  "
+                  
+                    data-title=""
+                    data-description="From holding her hand through every little step, to finding the strength to let it go.
+
+A parent&amp;rsquo;s love learns to stand back, to trust the world with its heart, and to watch a daughter walk forward carrying all the love she&amp;rsquo;s ever known."
+                    
+                    tabindex="0"
+                    role="button"
+                  
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DUVdX7KCDpV/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760404/op1dqq5ltb7ntbfgbeee.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760404/op1dqq5ltb7ntbfgbeee.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760404/op1dqq5ltb7ntbfgbeee.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide" data-type="video" data-animation-role="image">
+              <div class="margin-wrapper">
+                <div
+                  class="
+                    content-wrapper
+                    content-fill
+                    
+                      video-lightbox-wrapper
+                      custom-lightbox-opener
+                    
+                  "
+                  
+                    data-title=""
+                    data-description="Dreamy is what we call it ✨
+
+Shot by @epicstories.in"
+                    
+                    tabindex="0"
+                    role="button"
+                  
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DT7hEyCCKup/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760404/xjjd5hmvx4ba3mktglk4.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760404/xjjd5hmvx4ba3mktglk4.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760404/xjjd5hmvx4ba3mktglk4.jpg" data-image-dimensions="720x1280" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    data-title=""
+                    data-description="Been wanting to share these for a long time.
+Couldn&amp;rsquo;t find the right moment&amp;hellip; so I thought, why not now, before it feels too late.
+
+Monica and Nate at Giraffe Manor.
+A place I had dreamt of visiting for years, and somehow life brought us here to tell their story.
+Quiet mornings, gentle chaos, giraffes peeking in, and two people completely lost in each other.
+
+Some weddings don&amp;rsquo;t shout.
+They just stay with you.
+
+This one will always have our heart.
+
+Wedding planner @auraeventplanners
+Shot by @s.s_das @himanshu_epic
+Styled by amazing @bridelanindia @nishakundnani"
+                    
+                    href="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg"
+                    role="button"
+                  
+                  
+                    aria-label=""
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      custom-lightbox-opener
+                    
+                    content-fill
+                  "
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" alt="Been wanting to share these for a long time.
+Couldn&amp;rsquo;t find the right moment&amp;hellip; so I thought, why not now, before it feels too late.
+
+Monica and Nate at Giraffe Manor.
+A place I had dreamt of visiting for years, and somehow life brought us " /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760403/ej0rpzgqmhu8nbhd8bdn.jpg" data-image-dimensions="1440x1919" data-image-focal-point="0.5,0.5" alt="Been wanting to share these for a long time.
+Couldn&amp;rsquo;t find the right moment&amp;hellip; so I thought, why not now, before it feels too late.
+
+Monica and Nate at Giraffe Manor.
+A place I had dreamt of visiting for years, and somehow life brought us " data-load="false" data-image-id="69a685694ae8060e0ffe78b7" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide" data-type="video" data-animation-role="image">
+              <div class="margin-wrapper">
+                <div
+                  class="
+                    content-wrapper
+                    content-fill
+                    
+                      video-lightbox-wrapper
+                      custom-lightbox-opener
+                    
+                  "
+                  
+                    data-title=""
+                    data-description="Part - 3 
+
+&amp;ldquo;Poorane zamaane ki shaadi&amp;rdquo; was a thoughtful idea first conceptualised by the couple&amp;rsquo;s families. They wanted to do something truly different, something that didn&amp;rsquo;t just look beautiful, but felt deeply rooted, nostalgic, and full of soul.
+Every element came from their vision. From old-style tents bursting with bright colours, to guests dressed in retro silhouettes, the charm of a traditional band&amp;ndash;baaja&amp;ndash;baaraat, and music layered with depth and emotion, this celebration was entirely imagined and planned by the bride and groom&amp;rsquo;s family. A Sufi night was always integral to their idea, and Bismil felt like a natural fit, perfectly aligned with the mood they wanted to create.
+When they shared the vision with us, we were instantly drawn to it. We live for clients who trust the process and are open to creative exploration.
+
+What followed were multiple internal discussions, brainstorming how best to translate their vision on screen, scripting conversations, sourcing vintage lenses to bring in an old-world texture, and planning frames that felt lived-in rather than staged. Every choice from what we&amp;rsquo;d cover to how we&amp;rsquo;d pace the story and shape the voice-over was made with intention.
+
+What you&amp;rsquo;re watching now is the result of countless conversations with the family, deep creative collaboration within the team, several rounds of edits, and a shared belief in the story being told.
+
+Planned by @perfexionevents 
+Design and Execution - @altair_decor"
+                    
+                    tabindex="0"
+                    role="button"
+                  
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSxFUjeCK2P/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760402/wbsitaqd1u8xkbzzf1sv.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760402/wbsitaqd1u8xkbzzf1sv.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760402/wbsitaqd1u8xkbzzf1sv.jpg" data-image-dimensions="640x1136" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide" data-type="video" data-animation-role="image">
+              <div class="margin-wrapper">
+                <div
+                  class="
+                    content-wrapper
+                    content-fill
+                    
+                      video-lightbox-wrapper
+                      custom-lightbox-opener
+                    
+                  "
+                  
+                    data-title=""
+                    data-description="One hour.
+Udaipur.
+Shifa and Shafeen.
+And a hundred little moments that stayed with us long after the camera went down."
+                    
+                    tabindex="0"
+                    role="button"
+                  
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSrPHpuiKBl/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760401/lyxw1y7riiijjansrlpe.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760401/lyxw1y7riiijjansrlpe.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760401/lyxw1y7riiijjansrlpe.jpg" data-image-dimensions="720x1280" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+
+          
+            <div class="slide" data-type="video" data-animation-role="image">
+              <div class="margin-wrapper">
+                <div
+                  class="
+                    content-wrapper
+                    content-fill
+                    
+                      video-lightbox-wrapper
+                      custom-lightbox-opener
+                    
+                  "
+                  
+                    data-title=""
+                    data-description="पुराने जमाने की शादी - 1 
+
+@epicstories.in 
+@_perfectswing_ 
+@mehalkejriwal5
+@altair_decor 
+@perfexionevents"
+                    
+                    tabindex="0"
+                    role="button"
+                  
+                >
+                  
+                    <span class="v6-visually-hidden">View fullsize</span>
+                  
+                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DSrOZzZiKOD/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760399/qjp8hnfmot9t12u4o6e5.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760399/qjp8hnfmot9t12u4o6e5.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760399/qjp8hnfmot9t12u4o6e5.jpg" data-image-dimensions="640x1136" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
+                </div>
+                
+              </div>
+            </div>
+          
+        
+
+      
+    
   </div>
 
   

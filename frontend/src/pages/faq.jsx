@@ -792,10 +792,10 @@ document.addEventListener('DOMContentLoaded', function() {
   box-sizing: border-box !important;
 }
 
-/* Desktop: 5 columns like the screenshot */
+/* Desktop: 6 columns like the screenshot */
 @media (min-width: 768px) {
   .sqs-block-instagram .sqs-gallery {
-    grid-template-columns: repeat(5, 1fr) !important;
+    grid-template-columns: repeat(6, 1fr) !important;
   }
 }
 
@@ -804,7 +804,7 @@ document.addEventListener('DOMContentLoaded', function() {
   position: relative !important;
   width: 100% !important;
   height: auto !important;
-  aspect-ratio: 1 / 1 !important; /* 4:5 vertical aspect ratio matching original */
+  aspect-ratio: 4 / 5 !important; /* 4:5 vertical aspect ratio matching original */
   top: auto !important;
   left: auto !important;
   transform: none !important;
