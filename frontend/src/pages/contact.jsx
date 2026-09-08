@@ -760,10 +760,10 @@ document.addEventListener('DOMContentLoaded', function() {
   box-sizing: border-box !important;
 }
 
-/* Desktop: 6 columns like the screenshot */
+/* Desktop: 5 columns like the screenshot */
 @media (min-width: 768px) {
   .sqs-block-instagram .sqs-gallery {
-    grid-template-columns: repeat(6, 1fr) !important;
+    grid-template-columns: repeat(5, 1fr) !important;
   }
 }
 
