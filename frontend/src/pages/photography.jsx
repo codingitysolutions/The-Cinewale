@@ -4171,7 +4171,7 @@ header.header.header-is-scrolled {
           data-aspect-ratio="3:2"
           
         >
-<img src="/ananya_nilesh/cover_new.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 70%; display: block;" alt="Prajnya & Sasmita" /></div>
+<img src="/ananya_nilesh/cover_new.jpg" style="width: 100%; height: auto; aspect-ratio: 3/2; object-fit: cover; object-position: center 70%; display: block;" alt="Ananya & Nilesh" /></div>
       </div>
   
 
@@ -4192,7 +4192,7 @@ header.header.header-is-scrolled {
             max-width: 50%;
           "
         >
-          <p class="" style="white-space:pre-wrap;">Prajnya &amp; Sasmita</p><p class="" style="white-space:pre-wrap;">A quiet celebration of two hearts finding their rhythm, captured through intimate moments, laughter, and timeless emotions...</p>
+          <p class="" style="white-space:pre-wrap;">Ananya &amp; Nilesh</p><p class="" style="white-space:pre-wrap;">A quiet celebration of two hearts finding their rhythm, captured through intimate moments, laughter, and timeless emotions...</p>
         </div>
       
 
