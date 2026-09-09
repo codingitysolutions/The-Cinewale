@@ -1706,6 +1706,17 @@ footer#footer-sections .page-section {
 
 </style>
 
+
+<style>
+/* Hide video overlay text images on mobile, tablet, and laptop (up to 1024px width) */
+@media (max-width: 1024px) {
+  img[src*="sriram+sahiil+png+small.png"],
+  img[src*="Untitled-1.png"] {
+    display: none !important;
+  }
+}
+</style>
+
 </head>
 
   <body
