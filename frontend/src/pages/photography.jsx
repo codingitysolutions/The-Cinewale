@@ -6145,9 +6145,9 @@ header.header.header-is-scrolled {
 #page-section-62b30007b9b78b76bf541651 {
   transform: translateY(70px) !important;
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   #page-section-62b30007b9b78b76bf541651 {
-    transform: translateY(40px) !important;
+    transform: translateY(20vh) !important;
   }
 }
 </style>
