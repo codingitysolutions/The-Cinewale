@@ -6154,13 +6154,28 @@ header.header.header-is-scrolled {
 
 <style>
 
-/* Style the ENQUIRE WITH US button */
+/* Style the ENQUIRE WITH US button consistently across all devices */
 #block-yui_3_17_2_1_1655898140022_6542 a {
   background-color: #791112 !important;
   color: #ffffff !important;
   border: 2px solid #791112 !important;
   transition: none !important;
   opacity: 1 !important;
+  padding: 18px 36px !important;
+  font-size: 14px !important;
+  font-family: 'Poppins', sans-serif !important;
+  letter-spacing: 1.5px !important;
+  font-weight: 500 !important;
+  display: inline-block !important;
+  width: auto !important;
+  text-decoration: none !important;
+}
+/* Ensure the text above the button also matches desktop styling on mobile */
+#block-yui_3_17_2_1_1656170803905_7978 p {
+  font-size: 16px !important;
+  font-family: 'Bodoni Moda', serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 1px !important;
 }
 #block-yui_3_17_2_1_1655898140022_6542 a:hover, #block-yui_3_17_2_1_1655898140022_6542 a:active, #block-yui_3_17_2_1_1655898140022_6542 a:focus {
   background-color: #791112 !important;
