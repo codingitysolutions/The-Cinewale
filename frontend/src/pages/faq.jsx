@@ -5803,13 +5803,23 @@ span.accordion-item__title {
 </style>
 
 <style>
-/* Style the ENQUIRE button */
+/* Center CTA vertically on mobile/tablet */
+@media (max-width: 1024px) {
+  #page-section-62ac501fae630420ccd4b942 {
+    transform: translateY(25vh) !important;
+  }
+}
+
+/* Style the ENQUIRE button consistently across all devices */
 #block-419bcfb7c9efa226bdb1 a {
   background-color: #bb9978 !important;
   color: #ffffff !important;
   border: 2px solid #791112 !important;
   transition: none !important;
   opacity: 1 !important;
+  padding: 18px 36px !important;
+  display: inline-block !important;
+  width: auto !important;
 }
 #block-419bcfb7c9efa226bdb1 a:hover, #block-419bcfb7c9efa226bdb1 a:active, #block-419bcfb7c9efa226bdb1 a:focus {
   background-color: #bb9978 !important;
