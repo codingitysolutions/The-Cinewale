@@ -5210,7 +5210,7 @@ header.header.header-is-scrolled {
   <style>
 /* Add padding to the contact form on mobile and tablet so it matches the desktop layout */
 @media (max-width: 1024px) {
-  #block-a1aa82d32f7cfe27ca17 {
+  #block-a1aa82d32f7cfe27ca17 .form-wrapper {
     padding-left: 6vw !important;
     padding-right: 6vw !important;
   }
