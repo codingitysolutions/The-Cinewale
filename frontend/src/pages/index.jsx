@@ -6328,7 +6328,7 @@ Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="i
         
           
             <div class="slide" data-type="image" data-animation-role="image">
-              <div class="margin-wrapper" style="margin-top: 0 !important;">
+              <div class="margin-wrapper">
                 
                 <a
                   
@@ -6353,7 +6353,7 @@ Styled by : @ekalakhani"
                       custom-lightbox-opener
                     
                     content-fill
-                  " style="padding-bottom: 100% !important; height: auto !important; margin-top: 0 !important;"
+                  " 
                 >
                   
                     <span class="v6-visually-hidden">View fullsize</span>
@@ -6364,13 +6364,13 @@ Celebrating Arjun &amp;amp; Saaniya. 🌸
 Photos and film by @epicstories.in 
 Planned by @eternitybytrinity 
 Decor : @fleurondecor 
-Styled by : @ekalakhani" /></noscript><img src="/wedding_couple.webp" class="thumb-image" elementtiming="system-gallery-block-grid" src="/wedding_couple.webp" data-src="/wedding_couple.webp" data-image="/wedding_couple.webp" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="The Tendulkars.
+Styled by : @ekalakhani" /></noscript><img src="/wedding_couple.webp" class="thumb-image" elementtiming="system-gallery-block-grid" src="/wedding_couple.webp" data-src="/wedding_couple.webp" data-image="/wedding_couple.webp" data-image-dimensions="1440x1861" data-image-focal-point="0.5,0.5" alt="The Tendulkars.
 Celebrating Arjun &amp;amp; Saaniya. 🌸
 
 Photos and film by @epicstories.in 
 Planned by @eternitybytrinity 
 Decor : @fleurondecor 
-Styled by : @ekalakhani" data-load="false" data-image-id="69b3fa65f2afee00c76933c7" data-type="image" style="object-fit: cover !important; object-position: center !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important; position: absolute !important;" />
+Styled by : @ekalakhani" data-load="false" data-image-id="69b3fa65f2afee00c76933c7" data-type="image"  />
                 </a>
                 
               </div>
@@ -6451,7 +6451,7 @@ Grateful to have had the chance to create these portraits " data-load="false" da
         
           
             <div class="slide" data-type="image" data-animation-role="image">
-              <div class="margin-wrapper" style="margin-top: 0 !important;">
+              <div class="margin-wrapper">
                 
                 <a
                   
