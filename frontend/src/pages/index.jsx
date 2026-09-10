@@ -6451,7 +6451,7 @@ Grateful to have had the chance to create these portraits " data-load="false" da
         
           
             <div class="slide" data-type="image" data-animation-role="image">
-              <div class="margin-wrapper">
+              <div class="margin-wrapper" style="margin-top: 0 !important;">
                 
                 <a
                   
@@ -6484,7 +6484,7 @@ Decor and Design : @fleurondecor"
                       custom-lightbox-opener
                     
                     content-fill
-                  " style="padding-bottom: 133.33% !important; height: auto !important;"
+                  " style="padding-bottom: 133.33% !important; height: auto !important; margin-top: 0 !important;"
                 >
                   
                     <span class="v6-visually-hidden">View fullsize</span>
