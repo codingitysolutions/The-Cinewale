@@ -6309,7 +6309,7 @@ Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="i
                       custom-lightbox-opener
                     
                     content-fill
-                  " style="padding-bottom: 133.33% !important; height: auto !important; margin-top: 0 !important;"
+                  " style="padding-bottom: 125.18% !important; height: auto !important; margin-top: 0 !important;"
                 >
                   
                     <span class="v6-visually-hidden">View fullsize</span>
