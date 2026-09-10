@@ -6290,8 +6290,7 @@ Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="i
 
           
             <div class="slide" data-type="image" data-animation-role="image">
-              <div class="margin-wrapper" style="margin-top: 0 !important;">
-                
+              <div class="margin-wrapper">
                 <a
                   
                     data-title=""
@@ -6309,12 +6308,10 @@ Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="i
                       custom-lightbox-opener
                     
                     content-fill
-                  " style="padding-bottom: 125.18% !important; height: auto !important; margin-top: 0 !important;"
+                  "
                 >
-                  
-                    <span class="v6-visually-hidden">View fullsize</span>
-                  
-                  <noscript><img src="/couple_session.webp" alt="Couple session" /></noscript><img src="/couple_session.webp" class="thumb-image" elementtiming="system-gallery-block-grid" src="/couple_session.webp" data-src="/couple_session.webp" data-image="/couple_session.webp" data-image-dimensions="818x1024" data-image-focal-point="0.5,0.5" alt="Couple session" data-load="false" data-image-id="couple_session_id" data-type="image" style="object-fit: cover !important; object-position: center !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important; position: absolute !important;" />
+                  <span class="v6-visually-hidden">View fullsize</span>
+                  <noscript><img src="/couple_session.webp" alt="Couple session" /></noscript><img src="/couple_session.webp" class="thumb-image" elementtiming="system-gallery-block-grid" data-src="/couple_session.webp" data-image="/couple_session.webp" data-image-dimensions="818x1024" data-image-focal-point="0.5,0.5" alt="Couple session" data-load="false" data-image-id="couple_session_id" data-type="image" />
                 </a>
                 
               </div>
@@ -6331,8 +6328,7 @@ Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="i
         
           
             <div class="slide" data-type="image" data-animation-role="image">
-              <div class="margin-wrapper" style="margin-top: 0 !important;">
-                
+              <div class="margin-wrapper">
                 <a
                   
                     data-title=""
@@ -6356,24 +6352,9 @@ Styled by : @ekalakhani"
                       custom-lightbox-opener
                     
                     content-fill
-                  " 
-                 style="padding-bottom: 133.33% !important; height: auto !important; margin-top: 0 !important;">
-                  
-                    <span class="v6-visually-hidden">View fullsize</span>
-                  
-                  <noscript><img src="/wedding_couple.webp" alt="The Tendulkars.
-Celebrating Arjun &amp;amp; Saaniya. 🌸
-
-Photos and film by @epicstories.in 
-Planned by @eternitybytrinity 
-Decor : @fleurondecor 
-Styled by : @ekalakhani" /></noscript><img src="/wedding_couple.webp" class="thumb-image" elementtiming="system-gallery-block-grid" src="/wedding_couple.webp" data-src="/wedding_couple.webp" data-image="/wedding_couple.webp" data-image-dimensions="1440x1861" data-image-focal-point="0.5,0.5" alt="The Tendulkars.
-Celebrating Arjun &amp;amp; Saaniya. 🌸
-
-Photos and film by @epicstories.in 
-Planned by @eternitybytrinity 
-Decor : @fleurondecor 
-Styled by : @ekalakhani" data-load="false" data-image-id="69b3fa65f2afee00c76933c7" data-type="image"   style="object-fit: cover !important; object-position: center !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important; position: absolute !important;" />
+                  ">
+                  <span class="v6-visually-hidden">View fullsize</span>
+                  <noscript><img src="/wedding_couple.webp" alt="The Tendulkars" /></noscript><img src="/wedding_couple.webp" class="thumb-image" elementtiming="system-gallery-block-grid" data-src="/wedding_couple.webp" data-image="/wedding_couple.webp" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="The Tendulkars" data-load="false" data-image-id="69b3fa65f2afee00c76933c7" data-type="image" />
                 </a>
                 
               </div>
