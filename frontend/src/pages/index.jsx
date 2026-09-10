@@ -6311,7 +6311,7 @@ Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="i
                   "
                 >
                   <span class="v6-visually-hidden">View fullsize</span>
-                  <noscript><img src="/couple_session.webp" alt="Couple session" /></noscript><img src="/couple_session.webp" class="thumb-image" elementtiming="system-gallery-block-grid" data-src="/couple_session.webp" data-image="/couple_session.webp" data-image-dimensions="818x1024" data-image-focal-point="0.5,0.5" alt="Couple session" data-load="false" data-image-id="couple_session_id" data-type="image" />
+                  <noscript><img src="/couple_session.webp" alt="Couple session" /></noscript><img src="/couple_session.webp" class="thumb-image" elementtiming="system-gallery-block-grid" data-src="/couple_session.webp" data-image="/couple_session.webp" data-image-dimensions="818x1024" data-image-focal-point="0.5,0.5" alt="Couple session" data-load="false" data-image-id="couple_session_id" data-type="image"  style="object-fit: fill !important; object-position: center !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important; position: absolute !important;" />
                 </a>
                 
               </div>
