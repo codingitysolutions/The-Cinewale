@@ -5839,6 +5839,9 @@ span.accordion-item__title {
   #block-626e64e097bca0eadaed {
     padding-left: 6vw !important;
     padding-right: 6vw !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    max-width: 100vw !important;
   }
 }
 </style>
