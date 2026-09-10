@@ -5213,6 +5213,8 @@ header.header.header-is-scrolled {
   #block-a1aa82d32f7cfe27ca17 .form-wrapper {
     padding-left: 6vw !important;
     padding-right: 6vw !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
   }
 }
 </style>
