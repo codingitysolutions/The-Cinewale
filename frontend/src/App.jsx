@@ -21,6 +21,7 @@ import AdminSubscribers from './admin/AdminSubscribers.jsx';
 import AdminTeam from './admin/AdminTeam.jsx';
 import AdminProfile from './admin/AdminProfile.jsx';
 
+import ComingSoon from './pages/ComingSoon.jsx';
 import AdminLogin from './admin/AdminLogin.jsx';
 
 
@@ -49,6 +50,12 @@ function RouteInterceptor({ children }) {
 }
 
 function App() {
+  
+  const isComingSoon = true;
+  if (isComingSoon && !window.location.pathname.startsWith('/admin')) {
+    return <ComingSoon />;
+  }
+
   return (
     <BrowserRouter>
       <RouteInterceptor>
