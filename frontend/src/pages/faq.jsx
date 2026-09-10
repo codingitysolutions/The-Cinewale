@@ -5833,6 +5833,15 @@ span.accordion-item__title {
 /* Aggressive FAQ Font Override */
 .accordion-item__title-wrapper, .accordion-item__title, .accordion-item__description, .accordion-item__description p, .accordion-item__description span, .sqs-block-accordion, .sqs-block-accordion * { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
 </style>
+<style>
+/* Add padding to the FAQ accordion on mobile and tablet so it matches the desktop layout */
+@media (max-width: 1024px) {
+  #block-626e64e097bca0eadaed {
+    padding-left: 6vw !important;
+    padding-right: 6vw !important;
+  }
+}
+</style>
 </body>
 
 </html>
