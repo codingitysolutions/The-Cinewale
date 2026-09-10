@@ -6461,7 +6461,7 @@ Wedding Planner : @eternitybytrinity
 
 Decor and Design : @fleurondecor"
                     
-                    href="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760409/dqgxo39wa27ltb4eekiu.jpg"
+                    href="/sasmita_magazine.jpg"
                     role="button"
                   
                   
@@ -6478,10 +6478,10 @@ Decor and Design : @fleurondecor"
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760409/dqgxo39wa27ltb4eekiu.jpg" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
+                  <noscript><img src="/sasmita_magazine.jpg" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
 So many smiles, so many emotions, and so many moments that will live on forever through these photographs.
 
-Our heartfelt thanks to the Tendulkar and Chandok families for the warmth" /></noscript><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760409/dqgxo39wa27ltb4eekiu.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760409/dqgxo39wa27ltb4eekiu.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760409/dqgxo39wa27ltb4eekiu.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760409/dqgxo39wa27ltb4eekiu.jpg" data-image-dimensions="1440x1888" data-image-focal-point="0.5,0.5" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
+Our heartfelt thanks to the Tendulkar and Chandok families for the warmth" /></noscript><img src="/sasmita_magazine.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/sasmita_magazine.jpg" data-src="/sasmita_magazine.jpg" data-image="/sasmita_magazine.jpg" data-image-dimensions="1440x1888" data-image-focal-point="0.5,0.5" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
 So many smiles, so many emotions, and so many moments that will live on forever through these photographs.
 
 Our heartfelt thanks to the Tendulkar and Chandok families for the warmth" data-load="false" data-image-id="69a9b2a6b034f562fd529e37" data-type="image" />
