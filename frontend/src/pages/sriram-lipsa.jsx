@@ -3073,7 +3073,7 @@ header.header.header-is-scrolled {
         
                     <div data-controller="VideoBackgroundNative">
             <div class="sqs-video-background-native content-fill" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
-              <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; transform: scale(1.35);">
+              <video preload="auto" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; transform: scale(1.35);">
                 <source src="https://res.cloudinary.com/nmv4tzev/video/upload/export.mp4" type="video/mp4">
               </video>
             </div>
@@ -3211,7 +3211,7 @@ header.header.header-is-scrolled {
                 
                 
                 
-                <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w" data-image="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w" data-image-dimensions="1575x284" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w" width="1575" height="284" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w" data-src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w" data-image="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w" data-image-dimensions="1575x284" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" data-sqsp-image-classic-block-image src="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w" width="1575" height="284" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/62838fda1d80b676079fcce4/d4fcf92a-a83f-4e30-8a4f-fe879bd4882f/sriram+sahiil+png+small.png?format=2500w 2500w" loading="eager" decoding="async" data-loader="sqs">
 
             </div>
           </div>
@@ -3906,60 +3906,60 @@ header.header.header-is-scrolled {
     <!-- Gallery Masonry --><div class="custom-beautiful-grid" style="margin: 0 auto; padding: 0;">
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/sriram_lipsa/SS103361.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS103361.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/sriram_lipsa/SS103415.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS103415.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/sriram_lipsa/SS103659.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS103659.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/sriram_lipsa/SS103692.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS103692.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/sriram_lipsa/SS104197.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
-    </div>
-  </div>
-  <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
-    <div style="width: 100%;">
-      <img src="/sriram_lipsa/SS104270.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
-    <div style="width: 100%;">
-      <img src="/sriram_lipsa/SS104280.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
-  </div>
-  <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
-    <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/sriram_lipsa/SS104467.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS104197.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/sriram_lipsa/SS104635.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS104270.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/sriram_lipsa/SS104172.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS104280.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/sriram_lipsa/SS104675.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
-    </div>
-  </div>
-  <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
-    <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/sriram_lipsa/SS104770.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
-    </div>
-  </div>
-  <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
-    <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/sriram_lipsa/SS104827.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/sriram_lipsa/SS104467.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/sriram_lipsa/SS104131.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/sriram_lipsa/SS104635.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
+    <div style="width: 100%;">
+      <img src="/sriram_lipsa/SS104172.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
+  </div>
+  <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
+    <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
+      <img src="/sriram_lipsa/SS104675.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
+    </div>
+  </div>
+  <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
+    <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
+      <img src="/sriram_lipsa/SS104770.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
+    </div>
+  </div>
+  <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
+    <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
+      <img src="/sriram_lipsa/SS104827.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
+    </div>
+  </div>
+  <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
+    <div style="width: 100%;">
+      <img src="/sriram_lipsa/SS104131.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
 </div>
 
@@ -4075,7 +4075,7 @@ header.header.header-is-scrolled {
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="eager" decoding="async" data-loader="sqs">
   
     
   
@@ -5370,7 +5370,7 @@ header.header.header-is-scrolled {
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="eager" decoding="async" data-loader="sqs">
   
     
   

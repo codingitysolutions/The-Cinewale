@@ -3123,7 +3123,7 @@ header.header.header-is-scrolled {
 >
   
 
-  <div class="sqs-video-background-native__video-player"><video src="https://res.cloudinary.com/nmv4tzev/video/upload/Ananya_Nilesh_Video_for_Wbesite_1.mp4" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0; transform: scale(1.35);"></video></div>
+  <div class="sqs-video-background-native__video-player"><video preload="auto" src="https://res.cloudinary.com/nmv4tzev/video/upload/Ananya_Nilesh_Video_for_Wbesite_1.mp4" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; z-index: 0; transform: scale(1.35);"></video></div>
 </div>
 
           </div>
@@ -4139,109 +4139,109 @@ header.header.header-is-scrolled {
     <!-- Gallery Masonry --><div class="custom-beautiful-grid" style="margin: 0 auto; padding: 0;">
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/ananya_nilesh/SR502970.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/ananya_nilesh/SR502970.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR502972.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR502972.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR502975.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR502975.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/ananya_nilesh/SR502976.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/ananya_nilesh/SR502976.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR502987.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR502987.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR502991.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR502991.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/ananya_nilesh/SR503046.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/ananya_nilesh/SR503046.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503052.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503052.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503058.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503058.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/ananya_nilesh/SR503069.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/ananya_nilesh/SR503069.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503070.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503070.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503078.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503078.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/ananya_nilesh/SR503089.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/ananya_nilesh/SR503089.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503094.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503094.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503097.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503097.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/ananya_nilesh/SR503098.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/ananya_nilesh/SR503098.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503099.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503099.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503103.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503103.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503105.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503105.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503106.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503106.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503119.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503119.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503122.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503122.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503127.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503127.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503128.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503128.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503131.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503131.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503138.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503138.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503143.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503143.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503149.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503149.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503120.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503120.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503163.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503163.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/ananya_nilesh/SR503148.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/ananya_nilesh/SR503148.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
 </div>
 
@@ -4805,7 +4805,7 @@ header.header.header-is-scrolled {
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="eager" decoding="async" data-loader="sqs">
   
     
   

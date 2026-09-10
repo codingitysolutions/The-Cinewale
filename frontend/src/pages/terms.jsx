@@ -3469,7 +3469,7 @@ header.header.header-is-scrolled {
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="eager" decoding="async" data-loader="sqs">
   
     
   

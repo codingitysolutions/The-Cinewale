@@ -3061,7 +3061,7 @@ header.header.header-is-scrolled {
         
                     <div data-controller="VideoBackgroundNative">
             <div class="sqs-video-background-native content-fill" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
-              <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; transform: scale(1.35);">
+              <video preload="auto" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none; transform: scale(1.35);">
                 <source src="https://res.cloudinary.com/nmv4tzev/video/upload/Naba_Export.mp4" type="video/mp4">
               </video>
             </div>
@@ -3678,59 +3678,59 @@ header.header.header-is-scrolled {
     <!-- Gallery Masonry --><div class="custom-beautiful-grid" style="margin: 0 auto; padding: 0;">
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0262.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0262.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/naba_nisitha/_L0A0609.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/naba_nisitha/_L0A0609.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/naba_nisitha/_L0A0377.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/naba_nisitha/_L0A0377.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0470.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0470.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="vertical-row" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 20px; background-color: #BB9978; padding: 25px 5%; box-sizing: border-box;">
     <div style="width: 100%;">
-      <img src="/naba_nisitha/_L0A0481.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/naba_nisitha/_L0A0481.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
     <div style="width: 100%;">
-      <img src="/naba_nisitha/_L0A0517.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Vertical" /></div>
+      <img src="/naba_nisitha/_L0A0517.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Vertical" /></div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0591.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0591.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0620.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0620.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0683.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0683.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0694-Edit.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0694-Edit.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0704.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0704.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0709-Edit.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0709-Edit.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
   <div class="horizontal-row" style="display: flex; flex-direction: column; margin-bottom: 20px;">
     <div style="background-color: #BB9978; padding: 25px 5%; box-sizing: border-box; width: 100%;">
-      <img src="/naba_nisitha/_L0A0821.jpg" style="width: 100%; height: auto; display: block;" loading="lazy" alt="Gallery Horizontal" />
+      <img src="/naba_nisitha/_L0A0821.jpg" style="width: 100%; height: auto; display: block;" loading="eager" alt="Gallery Horizontal" />
     </div>
   </div>
 </div>
@@ -3847,7 +3847,7 @@ header.header.header-is-scrolled {
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="eager" decoding="async" data-loader="sqs">
   
     
   
@@ -5142,7 +5142,7 @@ header.header.header-is-scrolled {
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="eager" decoding="async" data-loader="sqs">
   
     
   

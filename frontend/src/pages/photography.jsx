@@ -3065,7 +3065,7 @@ header.header.header-is-scrolled {
         
           <div data-controller="VideoBackgroundNative">
             <div class="sqs-video-background-native content-fill" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
-              <video autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none;">
+              <video preload="auto" autoplay loop muted playsinline style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; pointer-events: none;">
                 <source src="https://res.cloudinary.com/nmv4tzev/video/upload/f_auto,q_auto/v1787760153/gf6u6ykp7mu85xymuoza.mp4" type="video/mp4">
               </video>
             </div>
@@ -4489,7 +4489,7 @@ header.header.header-is-scrolled {
 
 
 
-<img alt="" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="H+B BLOG 126 HIM02212.jpg" data-load="false" elementtiming="nbf-background" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" width="1920" height="1280" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 100w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 300w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 500w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 750w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 1000w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 1500w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
+<img alt="" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-image="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="H+B BLOG 126 HIM02212.jpg" data-load="false" elementtiming="nbf-background" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg" width="1920" height="1280" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 100w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 300w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 500w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 750w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 1000w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 1500w, https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760158/tlidjy7bjzkajtycgmru.jpg 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
 
 
 
@@ -5231,7 +5231,7 @@ header.header.header-is-scrolled {
   data-sqsp-image-block-image
   alt=""
   data-licensed-asset-preview="false"
-  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+  data-load="false" elementtiming="system-image-block" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760085/pchdisakawnw1blxhfha.png" width="1024" height="341" alt="" sizes="auto, 100vw" style="display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);" srcset="footer_logo.png 100w, footer_logo.png 300w, footer_logo.png 500w, footer_logo.png 750w, footer_logo.png 1000w, footer_logo.png 1500w, footer_logo.png 2500w" loading="eager" decoding="async" data-loader="sqs">
   
     
   
