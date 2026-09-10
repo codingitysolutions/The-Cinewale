@@ -6436,7 +6436,6 @@ Grateful to have had the chance to create these portraits " data-load="false" da
           
             <div class="slide" data-type="image" data-animation-role="image">
               <div class="margin-wrapper">
-                
                 <a
                   
                     data-title=""
@@ -6468,18 +6467,10 @@ Decor and Design : @fleurondecor"
                       custom-lightbox-opener
                     
                     content-fill
-                  " style="padding-bottom: 133.33% !important; height: auto !important; margin-top: 0 !important;"
+                  "
                 >
-                  
-                    <span class="v6-visually-hidden">View fullsize</span>
-                  
-                  <noscript><img src="/sasmita_magazine.jpg" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
-So many smiles, so many emotions, and so many moments that will live on forever through these photographs.
-
-Our heartfelt thanks to the Tendulkar and Chandok families for the warmth" /></noscript><img src="/sasmita_magazine.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" src="/sasmita_magazine.jpg" style="object-fit: cover !important; object-position: top !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important; position: absolute !important;" data-src="/sasmita_magazine.jpg" data-image="/sasmita_magazine.jpg" data-image-dimensions="1440x1888" data-image-focal-point="0.5,0.5" alt="What a beautiful few days it has been celebrating Arjun and Saaniya.
-So many smiles, so many emotions, and so many moments that will live on forever through these photographs.
-
-Our heartfelt thanks to the Tendulkar and Chandok families for the warmth" data-load="false" data-image-id="69a9b2a6b034f562fd529e37" data-type="image" />
+                  <span class="v6-visually-hidden">View fullsize</span>
+                  <noscript><img src="/sasmita_magazine.jpg" alt="Sasmita Magazine" /></noscript><img src="/sasmita_magazine.jpg" class="thumb-image" elementtiming="system-gallery-block-grid" data-src="/sasmita_magazine.jpg" data-image="/sasmita_magazine.jpg" data-image-dimensions="1440x1888" data-image-focal-point="0.5,0.5" alt="Sasmita Magazine" data-load="false" data-image-id="sasmita_id" data-type="image"  style="object-position: 50% 60px !important; object-fit: cover !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important; position: absolute !important;" />
                 </a>
                 
               </div>
