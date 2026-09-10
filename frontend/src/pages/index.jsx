@@ -6289,30 +6289,33 @@ Every m" data-load="false" data-image-id="69d600ce7f672622e5f1dbf0" data-type="i
           
 
           
-            <div class="slide" data-type="video" data-animation-role="image">
-              <div class="margin-wrapper">
-                <div
-                  class="
-                    content-wrapper
-                    content-fill
-                    
-                      video-lightbox-wrapper
-                      custom-lightbox-opener
-                    
-                  "
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper" style="margin-top: 0 !important;">
+                
+                <a
                   
                     data-title=""
-                    data-description="From her father&amp;rsquo;s love to her father-in-law&amp;rsquo;s promise, every step was a journey between love and legacy. ✨🧿"
+                    data-description="Couple session"
                     
-                    tabindex="0"
+                    href="/couple_session.webp"
                     role="button"
                   
+                  
+                    aria-label=""
+                  
+                  class="
+                    image-slide-anchor
+                    
+                      custom-lightbox-opener
+                    
+                    content-fill
+                  " style="padding-bottom: 133.33% !important; height: auto !important; margin-top: 0 !important;"
                 >
                   
                     <span class="v6-visually-hidden">View fullsize</span>
                   
-                  <div class="sqs-video-wrapper" data-html="&lt;iframe frameborder=&quot;0&quot; height=&quot;710&quot; scrolling=&quot;no&quot; width=&quot;612&quot; allowtransparency=&quot;true&quot; src=&quot;https://www.instagram.com/reel/DWqQ_8lkRvT/embed/&quot;&gt;&lt;/iframe&gt;" data-provider-name=""><div class="sqs-video-overlay" style="opacity: 0;"><img src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760411/lpar4hkfbnu21xwro1nb.jpg" data-load="false" src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760411/lpar4hkfbnu21xwro1nb.jpg" data-src="https://res.cloudinary.com/nmv4tzev/image/upload/f_auto,q_auto/v1787760411/lpar4hkfbnu21xwro1nb.jpg" data-image-dimensions="540x960" data-image-focal-point="0.5,0.5" /><div class="sqs-video-opaque"> </div><div class="sqs-video-icon"></div></div></div>
-                </div>
+                  <noscript><img src="/couple_session.webp" alt="Couple session" /></noscript><img src="/couple_session.webp" class="thumb-image" elementtiming="system-gallery-block-grid" src="/couple_session.webp" data-src="/couple_session.webp" data-image="/couple_session.webp" data-image-dimensions="818x1024" data-image-focal-point="0.5,0.5" alt="Couple session" data-load="false" data-image-id="couple_session_id" data-type="image" style="object-fit: cover !important; object-position: center !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important; position: absolute !important;" />
+                </a>
                 
               </div>
             </div>
