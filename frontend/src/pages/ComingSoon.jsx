@@ -32,21 +32,15 @@ function ComingSoon() {
         margin: '0 auto 30px'
       }}></div>
       <h2 style={{
-        fontSize: '1.2rem',
-        fontWeight: '300',
-        letterSpacing: '2px',
-        marginBottom: '15px'
+        fontFamily: '"Playfair Display", serif',
+        fontSize: '4rem',
+        fontWeight: 'normal',
+        letterSpacing: '8px',
+        textTransform: 'uppercase',
+        color: '#ffffff'
       }}>
-        Something beautiful is in the works.
+        Coming Soon
       </h2>
-      <p style={{
-        fontSize: '0.9rem',
-        color: '#888',
-        maxWidth: '400px',
-        lineHeight: '1.6'
-      }}>
-        We are currently upgrading our portfolio to bring you a more cinematic experience. We'll be back online shortly.
-      </p>
     </div>
   );
 }
