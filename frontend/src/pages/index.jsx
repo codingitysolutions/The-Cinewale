@@ -32,6 +32,16 @@ export default function Films() {
             const img = a.querySelector("img");
             if (img) href = img.getAttribute("src") || img.getAttribute("data-src");
         }
+        // Ensure absolute URL to prevent third-party scripts from crashing on relative paths
+        if (href && href.startsWith('/')) {
+            href = window.location.origin + href;
+            a.setAttribute("href", href);
+            const img = a.querySelector("img");
+            if (img) {
+                if (img.hasAttribute("data-image")) img.setAttribute("data-image", href);
+                if (img.hasAttribute("data-src")) img.setAttribute("data-src", href);
+            }
+        }
         return href;
     });
 
@@ -40,11 +50,12 @@ export default function Films() {
     openers.forEach((opener, index) => {
         const handler = function(e) {
             e.preventDefault();
+            e.stopImmediatePropagation();
             currentIndex = index;
             showImage(currentIndex);
             lightbox.style.display = "flex";
         };
-        opener.addEventListener("click", handler);
+        opener.addEventListener("click", handler, true);
         clickHandlers.push({opener, handler});
     });
 
@@ -68,7 +79,7 @@ export default function Films() {
     lightbox.addEventListener("click", bgHandler);
 
     return () => {
-        clickHandlers.forEach(h => h.opener.removeEventListener("click", h.handler));
+        clickHandlers.forEach(h => h.opener.removeEventListener("click", h.handler, true));
         closeBtn.removeEventListener("click", closeHandler);
         prevBtn.removeEventListener("click", prevHandler);
         nextBtn.removeEventListener("click", nextHandler);
